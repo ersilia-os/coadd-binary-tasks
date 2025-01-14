@@ -1,5 +1,5 @@
-data/CO-ADD_InhibitionData_r03_01-02-2020_CSV.csv filter=lfs diff=lfs merge=lfs -text
-data/CO-ADD_DoseResponseData_r03_01-02-2020_CSV.csv filter=lfs diff=lfs merge=lfs -text
+data/coadd/CO-ADD_InhibitionData_r03_01-02-2020_CSV.csv filter=lfs diff=lfs merge=lfs -text
+data/coadd/CO-ADD_DoseResponseData_r03_01-02-2020_CSV.csv filter=lfs diff=lfs merge=lfs -text
 data/spark/ SPARK[[:space:]]Data[[:space:]]-[[:space:]]Terms[[:space:]]of[[:space:]]Use.pdf filter=lfs diff=lfs merge=lfs -text
 data/spark/SPARK[[:space:]]Data[[:space:]]Merck[[:space:]]&[[:space:]]Kyorin[[:space:]]Contribution.csv filter=lfs diff=lfs merge=lfs -text
 data/spark/SPARK[[:space:]]Data[[:space:]]Quave[[:space:]]Lab[[:space:]]{Emory[[:space:]]University}[[:space:]]Publications.csv filter=lfs diff=lfs merge=lfs -text
