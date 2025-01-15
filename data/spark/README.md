@@ -112,7 +112,7 @@ Like the above file, it contains a Curated and an Extracted Section for MIC data
 * 'Extracted & Uploaded MIC Data: MIC (in µM) (µM)'
 * 'Extracted & Uploaded MIC Data: GIC (Growth Inhibition Concentration) (µg/mL)'
 * 'Extracted & Uploaded MIC Data: GIC % Inhibition (%)'
-* 'Curated & Transformed MIC Data: Species'
+* 'Extracted & Uploaded MIC Data: Species'
 Statistics:
 * Total rows: 137572
 * Unique SMILES: 24581
