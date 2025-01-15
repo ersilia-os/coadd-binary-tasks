@@ -183,4 +183,4 @@ def get_binary_dataset(dp, cutoff):
 
 for cutoff in CUTOFFS:
     dr = get_binary_dataset(dp, cutoff)
-    dr.to_csv(os.path.join(processed_dir, pathogen_code + f"_doseresp_{cutoff}um.csv"), index=False)
+    dr.to_csv(os.path.join(processed_dir, pathogen_code + f"_coadd_doseresp_{cutoff}um.csv"), index=False)
