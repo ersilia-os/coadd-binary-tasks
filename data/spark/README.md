@@ -52,11 +52,13 @@ Data is related to three contributed experiments:
 * Novartis GyrAB April 2019 Contribution: high-throughput density-based optical assay that detects bacterial cell growth following treatment with compounds. Results are reported as the compound concentration resulting in 50% growth inhibition compared to the 100% inhibition control. The 50% Growth Inhibitory Concentration (GIC50) was calculated using a dose response curve.
 * Novartis LpxADK Contribution: This is a high-throughput density-based optical assay that detects bacterial cell growth following treatment with compounds. Results are reported as the compound concentration resulting in 50% growth inhibition compared to the 100% inhibition control. The 50% Growth Inhibitory Concentration (GIC50) was calculated using a dose response curve.
 For the GyrAB and LpxADK we need to obtain the values from the GIC (ug/ml) column and for the Efflux panel we will use the MIC (uM). 
+
 Statistics:
 * Total rows: 13757
 * Unique SMILES: 1727
 * Species (MIC):  Acinetobacter baumannii(555)/Burkholderia cepacia(3)/Enterococcus faecalis(862)/Escherichia coli(5469)/Klebsiella pneumoniae(1021)/Neisseria gonorrhoeae(44)/Pseudomonas aeruginosa(3434)Staphylococcus aureus(278)/Streptococcus pneumoniae(1230)/Escherichia coli1(140)/Pseudomonas aeruginosa(25)
 * Species (IC50): Escherichia coli(140)/Pseudomonas aeruginosa(25)
+
 Abaumannii data:
 * Most data comes from the Efflux panel
 * 3 strains (NB48015 (clinical isolate), NB48015-XYL003 (lab isolate), NB48015-XYL005 (lab isolate)). All molecules in the efflux panel have been screened against the three strains, which might differ in some characteristics as for Ampicillin the MIC values are, respectively, 91.6, 22.9, 11.4  uM. To avoid confounding factors only the clinical isolate will be used. All data for Abaumannii is available in MIC uM.
@@ -124,6 +126,9 @@ Statistics:
 * Unique SMILES: 2539
 * Species Curated: Acinetobacter baumannii(51) / Aquifex aeolicus(7) / Caulobacter crescentus(24) / Escherichia coli(1647) / Escherichia coli, Staphylococcus aureus(15) / Francisella tularensis(66) / Haemophilus influenzae(14) / Klebsiella pneumoniae(29) / Mycobacterium tuberculosis(210) / Pseudomonas aeruginosa(990) / Salmonella typhimurium(4) / Staphylococcus aureus(184) / Streptococcus pneumoniae(42)
 * Species Extracted: Acinetobacter baumannii(120) / Aquifex aeolicus(7) / Bacillus subtilis(23) / Citrobacter freundii(1) / Enterobacter cloacae(30) / Enterococcus faecium(30) / Escherichia coli(1842) / Escherichia coli + Staphylococcus aureus(15) / Francisella tularensis(53) / Francisella tularensis subsp. Tularensis(13) / Haemophilus influenzae(14) / Klebsiella pneumoniae(63) / Mycobacterium tuberculosis(124) / Pseudomonas aeruginosa(526) / Staphylococcus aureus(235) / Staphylococcus aureus subsp. aureus(29) / Streptococcus pneumoniae(42)
+Abaumannii data:
+* Data refers to two studies only
+* IC50 indicates inhibition of a specific target (purified). Assayed targets: GyrA, ParE, OXA-24
 
 ### SPARK MIC Data
 The MIC file contains two subsets of data: Curated & Transformed and Extracted & Uploaded. Instead of the actual MIC data, we sometimes have GIC and GIC % Inhibition (Growth Inhibition Concentration and % of inhibition at that concentration) Relevant columns:
