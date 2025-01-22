@@ -214,6 +214,7 @@ print("Total unique datapoints: ", len(set(df_all["smiles"])))
 
 for c in CUTOFFS_CONC:
     df_ = df_all[["smiles", f"mic_{c}um"]]
-    df_.to_csv(os.path.join(processed_dir, f"{pathogen_code}_spark_doseresp_{c}um.csv"))
-
-#TODO: eliminate nons for final files
+    df_= df_[df_[f'mic_{c}um'].notna()]
+    print(f"Final datapoints at cutoff {c} uM: ", len(df_))
+    print("Positives: ", len(df_[df_[f'mic_{c}um']==1]), "Negatives: ", len(df_[df_[f'mic_{c}um']==0]))
+    df_.to_csv(os.path.join(processed_dir, f"{pathogen_code}_spark_doseresp_{c}um.csv"), index=False)
