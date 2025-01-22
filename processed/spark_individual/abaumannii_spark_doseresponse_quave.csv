@@ -1,0 +1,4 @@
+smiles,mic_1um,mic_10um,mic_40um
+C=CC(C)(O)CCC=C(C)C,0,0,1
+O=C(O[C@@H]1Cc2c(O)cc(O)cc2O[C@@H]1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1,0,0,0
+C[n+]1cc2c3c(ccc2c2ccc4cc5c(cc4c21)OCO5)OCO3,0,0,0

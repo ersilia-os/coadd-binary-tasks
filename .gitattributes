@@ -11,3 +11,4 @@ data/spark/SPARK[[:space:]]Accumulation[[:space:]]Data.csv filter=lfs diff=lfs m
 data/spark/SPARK[[:space:]]Data[[:space:]]Achaogen[[:space:]]Contribution.csv filter=lfs diff=lfs merge=lfs -text
 data/spark/SPARK[[:space:]]Data[[:space:]]CO-ADD[[:space:]]Contribution.csv filter=lfs diff=lfs merge=lfs -text
 data/spark/SPARK[[:space:]]Data[[:space:]]Compounds[[:space:]]&[[:space:]]Physicochemical[[:space:]]Properties.csv filter=lfs diff=lfs merge=lfs -text
+data/spark/preprocessed/spark_mic.csv filter=lfs diff=lfs merge=lfs -text
