@@ -1,6 +1,7 @@
 # Added by Ersilia
 dev.ipynb
 .DS_Store
+data/spark/original/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,17 +1,13 @@
 import pandas as pd
 import os
 import sys
-from standardiser import standardise
-from tqdm import tqdm
-from rdkit import Chem
 
-abspath = os.path.abspath(__file__)
-sys.path.append(abspath)
+root = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(root)
 
-from utils import standardise_smiles
+from ..src.utils import standardise_smiles
 
-root = os.path.dirname(abspath)
-data_dir = os.path.abspath(os.path.join(root, '..', 'data'))
+data_dir = os.path.abspath(os.path.join(root, '..', 'data', 'spark'))
 
 spark_files = {'SPARK Accumulation Data.csv': 'spark_accumulation.csv', 
                'SPARK Data Merck & Kyorin Contribution.csv': 'spark_merck.csv', 
@@ -26,11 +22,11 @@ spark_files = {'SPARK Accumulation Data.csv': 'spark_accumulation.csv',
 
 for k,v in spark_files.items():
     print(k)
-    df = pd.read_csv(os.path.join(data_dir, "spark",  k))
+    df = pd.read_csv(os.path.join(data_dir, k))
     df1 = df[df["SMILES"].notna()]
     df2 = standardise_smiles(df1, "SMILES")
     df2 = df2.drop(columns=["SMILES", " SPARK Data Downloads"]+[col for col in df2.columns if "Terms of Use" in col])
     df2 = df2.rename(columns={"std_smiles": "smiles"})
     df2 = df2.dropna(axis=1, how='all')
     print("Initial compounds: ", len(df), "No SMILES: ", len(df) - len(df1), "Non standardised: ", len(df1)-len(df2))
-    df2.to_csv(os.path.join(data_dir, "spark", "preprocessed",v), index=False)
+    df2.to_csv(os.path.join(data_dir, "preprocessed",v), index=False)
