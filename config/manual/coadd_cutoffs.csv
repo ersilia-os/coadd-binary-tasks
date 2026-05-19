@@ -1,0 +1,12 @@
+assay_type,value_group,unit,n_compounds,transformation,cutoff_low,cutoff_mid,cutoff_high,direction
+inhib,20 uM,%,1100,,50,75,90,1
+inhib,25 uM,%,1700,,50,75,90,1
+inhib,300 ug/mL,%,18005,,50,75,90,1
+inhib,32 ug/mL,%,76466,,50,75,90,1
+inhib,32 ug/mL; 32 ug/mL,%,119,,50,75,90,1
+inhib,32 ug/mL; 51.2 ug/mL,%,1861,,50,75,90,1
+inhib,32 ug/mL; 64 ug/mL,%,1861,,50,75,90,1
+inhib,64 ug/mL,%,353,,50,75,90,1
+inhib,80 ug/mL,%,954,,50,75,90,1
+mic,uM,uM,1082,,50,25,10,-1
+mic,ug/mL,ug/mL,3687,*1000/MW,50,25,10,-1

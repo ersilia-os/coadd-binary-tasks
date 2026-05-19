@@ -1,0 +1,30 @@
+ORGANISM,STRAIN,inhib_n_compounds,mic_n_compounds
+Acinetobacter baumannii,ATCC 19606,100055.0,4758.0
+Acinetobacter baumannii,BAA-1605,,49.0
+Acinetobacter baumannii,CI; Metallo Oxa; R(pPept),,23.0
+Bacillus subtilis,ATCC 6051,,150.0
+Candida albicans,ATCC 90028,82026.0,4561.0
+Candida auris,JCM 15448;DSM 21092; CBS 10913,,10.0
+Candida glabrata,ATCC 90030,,109.0
+Candida tropicalis,ATCC 750,,109.0
+Cryptococcus deuterogattii,CBS 7750,,108.0
+Cryptococcus gattii ,ATCC 32609,,109.0
+Cryptococcus neoformans,ATCC 208821; H99,82026.0,4561.0
+Enterococcus faecalis,VanA,,10.0
+Enterococcus faecium,ATCC 51559; MR,,72.0
+Escherichia coli,ATCC 25922,82080.0,4558.0
+Escherichia coli,HS73; CTX-M,,23.0
+Escherichia coli,lpxC; MB4902,80621.0,48.0
+Escherichia coli,tolC; MB5747,73744.0,57.0
+Klebsiella pneumoniae,ATCC 13883,,28.0
+Klebsiella pneumoniae,ATCC 700603; MDR,82078.0,4558.0
+Klebsiella pneumoniae,ATCC BAA-2146; NDM-1,,28.0
+Pseudomonas aeruginosa,ATCC 27853,100057.0,4753.0
+Pseudomonas aeruginosa,FADDI-PA070; R(PolB),,28.0
+Pseudomonas aeruginosa,PAO1,1760.0,
+Pseudomonas aeruginosa,PAO397; PAO1 d(mexAB-oprM) d(mexCD-oprJ) d(mexEF-oprN) d(mexJKL) d(mexXY) d(opmH) d(pscC),32392.0,925.0
+Staphylococcus aureus,ATCC 43300; MRSA,82079.0,4562.0
+Staphylococcus aureus,NRS 1; Mu50; ATCC 700699,,10.0
+Staphylococcus aureus,NRS17; GISA,,99.0
+Staphylococcus aureus,VRS1,,150.0
+Streptococcus pneumoniae,ATCC 700677,,150.0

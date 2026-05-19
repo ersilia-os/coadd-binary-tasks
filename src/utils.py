@@ -1,5 +1,6 @@
 from tqdm import tqdm
 from rdkit import Chem
+from rdkit.Chem import Descriptors
 import numpy as np
 from standardiser import standardise
 import collections
@@ -18,41 +19,64 @@ def standardise_smiles(df, smi_col):
     return df
 
 def extract_operator(v):
-    v = str(v)
+    """Return the comparison operator prefix of a censored value string.
+
+    Handles >=, <=, >, <, = prefixes and bare numbers (treated as =).
+    Returns one of '=', '>', '<', or None if the string is unparseable.
+    Also returns the remainder string with the operator stripped.
+
+    Examples:
+        '>64'   -> ('>', '64')
+        '<=0.5' -> ('<', '0.5')
+        '32'    -> ('=', '32')
+    """
+    s = str(v).strip()
+    if s.startswith(">="):
+        return ">", s[2:]
+    if s.startswith("<="):
+        return "<", s[2:]
+    if s.startswith(">"):
+        return ">", s[1:]
+    if s.startswith("<"):
+        return "<", s[1:]
+    if s.startswith("="):
+        return "=", s[1:]
+    return "=", s
+
+
+def parse_numeric(val_str):
+    """Parse a censored numeric string and return (operator, value).
+
+    Returns ("=", float) for plain numbers, (">", float) / ("<", float) for
+    censored values, and (None, None) if the numeric part cannot be parsed.
+
+    Examples:
+        '>64'   -> ('>', 64.0)
+        '<=0.5' -> ('<', 0.5)
+        '32'    -> ('=', 32.0)
+    """
+    op, s = extract_operator(val_str)
+    if op is None:
+        return None, None
     try:
-        float(v)
-        return "="
-    except:
-        if v.startswith(">"):
-            return ">"
-        elif v.startswith("<"):
-            return "<"
-        return None
+        return op, float(s)
+    except ValueError:
+        return None, None
 
 def binarizer(v, cutoff):
-    operator = extract_operator(v)
+    operator, s = extract_operator(v)
     if operator is None:
         return None
+    try:
+        v = float(s)
+    except ValueError:
+        return None
     if operator == "=":
-        v = float(v)
-        if v <= cutoff:
-            return 1
-        else:
-            return 0
+        return 1 if v <= cutoff else 0
     if operator == ">":
-        v = "".join([x for x in str(v) if x.isdigit() or x == "."])
-        v = float(v)
-        if v < cutoff:
-            return None
-        else:
-            return 0
+        return None if v < cutoff else 0
     if operator == "<":
-        v = "".join([x for x in str(v) if x.isdigit() or x == "."])
-        v = float(v)
-        if v > cutoff:
-            return None
-        else:
-            return 1
+        return None if v > cutoff else 1
 
 def aggregate_bin_cols(df, smiles_col, mic_cols, threshold=0.5):
     aggregated = df.groupby(smiles_col)[mic_cols].mean()
@@ -60,6 +84,18 @@ def aggregate_bin_cols(df, smiles_col, mic_cols, threshold=0.5):
         aggregated[col] = (aggregated[col] >= threshold).astype(int)
     aggregated = aggregated.reset_index()
     return aggregated
+
+
+def convert_ugml_to_uM(smiles, concentration_ugml):
+    """Convert concentration from µg/mL to µM using molecular weight from SMILES."""
+    try:
+        mol = Chem.MolFromSmiles(smiles)
+        if not mol:
+            return None
+        mw = Descriptors.MolWt(mol)
+        return (concentration_ugml / mw) * 1000
+    except Exception:
+        return None
 
 
 def merge_replicas(data, col, threshold=0.5): #TODO add a list of SMILES with over 5 replicas and delete them?

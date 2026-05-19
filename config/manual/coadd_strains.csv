@@ -1,0 +1,30 @@
+ORGANISM,STRAIN,inhib_n_compounds,mic_n_compounds,patho_code,strain_code,strain_effect,gram_negative
+Acinetobacter baumannii,ATCC 19606,100055.0,4758.0,abaumannii,ATCC19606,reference,1
+Acinetobacter baumannii,BAA-1605,,49.0,abaumannii,BAA1605,MDR,1
+Acinetobacter baumannii,CI; Metallo Oxa; R(pPept),,23.0,abaumannii,CI_MetalloOxa,carbapenem resistant (metallo-beta-lactamase + OXA) and polymyxin resistant,1
+Bacillus subtilis,ATCC 6051,,150.0,bsubtilis,ATCC6051,reference,0
+Candida albicans,ATCC 90028,82026.0,4561.0,calbicans,ATCC90028,reference,0
+Candida auris,JCM 15448;DSM 21092; CBS 10913,,10.0,cauris,JCM15448,reference,0
+Candida glabrata,ATCC 90030,,109.0,cglabrata,ATCC90030,reference,0
+Candida tropicalis,ATCC 750,,109.0,ctropicalis,ATCC750,reference,0
+Cryptococcus deuterogattii,CBS 7750,,108.0,cdeuterogattii,CBS7750,reference,0
+Cryptococcus gattii,ATCC 32609,,109.0,cgattii,ATCC32609,reference,0
+Cryptococcus neoformans,ATCC 208821; H99,82026.0,4561.0,cneoformans,H99,reference,0
+Enterococcus faecalis,VanA,,10.0,efaecalis,VanA,vancomycin resistant (VanA genotype),0
+Enterococcus faecium,ATCC 51559; MR,,72.0,efaecium,ATCC51559,MDR,0
+Escherichia coli,ATCC 25922,82080.0,4558.0,ecoli,ATCC25922,reference,1
+Escherichia coli,HS73; CTX-M,,23.0,ecoli,HS73,ESBL producing (CTX-M beta-lactamase),1
+Escherichia coli,lpxC; MB4902,80621.0,48.0,ecoli,lpxC,hyperpermeable,1
+Escherichia coli,tolC; MB5747,73744.0,57.0,ecoli,tolC,efflux deficient,1
+Klebsiella pneumoniae,ATCC 13883,,28.0,kpneumoniae,ATCC13883,reference,1
+Klebsiella pneumoniae,ATCC 700603; MDR,82078.0,4558.0,kpneumoniae,ATCC700603,MDR,1
+Klebsiella pneumoniae,ATCC BAA-2146; NDM-1,,28.0,kpneumoniae,BAA2146,carbapenem resistant (NDM-1 metallo-beta-lactamase),1
+Pseudomonas aeruginosa,ATCC 27853,100057.0,4753.0,paeruginosa,ATCC27853,reference,1
+Pseudomonas aeruginosa,FADDI-PA070; R(PolB),,28.0,paeruginosa,FADDI-PA070,polymyxin B resistant,1
+Pseudomonas aeruginosa,PAO1,1760.0,,paeruginosa,PAO1,reference,1
+Pseudomonas aeruginosa,PAO397; PAO1 d(mexAB-oprM) d(mexCD-oprJ) d(mexEF-oprN) d(mexJKL) d(mexXY) d(opmH) d(pscC),32392.0,925.0,paeruginosa,PAO397,efflux deficient,1
+Staphylococcus aureus,ATCC 43300; MRSA,82079.0,4562.0,saureus,ATCC43300,MRSA (methicillin resistant),0
+Staphylococcus aureus,NRS 1; Mu50; ATCC 700699,,10.0,saureus,Mu50,VISA (vancomycin intermediate resistant),0
+Staphylococcus aureus,NRS17; GISA,,99.0,saureus,NRS17,GISA (glycopeptide intermediate resistant),0
+Staphylococcus aureus,VRS1,,150.0,saureus,VRS1,VRSA (vancomycin resistant),0
+Streptococcus pneumoniae,ATCC 700677,,150.0,spneumoniae,ATCC700677,penicillin resistant (MDR),0

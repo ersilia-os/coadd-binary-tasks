@@ -1,0 +1,3484 @@
+source_file,assay_type,species,strain,n_compounds
+accumulation,accumulation,Acinetobacter baumannii,ATCC BAA-2093,3
+accumulation,accumulation,Bacillus subtilis,ATCC 6051,10
+accumulation,accumulation,Escherichia coli,AG100A,3
+accumulation,accumulation,Escherichia coli,AG102,3
+accumulation,accumulation,Escherichia coli,ATCC 25922,10
+accumulation,accumulation,Escherichia coli,CGSC 11430,14
+accumulation,accumulation,Escherichia coli,CGSC 6152,125
+accumulation,accumulation,Escherichia coli,CGSC 7636,15
+accumulation,accumulation,Escherichia coli,CGSC 7851,3
+accumulation,accumulation,Escherichia coli,GKCW101,1
+accumulation,accumulation,Escherichia coli,GKCW102,1
+accumulation,accumulation,Escherichia coli,GKCW103,1
+accumulation,accumulation,Escherichia coli,GKCW104,1
+accumulation,accumulation,Escherichia coli,J53,11
+accumulation,accumulation,Escherichia coli,MG1655,306
+accumulation,accumulation,Escherichia coli,NB27176-JAL0947,1
+accumulation,accumulation,Escherichia coli,NB27176-JAL0948,1
+accumulation,accumulation,Escherichia coli,NR698,8
+accumulation,accumulation,Escherichia coli,VRTX 001,125
+accumulation,accumulation,Mycobacterium smegmatis,ATCC 700084,10
+accumulation,accumulation,Pseudomonas aeruginosa,PAO1,8
+accumulation,accumulation,Pseudomonas aeruginosa,PAO314,1
+accumulation,accumulation,Pseudomonas aeruginosa,S 678,11
+accumulation,accumulation,Staphylococcus aureus,GAB S,11
+achaogen,mic,Achromobacter spp.,APAE1031,106
+achaogen,mic,Achromobacter spp.,APAE1039,13
+achaogen,mic,Achromobacter spp.,APAE1046,13
+achaogen,mic,Achromobacter xylosoxidans,APAE1054,106
+achaogen,mic,Acinetobacter baumannii,AABA001,741
+achaogen,mic,Acinetobacter baumannii,AABA005,96
+achaogen,mic,Acinetobacter baumannii,AABA006,3
+achaogen,mic,Acinetobacter baumannii,AABA007,3
+achaogen,mic,Acinetobacter baumannii,AABA008,1
+achaogen,mic,Acinetobacter baumannii,AABA020,1
+achaogen,mic,Acinetobacter baumannii,AABA1001,30
+achaogen,mic,Acinetobacter baumannii,AABA1002,14
+achaogen,mic,Acinetobacter baumannii,AABA1009,25
+achaogen,mic,Acinetobacter baumannii,AABA1013,24
+achaogen,mic,Acinetobacter baumannii,AABA1015,15
+achaogen,mic,Acinetobacter baumannii,AABA1016,1
+achaogen,mic,Acinetobacter baumannii,AABA1020,1
+achaogen,mic,Acinetobacter baumannii,AABA1021,1
+achaogen,mic,Acinetobacter baumannii,AABA1022,14
+achaogen,mic,Acinetobacter baumannii,AABA1026,1
+achaogen,mic,Acinetobacter baumannii,AABA1027,4
+achaogen,mic,Acinetobacter baumannii,AABA1029,3
+achaogen,mic,Acinetobacter baumannii,AABA1030,4
+achaogen,mic,Acinetobacter baumannii,AABA1031,15
+achaogen,mic,Acinetobacter baumannii,AABA1032,1
+achaogen,mic,Acinetobacter baumannii,AABA1033,9
+achaogen,mic,Acinetobacter baumannii,AABA1034,1
+achaogen,mic,Acinetobacter baumannii,AABA1035,1
+achaogen,mic,Acinetobacter baumannii,AABA1036,14
+achaogen,mic,Acinetobacter baumannii,AABA1039,1
+achaogen,mic,Acinetobacter baumannii,AABA1041,18
+achaogen,mic,Acinetobacter baumannii,AABA1043,1
+achaogen,mic,Acinetobacter baumannii,AABA1044,1
+achaogen,mic,Acinetobacter baumannii,AABA1047,15
+achaogen,mic,Acinetobacter baumannii,AABA1048,14
+achaogen,mic,Acinetobacter baumannii,AABA1049,4
+achaogen,mic,Acinetobacter baumannii,AABA1050,1
+achaogen,mic,Acinetobacter baumannii,AABA1051,1
+achaogen,mic,Acinetobacter baumannii,AABA1052,4
+achaogen,mic,Acinetobacter baumannii,AABA1053,44
+achaogen,mic,Acinetobacter baumannii,AABA1054,3
+achaogen,mic,Acinetobacter baumannii,AABA1056,3
+achaogen,mic,Acinetobacter baumannii,AABA1057,3
+achaogen,mic,Acinetobacter baumannii,AABA1058,3
+achaogen,mic,Acinetobacter baumannii,AABA1059,3
+achaogen,mic,Acinetobacter baumannii,AABA1060,1117
+achaogen,mic,Acinetobacter baumannii,AABA1061,4
+achaogen,mic,Acinetobacter baumannii,AABA1062,6
+achaogen,mic,Acinetobacter baumannii,AABA1063,14
+achaogen,mic,Acinetobacter baumannii,AABA1065,4
+achaogen,mic,Acinetobacter baumannii,AABA1067,1
+achaogen,mic,Acinetobacter baumannii,AABA1068,1
+achaogen,mic,Acinetobacter baumannii,AABA1070,1
+achaogen,mic,Acinetobacter baumannii,AABA1073,1
+achaogen,mic,Acinetobacter baumannii,AABA1074,1
+achaogen,mic,Acinetobacter baumannii,AABA1075,1
+achaogen,mic,Acinetobacter baumannii,AABA1076,1
+achaogen,mic,Acinetobacter baumannii,AABA1077,1
+achaogen,mic,Acinetobacter baumannii,AABA1078,6
+achaogen,mic,Acinetobacter baumannii,AABA1080,1
+achaogen,mic,Acinetobacter baumannii,AABA1083,1
+achaogen,mic,Acinetobacter baumannii,AABA1092,1
+achaogen,mic,Acinetobacter baumannii,AABA1103,1
+achaogen,mic,Acinetobacter baumannii,AABA1104,1
+achaogen,mic,Acinetobacter baumannii,AABA1179,1
+achaogen,mic,Acinetobacter baumannii,AABA1181,1
+achaogen,mic,Acinetobacter baumannii,AABA1186,1
+achaogen,mic,Acinetobacter baumannii,AABA1195,1
+achaogen,mic,Acinetobacter baumannii,AABA1199,1
+achaogen,mic,Acinetobacter baumannii,AABA1201,1
+achaogen,mic,Acinetobacter baumannii,AABA1205,1
+achaogen,mic,Acinetobacter baumannii,AABA1205-A,1
+achaogen,mic,Acinetobacter baumannii,AABA1205-B,1
+achaogen,mic,Acinetobacter baumannii,AABA1205-C,1
+achaogen,mic,Acinetobacter baumannii,AABA1205-D,1
+achaogen,mic,Acinetobacter baumannii,AABA1208,1
+achaogen,mic,Acinetobacter baumannii,AABA1213,1
+achaogen,mic,Acinetobacter baumannii,AABA1214,1
+achaogen,mic,Acinetobacter baumannii,AABA1215,1
+achaogen,mic,Acinetobacter baumannii,AABA1220,1
+achaogen,mic,Acinetobacter baumannii,AABA1223,1
+achaogen,mic,Acinetobacter baumannii,AABA1231,1
+achaogen,mic,Acinetobacter baumannii,AABA1239,1
+achaogen,mic,Acinetobacter baumannii,AABA1252,1
+achaogen,mic,Acinetobacter baumannii,AABA1255,1
+achaogen,mic,Acinetobacter baumannii,AABA1256,1
+achaogen,mic,Acinetobacter baumannii,AABA282,1
+achaogen,mic,Acinetobacter baumannii,AABA283,1
+achaogen,mic,Acinetobacter baumannii,AABA284,1
+achaogen,mic,Acinetobacter baumannii,AABA285,1
+achaogen,mic,Acinetobacter baumannii,AABA286,1
+achaogen,mic,Acinetobacter baumannii,AEAE1009,3
+achaogen,mic,Acinetobacter calcoaceticus,AACA004,15
+achaogen,mic,Acinetobacter calcoaceticus,AACA1001,1
+achaogen,mic,Acinetobacter calcoaceticus [haemolyticus by 16S rRNA],AACA001,24
+achaogen,mic,Acinetobacter nosocomialis,AANO1003,1
+achaogen,mic,Acinetobacter pitii,AAPI1001,1
+achaogen,mic,Acinetobacter pitii,AAPI1002,1
+achaogen,mic,Acinetobacter spp.,AASP002,24
+achaogen,mic,Acinetobacter spp.,AASP006,24
+achaogen,mic,Brucella neotomae biovar neotomae,ABNE001,61
+achaogen,mic,Burkholderia ambifaria,ABAM1001,93
+achaogen,mic,Burkholderia anthina,ABAT1001,93
+achaogen,mic,Burkholderia cenocepacia,ABCN1001,92
+achaogen,mic,Burkholderia cepacia,ABCE001,360
+achaogen,mic,Burkholderia cepacia,ABCE1001,92
+achaogen,mic,Burkholderia cepacia,ABCE1002,92
+achaogen,mic,Burkholderia dolosa,ABDO1002,93
+achaogen,mic,Burkholderia multivorans,ABMU1002,92
+achaogen,mic,Burkholderia pyrrocinia,ABPY1001,93
+achaogen,mic,Burkholderia thailandensis,ATCC 700388,569
+achaogen,mic,Burkholderia vietnamiensis,ABVI1001,93
+achaogen,mic,Citrobacter diversus,ACDI001,13
+achaogen,mic,Citrobacter freundii,ACFR002,13
+achaogen,mic,Citrobacter freundii,ACFR1002,10
+achaogen,mic,Citrobacter freundii,ACFR1003,27
+achaogen,mic,Citrobacter freundii,ACFR1005,5
+achaogen,mic,Citrobacter freundii,ACFR1006,5
+achaogen,mic,Citrobacter freundii,ACFR1007,5
+achaogen,mic,Citrobacter freundii,ACFR1008,10
+achaogen,mic,Citrobacter freundii,ACFR1009,7
+achaogen,mic,Citrobacter freundii,ACFR1010,3
+achaogen,mic,Citrobacter freundii,ACFR1011,3
+achaogen,mic,Citrobacter freundii,ACFR1012,3
+achaogen,mic,Citrobacter freundii,ACFR1013,3
+achaogen,mic,Citrobacter freundii,ACFR1014,3
+achaogen,mic,Citrobacter freundii,ACFR1015,8
+achaogen,mic,Citrobacter freundii,ACFR1016,3
+achaogen,mic,Citrobacter freundii,ACFR1017,7
+achaogen,mic,Citrobacter freundii,ACFR1018,7
+achaogen,mic,Citrobacter freundii,ACFR1019,3
+achaogen,mic,Citrobacter freundii,ACFR1020,7
+achaogen,mic,Citrobacter freundii,ACFR1021,3
+achaogen,mic,Citrobacter freundii,ACFR1022,3
+achaogen,mic,Citrobacter freundii,ACFR1023,3
+achaogen,mic,Citrobacter freundii,ACFR1024,3
+achaogen,mic,Citrobacter freundii,ACFR1028,4
+achaogen,mic,Citrobacter freundii,ACFR1029,4
+achaogen,mic,Citrobacter freundii,ACFR1030,4
+achaogen,mic,Citrobacter freundii,ACFR1031,4
+achaogen,mic,Citrobacter freundii,ACFR1032,4
+achaogen,mic,Citrobacter freundii,ACFR1033,4
+achaogen,mic,Citrobacter freundii,ACFR1034,4
+achaogen,mic,Citrobacter freundii,ACFR1035,4
+achaogen,mic,Citrobacter freundii,ACFR1036,4
+achaogen,mic,Citrobacter freundii,ACFR1038,4
+achaogen,mic,Citrobacter koseri,ACKO1001,22
+achaogen,mic,Citrobacter koseri,ACKO1002,5
+achaogen,mic,Citrobacter koseri,ACKO1003,10
+achaogen,mic,Citrobacter koseri,ACKO1004,5
+achaogen,mic,Citrobacter koseri,ACKO1005,5
+achaogen,mic,Citrobacter koseri,ACKO1006,3
+achaogen,mic,Citrobacter koseri,ACKO1007,10
+achaogen,mic,Citrobacter spp.,ACSP001,13
+achaogen,mic,Enterobacter aerogenes,AEAE002,13
+achaogen,mic,Enterobacter aerogenes,AEAE005,13
+achaogen,mic,Enterobacter aerogenes,AEAE1001,22
+achaogen,mic,Enterobacter aerogenes,AEAE1002,10
+achaogen,mic,Enterobacter aerogenes,AEAE1003,22
+achaogen,mic,Enterobacter aerogenes,AEAE1004,10
+achaogen,mic,Enterobacter aerogenes,AEAE1005,5
+achaogen,mic,Enterobacter aerogenes,AEAE1006,10
+achaogen,mic,Enterobacter aerogenes,AEAE1007,5
+achaogen,mic,Enterobacter aerogenes,AEAE1008,5
+achaogen,mic,Enterobacter aerogenes,AEAE1010,3
+achaogen,mic,Enterobacter aerogenes,AEAE1011,3
+achaogen,mic,Enterobacter aerogenes,AEAE1012,8
+achaogen,mic,Enterobacter aerogenes,AEAE1013,3
+achaogen,mic,Enterobacter aerogenes,AEAE1014,8
+achaogen,mic,Enterobacter aerogenes,AEAE1015,3
+achaogen,mic,Enterobacter aerogenes,AEAE1019,4
+achaogen,mic,Enterobacter aerogenes,AEAE1020,4
+achaogen,mic,Enterobacter aerogenes,AEAE1029,4
+achaogen,mic,Enterobacter aerogenes,AEAE1030,4
+achaogen,mic,Enterobacter aerogenes,AEAE1031,4
+achaogen,mic,Enterobacter cloacae,ACFR1001,20
+achaogen,mic,Enterobacter cloacae,AECL001,13
+achaogen,mic,Enterobacter cloacae,AECL003,13
+achaogen,mic,Enterobacter cloacae,AECL004,13
+achaogen,mic,Enterobacter cloacae,AECL1001,22
+achaogen,mic,Enterobacter cloacae,AECL1002,3
+achaogen,mic,Enterobacter cloacae,AECL1003,7
+achaogen,mic,Enterobacter cloacae,AECL1004,4
+achaogen,mic,Enterobacter cloacae,AECL1005,3
+achaogen,mic,Enterobacter cloacae,AECL1006,3
+achaogen,mic,Enterobacter cloacae,AECL1007,3
+achaogen,mic,Enterobacter cloacae,AECL1008,27
+achaogen,mic,Enterobacter cloacae,AECL1011,7
+achaogen,mic,Enterobacter cloacae,AECL1012,1
+achaogen,mic,Enterobacter cloacae,AECL1014,3
+achaogen,mic,Enterobacter cloacae,AECL1015,3
+achaogen,mic,Enterobacter cloacae,AECL1016,7
+achaogen,mic,Enterobacter cloacae,AECL1017,7
+achaogen,mic,Enterobacter cloacae,AECL1018,3
+achaogen,mic,Enterobacter cloacae,AECL1019,3
+achaogen,mic,Enterobacter cloacae,AECL1020,3
+achaogen,mic,Enterobacter cloacae,AECL1021,7
+achaogen,mic,Enterobacter cloacae,AECL1022,7
+achaogen,mic,Enterobacter cloacae,AECL1023,7
+achaogen,mic,Enterobacter cloacae,AECL1024,7
+achaogen,mic,Enterobacter cloacae,AECL1025,3
+achaogen,mic,Enterobacter cloacae,AECL1026,7
+achaogen,mic,Enterobacter cloacae,AECL1027,3
+achaogen,mic,Enterobacter cloacae,AECL1028,3
+achaogen,mic,Enterobacter cloacae,AECL1029,7
+achaogen,mic,Enterobacter cloacae,AECL1030,7
+achaogen,mic,Enterobacter cloacae,AECL1031,1
+achaogen,mic,Enterobacter cloacae,AECL1033,7
+achaogen,mic,Enterobacter cloacae,AECL1034,7
+achaogen,mic,Enterobacter cloacae,AECL1035,7
+achaogen,mic,Enterobacter cloacae,AECL1036,3
+achaogen,mic,Enterobacter cloacae,AECL1037,3
+achaogen,mic,Enterobacter cloacae,AECL1038,3
+achaogen,mic,Enterobacter cloacae,AECL1039,3
+achaogen,mic,Enterobacter cloacae,AECL1040,3
+achaogen,mic,Enterobacter cloacae,AECL1041,3
+achaogen,mic,Enterobacter cloacae,AECL1042,3
+achaogen,mic,Enterobacter cloacae,AECL1044,3
+achaogen,mic,Enterobacter cloacae,AECL1045,3
+achaogen,mic,Enterobacter cloacae,AECL1046,3
+achaogen,mic,Enterobacter cloacae,AECL1047,3
+achaogen,mic,Enterobacter cloacae,AECL1048,3
+achaogen,mic,Enterobacter cloacae,AECL1049,3
+achaogen,mic,Enterobacter cloacae,AECL1050,3
+achaogen,mic,Enterobacter cloacae,AECL1060,4
+achaogen,mic,Enterobacter cloacae,AECL1064,4
+achaogen,mic,Enterobacter cloacae,AECL1065,4
+achaogen,mic,Enterobacter cloacae,AECL1066,4
+achaogen,mic,Enterobacter cloacae,AECL1067,4
+achaogen,mic,Enterococcus faecalis,AEFL001,27
+achaogen,mic,Enterococcus faecalis,AEFL003,1
+achaogen,mic,Enterococcus faecium,AEFA001,27
+achaogen,mic,Enterococcus faecium,AEFA1001,27
+achaogen,mic,Escherichia coli,AECO002,168
+achaogen,mic,Escherichia coli,AECO003,4
+achaogen,mic,Escherichia coli,AECO004,167
+achaogen,mic,Escherichia coli,AECO006,1122
+achaogen,mic,Escherichia coli,AECO046,1
+achaogen,mic,Escherichia coli,AECO047,1
+achaogen,mic,Escherichia coli,AECO049,96
+achaogen,mic,Escherichia coli,AECO050,96
+achaogen,mic,Escherichia coli,AECO061,458
+achaogen,mic,Escherichia coli,AECO062,458
+achaogen,mic,Escherichia coli,AECO063,1227
+achaogen,mic,Escherichia coli,AECO065,457
+achaogen,mic,Escherichia coli,AECO066,1
+achaogen,mic,Escherichia coli,AECO069,2
+achaogen,mic,Escherichia coli,AECO070,1
+achaogen,mic,Escherichia coli,AECO072,1
+achaogen,mic,Escherichia coli,AECO086,1
+achaogen,mic,Escherichia coli,AECO1001,107
+achaogen,mic,Escherichia coli,AECO1002,107
+achaogen,mic,Escherichia coli,AECO1003,97
+achaogen,mic,Escherichia coli,AECO1004,80
+achaogen,mic,Escherichia coli,AECO1005,92
+achaogen,mic,Escherichia coli,AECO1006,85
+achaogen,mic,Escherichia coli,AECO1007,15
+achaogen,mic,Escherichia coli,AECO1009,16
+achaogen,mic,Escherichia coli,AECO1010,3
+achaogen,mic,Escherichia coli,AECO1011,8
+achaogen,mic,Escherichia coli,AECO1012,5
+achaogen,mic,Escherichia coli,AECO1013,3
+achaogen,mic,Escherichia coli,AECO1014,3
+achaogen,mic,Escherichia coli,AECO1016,18
+achaogen,mic,Escherichia coli,AECO1017,3
+achaogen,mic,Escherichia coli,AECO1018,10
+achaogen,mic,Escherichia coli,AECO1019,3
+achaogen,mic,Escherichia coli,AECO1020,8
+achaogen,mic,Escherichia coli,AECO1021,8
+achaogen,mic,Escherichia coli,AECO1022,11
+achaogen,mic,Escherichia coli,AECO1023,3
+achaogen,mic,Escherichia coli,AECO1024,10
+achaogen,mic,Escherichia coli,AECO1025,10
+achaogen,mic,Escherichia coli,AECO1026,17
+achaogen,mic,Escherichia coli,AECO1027,12
+achaogen,mic,Escherichia coli,AECO1028,15
+achaogen,mic,Escherichia coli,AECO1029,1077
+achaogen,mic,Escherichia coli,AECO1030,8
+achaogen,mic,Escherichia coli,AECO1031,8
+achaogen,mic,Escherichia coli,AECO1032,3
+achaogen,mic,Escherichia coli,AECO1033,8
+achaogen,mic,Escherichia coli,AECO1034,3
+achaogen,mic,Escherichia coli,AECO1035,3
+achaogen,mic,Escherichia coli,AECO1037,13
+achaogen,mic,Escherichia coli,AECO1038,5
+achaogen,mic,Escherichia coli,AECO1042,3
+achaogen,mic,Escherichia coli,AECO1043,5
+achaogen,mic,Escherichia coli,AECO1044,8
+achaogen,mic,Escherichia coli,AECO1045,20
+achaogen,mic,Escherichia coli,AECO1046,5
+achaogen,mic,Escherichia coli,AECO1048,3
+achaogen,mic,Escherichia coli,AECO1049,5
+achaogen,mic,Escherichia coli,AECO1050,3
+achaogen,mic,Escherichia coli,AECO1051,3
+achaogen,mic,Escherichia coli,AECO1053,21
+achaogen,mic,Escherichia coli,AECO1054,7
+achaogen,mic,Escherichia coli,AECO1055,80
+achaogen,mic,Escherichia coli,AECO1056,80
+achaogen,mic,Escherichia coli,AECO1057,80
+achaogen,mic,Escherichia coli,AECO1058,10
+achaogen,mic,Escherichia coli,AECO1059,7
+achaogen,mic,Escherichia coli,AECO1060,80
+achaogen,mic,Escherichia coli,AECO1061,83
+achaogen,mic,Escherichia coli,AECO1062,83
+achaogen,mic,Escherichia coli,AECO1063,85
+achaogen,mic,Escherichia coli,AECO1064,80
+achaogen,mic,Escherichia coli,AECO1065,85
+achaogen,mic,Escherichia coli,AECO1066,15
+achaogen,mic,Escherichia coli,AECO1067,85
+achaogen,mic,Escherichia coli,AECO1068,85
+achaogen,mic,Escherichia coli,AECO1069,80
+achaogen,mic,Escherichia coli,AECO1070,15
+achaogen,mic,Escherichia coli,AECO1071,85
+achaogen,mic,Escherichia coli,AECO1072,8
+achaogen,mic,Escherichia coli,AECO1073,8
+achaogen,mic,Escherichia coli,AECO1074,8
+achaogen,mic,Escherichia coli,AECO1075,8
+achaogen,mic,Escherichia coli,AECO1077,8
+achaogen,mic,Escherichia coli,AECO1081,3
+achaogen,mic,Escherichia coli,AECO1084,3
+achaogen,mic,Escherichia coli,AECO1085,3
+achaogen,mic,Escherichia coli,AECO1087,3
+achaogen,mic,Escherichia coli,AECO1088,3
+achaogen,mic,Escherichia coli,AECO1089,3
+achaogen,mic,Escherichia coli,AECO1090,3
+achaogen,mic,Escherichia coli,AECO1091,3
+achaogen,mic,Escherichia coli,AECO1092,3
+achaogen,mic,Escherichia coli,AECO1093,3
+achaogen,mic,Escherichia coli,AECO1094,3
+achaogen,mic,Escherichia coli,AECO1097,3
+achaogen,mic,Escherichia coli,AECO1098,3
+achaogen,mic,Escherichia coli,AECO1099,3
+achaogen,mic,Escherichia coli,AECO1100,3
+achaogen,mic,Escherichia coli,AECO1101,3
+achaogen,mic,Escherichia coli,AECO1103,3
+achaogen,mic,Escherichia coli,AECO1104,3
+achaogen,mic,Escherichia coli,AECO1105,3
+achaogen,mic,Escherichia coli,AECO1106,3
+achaogen,mic,Escherichia coli,AECO1108,3
+achaogen,mic,Escherichia coli,AECO1110,3
+achaogen,mic,Escherichia coli,AECO1111,3
+achaogen,mic,Escherichia coli,AECO1113,3
+achaogen,mic,Escherichia coli,AECO1114,3
+achaogen,mic,Escherichia coli,AECO1115,3
+achaogen,mic,Escherichia coli,AECO1116,3
+achaogen,mic,Escherichia coli,AECO1117,3
+achaogen,mic,Escherichia coli,AECO1118,3
+achaogen,mic,Escherichia coli,AECO1120,3
+achaogen,mic,Escherichia coli,AECO1121,3
+achaogen,mic,Escherichia coli,AECO1122,3
+achaogen,mic,Escherichia coli,AECO1123,3
+achaogen,mic,Escherichia coli,AECO1124,3
+achaogen,mic,Escherichia coli,AECO1126,3
+achaogen,mic,Escherichia coli,AECO1127,3
+achaogen,mic,Escherichia coli,AECO1128,3
+achaogen,mic,Escherichia coli,AECO1129,3
+achaogen,mic,Escherichia coli,AECO1130,3
+achaogen,mic,Escherichia coli,AECO1131,3
+achaogen,mic,Escherichia coli,AECO1137,4
+achaogen,mic,Escherichia coli,AECO1138,4
+achaogen,mic,Escherichia coli,AECO1143,4
+achaogen,mic,Escherichia coli,AECO1146,4
+achaogen,mic,Escherichia coli,AECO1154,4
+achaogen,mic,Escherichia coli,AECO1155,4
+achaogen,mic,Escherichia coli,AECO1156,4
+achaogen,mic,Escherichia coli,AECO1157,4
+achaogen,mic,Escherichia coli,AECO1159,4
+achaogen,mic,Escherichia coli,AECO1162,4
+achaogen,mic,Escherichia coli,AECO1166,4
+achaogen,mic,Escherichia coli,AECO1167,4
+achaogen,mic,Escherichia coli,AECO1174,4
+achaogen,mic,Escherichia coli,AECO1181,4
+achaogen,mic,Escherichia coli,AECO1192,4
+achaogen,mic,Escherichia coli,AECO127,171
+achaogen,mic,Escherichia coli,AECO128,171
+achaogen,mic,Escherichia coli,AECO129,171
+achaogen,mic,Escherichia coli,AECO186,1
+achaogen,mic,Escherichia coli,AECO187,1
+achaogen,mic,Escherichia coli,AECO209,1
+achaogen,mic,Escherichia coli,ATCC 25922,1835
+achaogen,mic,Escherichia coli,CGSC 7740,1076
+achaogen,mic,Francisella tularensis,AFTU001,78
+achaogen,mic,Klebsiella oxytoca,AKOX001,19
+achaogen,mic,Klebsiella oxytoca,AKOX002,19
+achaogen,mic,Klebsiella oxytoca,AKOX1001,105
+achaogen,mic,Klebsiella oxytoca,AKOX1002,105
+achaogen,mic,Klebsiella oxytoca,AKOX1003,105
+achaogen,mic,Klebsiella oxytoca,AKOX1004,99
+achaogen,mic,Klebsiella oxytoca,AKOX1009,4
+achaogen,mic,Klebsiella pneumoniae,AKPN002,150
+achaogen,mic,Klebsiella pneumoniae,AKPN007,13
+achaogen,mic,Klebsiella pneumoniae,AKPN008,13
+achaogen,mic,Klebsiella pneumoniae,AKPN016,4
+achaogen,mic,Klebsiella pneumoniae,AKPN017,4
+achaogen,mic,Klebsiella pneumoniae,AKPN019,4
+achaogen,mic,Klebsiella pneumoniae,AKPN022,4
+achaogen,mic,Klebsiella pneumoniae,AKPN027,4
+achaogen,mic,Klebsiella pneumoniae,AKPN029,4
+achaogen,mic,Klebsiella pneumoniae,AKPN030,4
+achaogen,mic,Klebsiella pneumoniae,AKPN032,4
+achaogen,mic,Klebsiella pneumoniae,AKPN034,4
+achaogen,mic,Klebsiella pneumoniae,AKPN035,4
+achaogen,mic,Klebsiella pneumoniae,AKPN036,4
+achaogen,mic,Klebsiella pneumoniae,AKPN037,4
+achaogen,mic,Klebsiella pneumoniae,AKPN038,4
+achaogen,mic,Klebsiella pneumoniae,AKPN039,4
+achaogen,mic,Klebsiella pneumoniae,AKPN041,4
+achaogen,mic,Klebsiella pneumoniae,AKPN044,4
+achaogen,mic,Klebsiella pneumoniae,AKPN048,23
+achaogen,mic,Klebsiella pneumoniae,AKPN049,23
+achaogen,mic,Klebsiella pneumoniae,AKPN050,23
+achaogen,mic,Klebsiella pneumoniae,AKPN067,22
+achaogen,mic,Klebsiella pneumoniae,AKPN068,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1001,1097
+achaogen,mic,Klebsiella pneumoniae,AKPN1002,23
+achaogen,mic,Klebsiella pneumoniae,AKPN1003,118
+achaogen,mic,Klebsiella pneumoniae,AKPN1004,20
+achaogen,mic,Klebsiella pneumoniae,AKPN1005,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1006,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1007,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1008,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1009,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1010,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1011,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1012,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1013,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1014,16
+achaogen,mic,Klebsiella pneumoniae,AKPN1016,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1017,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1018,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1019,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1020,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1021,12
+achaogen,mic,Klebsiella pneumoniae,AKPN1022,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1023,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1024,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1025,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1026,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1027,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1028,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1029,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1030,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1031,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1032,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1033,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1034,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1036,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1037,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1038,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1039,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1040,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1041,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1042,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1043,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1044,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1045,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1046,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1047,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1048,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1049,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1050,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1051,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1052,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1053,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1054,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1055,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1056,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1057,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1058,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1059,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1060,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1061,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1062,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1063,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1064,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1065,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1066,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1067,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1068,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1069,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1070,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1071,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1072,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1073,14
+achaogen,mic,Klebsiella pneumoniae,AKPN1074,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1075,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1076,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1077,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1078,10
+achaogen,mic,Klebsiella pneumoniae,AKPN1079,14
+achaogen,mic,Klebsiella pneumoniae,AKPN1080,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1081,151
+achaogen,mic,Klebsiella pneumoniae,AKPN1082,105
+achaogen,mic,Klebsiella pneumoniae,AKPN1083,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1084,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1085,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1086,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1087,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1088,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1089,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1090,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1091,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1092,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1093,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1094,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1095,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1096,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1097,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1098,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1099,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1100,5
+achaogen,mic,Klebsiella pneumoniae,AKPN1101,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1102,7
+achaogen,mic,Klebsiella pneumoniae,AKPN1103,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1104,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1105,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1106,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1107,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1108,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1109,15
+achaogen,mic,Klebsiella pneumoniae,AKPN1110,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1111,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1112,3
+achaogen,mic,Klebsiella pneumoniae,AKPN1113,1
+achaogen,mic,Klebsiella pneumoniae,AKPN1122,1
+achaogen,mic,Klebsiella pneumoniae,AKPN1123,1
+achaogen,mic,Klebsiella pneumoniae,AKPN1124,1
+achaogen,mic,Klebsiella pneumoniae,AKPN1125,1
+achaogen,mic,Klebsiella pneumoniae,AKPN1126,1
+achaogen,mic,Klebsiella pneumoniae,AKPN1135,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1148,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1149,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1151,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1153,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1159,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1162,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1165,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1166,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1168,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1172,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1173,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1174,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1175,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1191,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1193,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1200,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1202,4
+achaogen,mic,Klebsiella pneumoniae,AKPN1206,4
+achaogen,mic,Klebsiella pneumoniae,ATCC 43816,1094
+achaogen,mic,Morganella morganii,AMMO1001,27
+achaogen,mic,Morganella morganii,AMMO1002,5
+achaogen,mic,Morganella morganii,AMMO1003,3
+achaogen,mic,Morganella morganii,AMMO1004,5
+achaogen,mic,Morganella morganii,AMMO1005,22
+achaogen,mic,Morganella morganii,AMMO1006,27
+achaogen,mic,Morganella morganii,AMMO1007,5
+achaogen,mic,Morganella morganii,AMMO1008,5
+achaogen,mic,Morganella morganii,AMMO1009,3
+achaogen,mic,Morganella morganii,AMMO1010,7
+achaogen,mic,Morganella morganii,AMMO1011,7
+achaogen,mic,Morganella morganii,AMMO1012,3
+achaogen,mic,Morganella morganii,AMMO1013,3
+achaogen,mic,Morganella spp.,AMSP1001,7
+achaogen,mic,Pantoea spp.,ACFR1004,3
+achaogen,mic,Proteus mirabilis,APMI001,13
+achaogen,mic,Proteus mirabilis,APMI1001,22
+achaogen,mic,Proteus mirabilis,APMI1002,22
+achaogen,mic,Proteus mirabilis,APMI1003,5
+achaogen,mic,Proteus mirabilis,APMI1004,3
+achaogen,mic,Proteus mirabilis,APMI1005,5
+achaogen,mic,Proteus mirabilis,APMI1006,5
+achaogen,mic,Proteus mirabilis,APMI1007,10
+achaogen,mic,Proteus mirabilis,APMI1008,5
+achaogen,mic,Proteus mirabilis,APMI1009,7
+achaogen,mic,Proteus mirabilis,APMI1010,3
+achaogen,mic,Proteus mirabilis,APMI1011,3
+achaogen,mic,Proteus mirabilis,APMI1012,3
+achaogen,mic,Proteus mirabilis,APMI1013,7
+achaogen,mic,Proteus mirabilis,APMI1014,3
+achaogen,mic,Proteus mirabilis,APMI1015,3
+achaogen,mic,Proteus mirabilis,APMI1016,7
+achaogen,mic,Proteus mirabilis,APMI1017,3
+achaogen,mic,Proteus mirabilis,APMI1018,3
+achaogen,mic,Proteus mirabilis,APMI1019,3
+achaogen,mic,Proteus mirabilis,APMI1020,7
+achaogen,mic,Proteus mirabilis,APMI1021,3
+achaogen,mic,Proteus mirabilis,APMI1022,3
+achaogen,mic,Proteus mirabilis,APMI1023,7
+achaogen,mic,Proteus mirabilis,APMI1024,3
+achaogen,mic,Proteus mirabilis,APMI1025,7
+achaogen,mic,Proteus mirabilis,APMI1026,3
+achaogen,mic,Proteus mirabilis,APMI1027,3
+achaogen,mic,Proteus mirabilis,APMI1028,3
+achaogen,mic,Proteus mirabilis,APMI1029,3
+achaogen,mic,Proteus mirabilis,APMI1030,3
+achaogen,mic,Proteus mirabilis,APMI1031,3
+achaogen,mic,Proteus mirabilis,APMI1032,3
+achaogen,mic,Proteus mirabilis,APMI1034,3
+achaogen,mic,Proteus mirabilis,APMI1035,3
+achaogen,mic,Proteus mirabilis,APMI1036,3
+achaogen,mic,Proteus mirabilis,APMI1037,3
+achaogen,mic,Proteus mirabilis,APMI1038,3
+achaogen,mic,Proteus mirabilis,APMI1039,3
+achaogen,mic,Proteus mirabilis,APMI1040,3
+achaogen,mic,Proteus mirabilis,APMI1041,3
+achaogen,mic,Proteus mirabilis,APMI1042,3
+achaogen,mic,Proteus mirabilis,APMI1043,3
+achaogen,mic,Proteus spp.,APRSP1001,7
+achaogen,mic,Proteus vulgaris,APVU1001,5
+achaogen,mic,Proteus vulgaris,APVU1002,5
+achaogen,mic,Proteus vulgaris,APVU1003,7
+achaogen,mic,Proteus vulgaris,APVU1004,10
+achaogen,mic,Proteus vulgaris,APVU1005,7
+achaogen,mic,Proteus vulgaris,APVU1006,10
+achaogen,mic,Proteus vulgaris,APVU1007,10
+achaogen,mic,Proteus vulgaris,APVU1008,3
+achaogen,mic,Providencia rettgeri,APRE1001,7
+achaogen,mic,Providencia spp.,APVSP1003,3
+achaogen,mic,Providencia spp.,APVSP1004,3
+achaogen,mic,Providencia stuartii,APST001,13
+achaogen,mic,Providencia stuartii,APST1001,27
+achaogen,mic,Providencia stuartii,APST1002,22
+achaogen,mic,Providencia stuartii,APST1003,7
+achaogen,mic,Providencia stuartii,APST1004,5
+achaogen,mic,Providencia stuartii,APST1005,5
+achaogen,mic,Providencia stuartii,APST1006,10
+achaogen,mic,Providencia stuartii,APST1007,5
+achaogen,mic,Providencia stuartii,APST1008,10
+achaogen,mic,Providencia stuartii,APST1009,3
+achaogen,mic,Providencia stuartii,APST1010,5
+achaogen,mic,Providencia stuartii,APST1011,10
+achaogen,mic,Providencia stuartii,APST1013,5
+achaogen,mic,Providencia stuartii,APST1014,5
+achaogen,mic,Providencia stuartii,APST1015,7
+achaogen,mic,Providencia stuartii,APST1016,7
+achaogen,mic,Providencia stuartii,APST1017,3
+achaogen,mic,Providencia stuartii,APST1018,7
+achaogen,mic,Providencia stuartii,APST1019,7
+achaogen,mic,Providencia stuartii,APST1020,3
+achaogen,mic,Providencia stuartii,APST1021,7
+achaogen,mic,Providencia stuartii,APST1022,3
+achaogen,mic,Providencia stuartii,APST1024,3
+achaogen,mic,Providencia stuartii,APST1025,3
+achaogen,mic,Pseudomonas aeruginosa,APAE003,92
+achaogen,mic,Pseudomonas aeruginosa,APAE004,92
+achaogen,mic,Pseudomonas aeruginosa,APAE005,92
+achaogen,mic,Pseudomonas aeruginosa,APAE006,1850
+achaogen,mic,Pseudomonas aeruginosa,APAE007,1758
+achaogen,mic,Pseudomonas aeruginosa,APAE008,966
+achaogen,mic,Pseudomonas aeruginosa,APAE009,964
+achaogen,mic,Pseudomonas aeruginosa,APAE010,966
+achaogen,mic,Pseudomonas aeruginosa,APAE011,91
+achaogen,mic,Pseudomonas aeruginosa,APAE034,1
+achaogen,mic,Pseudomonas aeruginosa,APAE040,1
+achaogen,mic,Pseudomonas aeruginosa,APAE054,1
+achaogen,mic,Pseudomonas aeruginosa,APAE099,15
+achaogen,mic,Pseudomonas aeruginosa,APAE1001,129
+achaogen,mic,Pseudomonas aeruginosa,APAE1002,125
+achaogen,mic,Pseudomonas aeruginosa,APAE1003,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1004,172
+achaogen,mic,Pseudomonas aeruginosa,APAE1005,10
+achaogen,mic,Pseudomonas aeruginosa,APAE1006,72
+achaogen,mic,Pseudomonas aeruginosa,APAE1007,170
+achaogen,mic,Pseudomonas aeruginosa,APAE1008,117
+achaogen,mic,Pseudomonas aeruginosa,APAE1009,170
+achaogen,mic,Pseudomonas aeruginosa,APAE1010,71
+achaogen,mic,Pseudomonas aeruginosa,APAE1012,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1013,59
+achaogen,mic,Pseudomonas aeruginosa,APAE1014,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1015,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1018,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1019,115
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut01,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut02,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut03,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut04,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut05,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut06,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut07,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut08,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut09,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut10,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut11,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1019-mut12,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1020,60
+achaogen,mic,Pseudomonas aeruginosa,APAE1021,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1022,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1023,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1024,11
+achaogen,mic,Pseudomonas aeruginosa,APAE1026,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1027,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1028,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1029,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1032,62
+achaogen,mic,Pseudomonas aeruginosa,APAE1033,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1035,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1038,114
+achaogen,mic,Pseudomonas aeruginosa,APAE1042,65
+achaogen,mic,Pseudomonas aeruginosa,APAE1044,33
+achaogen,mic,Pseudomonas aeruginosa,APAE1045,101
+achaogen,mic,Pseudomonas aeruginosa,APAE1048,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1050,60
+achaogen,mic,Pseudomonas aeruginosa,APAE1056,11
+achaogen,mic,Pseudomonas aeruginosa,APAE1058,4
+achaogen,mic,Pseudomonas aeruginosa,APAE1059,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1061,114
+achaogen,mic,Pseudomonas aeruginosa,APAE1062,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1064,115
+achaogen,mic,Pseudomonas aeruginosa,APAE1065,111
+achaogen,mic,Pseudomonas aeruginosa,APAE1067,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1068,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1069,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1071,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1072,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1073,7
+achaogen,mic,Pseudomonas aeruginosa,APAE1074,7
+achaogen,mic,Pseudomonas aeruginosa,APAE1075,117
+achaogen,mic,Pseudomonas aeruginosa,APAE1076,69
+achaogen,mic,Pseudomonas aeruginosa,APAE1077,7
+achaogen,mic,Pseudomonas aeruginosa,APAE1078,7
+achaogen,mic,Pseudomonas aeruginosa,APAE1079,10
+achaogen,mic,Pseudomonas aeruginosa,APAE1080,170
+achaogen,mic,Pseudomonas aeruginosa,APAE1081,66
+achaogen,mic,Pseudomonas aeruginosa,APAE1082,145
+achaogen,mic,Pseudomonas aeruginosa,APAE1083,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1084,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1086,121
+achaogen,mic,Pseudomonas aeruginosa,APAE1089,33
+achaogen,mic,Pseudomonas aeruginosa,APAE1090,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1091,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1092,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1093,33
+achaogen,mic,Pseudomonas aeruginosa,APAE1094,59
+achaogen,mic,Pseudomonas aeruginosa,APAE1095,33
+achaogen,mic,Pseudomonas aeruginosa,APAE1096,1157
+achaogen,mic,Pseudomonas aeruginosa,APAE1099,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1101,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1102,1155
+achaogen,mic,Pseudomonas aeruginosa,APAE1103,59
+achaogen,mic,Pseudomonas aeruginosa,APAE1105,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1107,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1110,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1111,1114
+achaogen,mic,Pseudomonas aeruginosa,APAE1112,17
+achaogen,mic,Pseudomonas aeruginosa,APAE1114,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1118,15
+achaogen,mic,Pseudomonas aeruginosa,APAE1119,68
+achaogen,mic,Pseudomonas aeruginosa,APAE1120,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1121,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1122,173
+achaogen,mic,Pseudomonas aeruginosa,APAE1123,71
+achaogen,mic,Pseudomonas aeruginosa,APAE1124,7
+achaogen,mic,Pseudomonas aeruginosa,APAE1125,7
+achaogen,mic,Pseudomonas aeruginosa,APAE1126,117
+achaogen,mic,Pseudomonas aeruginosa,APAE1128,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1129,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1130,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1134,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1135,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1136,5
+achaogen,mic,Pseudomonas aeruginosa,APAE1138,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1139,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1140,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1142,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1145,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1146,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1148,18
+achaogen,mic,Pseudomonas aeruginosa,APAE1149,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1150,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1154,8
+achaogen,mic,Pseudomonas aeruginosa,APAE1156,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1157,9
+achaogen,mic,Pseudomonas aeruginosa,APAE1158,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1161,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1163,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1164,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1165,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1168,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1169,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1170,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1171,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1172,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1173,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1174,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1175,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1176,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1177,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1178,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1179,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1180,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1181,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1182,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1183,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1184,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1186,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1187,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1188,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1190,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1191,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1192,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1193,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1195,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1196,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1198,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1202,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1206,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1207,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1209,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1212,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1214,3
+achaogen,mic,Pseudomonas aeruginosa,APAE1216,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1217,127
+achaogen,mic,Pseudomonas aeruginosa,APAE1218,42
+achaogen,mic,Pseudomonas aeruginosa,APAE1219,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1220,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1221,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1222,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1223,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1224,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1225,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1226,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1227,87
+achaogen,mic,Pseudomonas aeruginosa,APAE1228,62
+achaogen,mic,Pseudomonas aeruginosa,APAE1229,1
+achaogen,mic,Pseudomonas aeruginosa,APAE1230,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1231,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1232,62
+achaogen,mic,Pseudomonas aeruginosa,APAE1233,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1234,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1235,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1236,63
+achaogen,mic,Pseudomonas aeruginosa,APAE1237,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1238,531
+achaogen,mic,Pseudomonas aeruginosa,APAE1239,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1240,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1241,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1242,62
+achaogen,mic,Pseudomonas aeruginosa,APAE1243,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1244,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1245,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1246,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1247,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1248,63
+achaogen,mic,Pseudomonas aeruginosa,APAE1249,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1250,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1251,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1252,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1253,63
+achaogen,mic,Pseudomonas aeruginosa,APAE1254,63
+achaogen,mic,Pseudomonas aeruginosa,APAE1255,69
+achaogen,mic,Pseudomonas aeruginosa,APAE1256,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1257,531
+achaogen,mic,Pseudomonas aeruginosa,APAE1258,61
+achaogen,mic,Pseudomonas aeruginosa,APAE1259,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1260,531
+achaogen,mic,Pseudomonas aeruginosa,APAE1261,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1262,531
+achaogen,mic,Pseudomonas aeruginosa,APAE1263,63
+achaogen,mic,Pseudomonas aeruginosa,APAE1264,61
+achaogen,mic,Pseudomonas aeruginosa,APAE1265,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1266,62
+achaogen,mic,Pseudomonas aeruginosa,APAE1267,531
+achaogen,mic,Pseudomonas aeruginosa,APAE1268,64
+achaogen,mic,Pseudomonas aeruginosa,APAE1269,64
+achaogen,mic,Pseudomonas aeruginosa,APAE189,516
+achaogen,mic,Pseudomonas aeruginosa,APAE190,6
+achaogen,mic,Pseudomonas aeruginosa,APAE201,8
+achaogen,mic,Pseudomonas aeruginosa,APAE202,1
+achaogen,mic,Pseudomonas aeruginosa,APAE204,1
+achaogen,mic,Pseudomonas aeruginosa,APAE207,8
+achaogen,mic,Pseudomonas aeruginosa,APAE208,8
+achaogen,mic,Pseudomonas aeruginosa,APAE209,8
+achaogen,mic,Pseudomonas aeruginosa,APAE210,8
+achaogen,mic,Pseudomonas aeruginosa,APAE211,8
+achaogen,mic,Pseudomonas aeruginosa,APAE224,8
+achaogen,mic,Pseudomonas aeruginosa,APAE249,8
+achaogen,mic,Pseudomonas aeruginosa,APAE250,8
+achaogen,mic,Pseudomonas aeruginosa,APAE251,8
+achaogen,mic,Pseudomonas aeruginosa,APAE252,8
+achaogen,mic,Pseudomonas aeruginosa,ATCC 27853,1858
+achaogen,mic,Pseudomonas aeruginosa,PAO1,1848
+achaogen,mic,Ralstonia mannitolytica,ARMA1001,105
+achaogen,mic,Ralstonia pickettii,ARPI1001,93
+achaogen,mic,Salmonella choleraesuis,ASCH1001,3
+achaogen,mic,Salmonella choleraesuis,ASCH1002,3
+achaogen,mic,Salmonella choleraesuis,ASCH1003,3
+achaogen,mic,Salmonella choleraesuis,ASCH1004,3
+achaogen,mic,Salmonella choleraesuis,ASCH1005,3
+achaogen,mic,Salmonella choleraesuis,ASCH1006,3
+achaogen,mic,Salmonella choleraesuis,ASCH1007,3
+achaogen,mic,Salmonella choleraesuis,ASCH1008,3
+achaogen,mic,Salmonella choleraesuis,ASCH1009,3
+achaogen,mic,Salmonella choleraesuis,ASCH1010,3
+achaogen,mic,Salmonella choleraesuis,ASCH1011,3
+achaogen,mic,Salmonella choleraesuis,ASCH1012,3
+achaogen,mic,Salmonella dublin,ASDU1001,3
+achaogen,mic,Salmonella enteritidis,ASEN1001,10
+achaogen,mic,Salmonella hadar,ASHD1001,3
+achaogen,mic,Salmonella newington,ASNE1001,3
+achaogen,mic,Salmonella spp.,ASSP001,19
+achaogen,mic,Salmonella spp.,ASSP1001,10
+achaogen,mic,Salmonella spp.,ASSP1002,10
+achaogen,mic,Salmonella spp.,ASSP1003,10
+achaogen,mic,Salmonella spp.,ASSP1004,10
+achaogen,mic,Salmonella spp.,ASSP1005,7
+achaogen,mic,Salmonella spp.,ASSP1006,3
+achaogen,mic,Salmonella typhi,ASTY1001,23
+achaogen,mic,Salmonella typhimurium,ASTP003,1
+achaogen,mic,Salmonella typhimurium,ASTP004,1
+achaogen,mic,Salmonella typhimurium,ASTP005,1
+achaogen,mic,Salmonella typhimurium,ASTP006,1
+achaogen,mic,Salmonella typhimurium,ASTP1001,3
+achaogen,mic,Salmonella typhimurium,ASTP1002,3
+achaogen,mic,Salmonella typhimurium,ASTP1003,3
+achaogen,mic,Salmonella typhimurium,ASTP1004,3
+achaogen,mic,Salmonella typhimurium,ASTP1005,3
+achaogen,mic,Salmonella typhimurium,ASTP1006,3
+achaogen,mic,Salmonella typhimurium,ASTP1007,3
+achaogen,mic,Salmonella typhimurium,ASTP1008,3
+achaogen,mic,Salmonella typhimurium,ASTP1009,3
+achaogen,mic,Serratia liquefaciens,ASLI1001,5
+achaogen,mic,Serratia liquefaciens,ASLI1002,10
+achaogen,mic,Serratia liquefaciens,ASLI1003,3
+achaogen,mic,Serratia liquefaciens,ASLI1004,10
+achaogen,mic,Serratia liquefaciens,ASLI1005,5
+achaogen,mic,Serratia liquefaciens,ASLI1006,10
+achaogen,mic,Serratia liquefaciens,ASLI1007,3
+achaogen,mic,Serratia liquefaciens,ASLI1008,5
+achaogen,mic,Serratia liquefaciens,ASLI1009,5
+achaogen,mic,Serratia liquefaciens,ASLI1010,5
+achaogen,mic,Serratia liquefaciens,ASLI1011,7
+achaogen,mic,Serratia marcescens,ASMA001,13
+achaogen,mic,Serratia marcescens,ASMA004,13
+achaogen,mic,Serratia marcescens,ASMA1001,22
+achaogen,mic,Serratia marcescens,ASMA1002,7
+achaogen,mic,Serratia marcescens,ASMA1003,5
+achaogen,mic,Serratia marcescens,ASMA1004,27
+achaogen,mic,Serratia marcescens,ASMA1005,5
+achaogen,mic,Serratia marcescens,ASMA1006,10
+achaogen,mic,Serratia marcescens,ASMA1007,5
+achaogen,mic,Serratia marcescens,ASMA1008,3
+achaogen,mic,Serratia marcescens,ASMA1009,7
+achaogen,mic,Serratia marcescens,ASMA1010,5
+achaogen,mic,Serratia marcescens,ASMA1011,3
+achaogen,mic,Serratia marcescens,ASMA1012,10
+achaogen,mic,Serratia marcescens,ASMA1013,5
+achaogen,mic,Serratia marcescens,ASMA1014,8
+achaogen,mic,Serratia marcescens,ASMA1015,10
+achaogen,mic,Serratia marcescens,ASMA1016,8
+achaogen,mic,Serratia marcescens,ASMA1017,10
+achaogen,mic,Serratia marcescens,ASMA1018,6
+achaogen,mic,Serratia marcescens,ASMA1019,6
+achaogen,mic,Serratia marcescens,ASMA1020,6
+achaogen,mic,Serratia marcescens,ASMA1021,3
+achaogen,mic,Serratia marcescens,ASMA1022,6
+achaogen,mic,Serratia marcescens,ASMA1023,3
+achaogen,mic,Serratia marcescens,ASMA1024,7
+achaogen,mic,Serratia marcescens,ASMA1025,3
+achaogen,mic,Serratia marcescens,ASMA1026,3
+achaogen,mic,Serratia marcescens,ASMA1027,10
+achaogen,mic,Serratia marcescens,ASMA1028,10
+achaogen,mic,Serratia marcescens,ASMA1029,7
+achaogen,mic,Serratia marcescens,ASMA1030,7
+achaogen,mic,Serratia marcescens,ASMA1031,4
+achaogen,mic,Shigella dysenteriae,ASDY1001,20
+achaogen,mic,Shigella flexneri,ASFL1001,20
+achaogen,mic,Shigella flexneri,ASFL1002,3
+achaogen,mic,Shigella sonnei,ASON1001,3
+achaogen,mic,Shigella sonnei,ASON1002,3
+achaogen,mic,Shigella sonnei,ASON1003,3
+achaogen,mic,Shigella species,ASHSP1001,3
+achaogen,mic,Staphylococcus aureus,ASAU002,2
+achaogen,mic,Staphylococcus aureus,ASAU1013,1
+achaogen,mic,Staphylococcus aureus,ASAU1014,3
+achaogen,mic,Staphylococcus aureus,ASAU1028,1
+achaogen,mic,Staphylococcus aureus,ASAU1029,1
+achaogen,mic,Staphylococcus aureus,ASAU1031,1
+achaogen,mic,Staphylococcus aureus,ASAU1033,2
+achaogen,mic,Staphylococcus aureus,ASAU1034,3
+achaogen,mic,Staphylococcus aureus,ASAU1038,4
+achaogen,mic,Staphylococcus aureus,ASAU1043,1
+achaogen,mic,Staphylococcus aureus,ASAU1044,1
+achaogen,mic,Staphylococcus aureus,ASAU1048,3
+achaogen,mic,Staphylococcus aureus,ASAU1052,1
+achaogen,mic,Staphylococcus aureus,ASAU1096,1
+achaogen,mic,Staphylococcus aureus,ASAU1097,1
+achaogen,mic,Staphylococcus aureus,ATCC 29213,1364
+achaogen,mic,Staphylococcus epidermidis,ASEP1001,27
+achaogen,mic,Staphylococcus epidermidis,ASEP1003,4
+achaogen,mic,Staphylococcus epidermidis,ASEP1006,3
+achaogen,mic,Staphylococcus epidermidis,ASEP1008,1
+achaogen,mic,Staphylococcus epidermidis,ASEP1009,3
+achaogen,mic,Staphylococcus epidermidis,ASEP1010,3
+achaogen,mic,Staphylococcus epidermidis,ASEP1011,1
+achaogen,mic,Stenotrophomonas maltophilia,APAE1036,102
+achaogen,mic,Stenotrophomonas maltophilia,APAE1040,13
+achaogen,mic,Stenotrophomonas maltophilia,APAE1041,13
+achaogen,mic,Stenotrophomonas maltophilia,APAE1055,13
+achaogen,mic,Stenotrophomonas maltophilia,APAE1057,104
+achaogen,mic,Stenotrophomonas maltophilia,APAE1063,13
+achaogen,mic,Stenotrophomonas spp.,APAE1043,105
+achaogen,mic,Streptococcus pneumoniae,ASPN001,28
+achaogen,mic,Streptococcus pneumoniae,ASPN002,1
+achaogen,mic,Streptococcus pneumoniae,ASPN004,1
+achaogen,mic,Streptococcus pneumoniae,ASPN1017,1
+achaogen,mic,Streptococcus pneumoniae,ASPN1018,2
+achaogen,mic,Streptococcus pneumoniae,ASPN1027,1
+achaogen,mic,Wautersia paucula,AABA1055,18
+achaogen,mic,Yersinia enterocolitica,ATCC 23715,1125
+co-add,inhibition,Acinetobacter baumannii,ATCC 19606,23089
+co-add,inhibition,Escherichia coli,ATCC 25922,5285
+co-add,inhibition,Klebsiella pneumoniae,ATCC 700603,5284
+co-add,inhibition,Pseudomonas aeruginosa,ATCC 27853,23089
+co-add,inhibition,Pseudomonas aeruginosa,PAO397,17810
+co-add,mic,Acinetobacter baumannii,ATCC 19606,1036
+co-add,mic,Escherichia coli,ATCC 25922,841
+co-add,mic,Klebsiella pneumoniae,ATCC 700603,841
+co-add,mic,Pseudomonas aeruginosa,ATCC 27853,1036
+co-add,mic,Pseudomonas aeruginosa,PAO397,593
+merck_kyorin,mic,Acinetobacter baumannii,IID876,249
+merck_kyorin,mic,Escherichia coli,ATCC 25922,249
+merck_kyorin,mic,Escherichia coli,KAM3,245
+merck_kyorin,mic,Pseudomonas aeruginosa,KH4013e,245
+merck_kyorin,mic,Pseudomonas aeruginosa,KH4014a,246
+merck_kyorin,mic,Pseudomonas aeruginosa,PAO1,249
+merck_kyorin,mic,Pseudomonas aeruginosa,PAO6006,246
+merck_kyorin,mic,Staphylococcus aureus,RN4220,246
+mic,mic,Acinetobacter anitratus,83031106,4
+mic,mic,Acinetobacter baumannii,17978,33
+mic,mic,Acinetobacter baumannii,17978 mcr-1,33
+mic,mic,Acinetobacter baumannii,18894,5
+mic,mic,Acinetobacter baumannii,18894,5
+mic,mic,Acinetobacter baumannii,1R-lpx-null,3
+mic,mic,Acinetobacter baumannii,1R-lpx-null + LpxWT,3
+mic,mic,Acinetobacter baumannii,1R-msbA-missense,3
+mic,mic,Acinetobacter baumannii,2208,31
+mic,mic,Acinetobacter baumannii,5075,4
+mic,mic,Acinetobacter baumannii,63169,6
+mic,mic,Acinetobacter baumannii,A-1305,5
+mic,mic,Acinetobacter baumannii,A-1305,5
+mic,mic,Acinetobacter baumannii,A-1306,5
+mic,mic,Acinetobacter baumannii,A-1306,5
+mic,mic,Acinetobacter baumannii,AABA1060,1117
+mic,mic,Acinetobacter baumannii,AB-3167,8
+mic,mic,Acinetobacter baumannii,AB0057,1
+mic,mic,Acinetobacter baumannii,AB060,1
+mic,mic,Acinetobacter baumannii,AB5075,36
+mic,mic,Acinetobacter baumannii,ABO27,1
+mic,mic,Acinetobacter baumannii,ABO28,1
+mic,mic,Acinetobacter baumannii,ABO30,1
+mic,mic,Acinetobacter baumannii,ACCA152,1
+mic,mic,Acinetobacter baumannii,AR-0033,3
+mic,mic,Acinetobacter baumannii,AR-0078,3
+mic,mic,Acinetobacter baumannii,AR-0083,3
+mic,mic,Acinetobacter baumannii,AR-0273,3
+mic,mic,Acinetobacter baumannii,AR-0278,3
+mic,mic,Acinetobacter baumannii,AR-0288,3
+mic,mic,Acinetobacter baumannii,AR-0299,3
+mic,mic,Acinetobacter baumannii,AR-0311,3
+mic,mic,Acinetobacter baumannii,AR-0312,3
+mic,mic,Acinetobacter baumannii,AR-0313,3
+mic,mic,Acinetobacter baumannii,ARC 3495,44
+mic,mic,Acinetobacter baumannii,ARC2582,3
+mic,mic,Acinetobacter baumannii,ARC2597,3
+mic,mic,Acinetobacter baumannii,ARC2598,3
+mic,mic,Acinetobacter baumannii,ARC2635,3
+mic,mic,Acinetobacter baumannii,ARC2650,3
+mic,mic,Acinetobacter baumannii,ARC2674,6
+mic,mic,Acinetobacter baumannii,ARC2674,4
+mic,mic,Acinetobacter baumannii,ARC2675,6
+mic,mic,Acinetobacter baumannii,ARC2675,4
+mic,mic,Acinetobacter baumannii,ARC2681,3
+mic,mic,Acinetobacter baumannii,ARC2682,3
+mic,mic,Acinetobacter baumannii,ARC2719,3
+mic,mic,Acinetobacter baumannii,ARC2728,4
+mic,mic,Acinetobacter baumannii,ARC2728,4
+mic,mic,Acinetobacter baumannii,ARC2777,3
+mic,mic,Acinetobacter baumannii,ARC2778,3
+mic,mic,Acinetobacter baumannii,ARC2779,4
+mic,mic,Acinetobacter baumannii,ARC2779,4
+mic,mic,Acinetobacter baumannii,ARC2780,4
+mic,mic,Acinetobacter baumannii,ARC2780,4
+mic,mic,Acinetobacter baumannii,ARC2781,4
+mic,mic,Acinetobacter baumannii,ARC2781,4
+mic,mic,Acinetobacter baumannii,ARC2782,4
+mic,mic,Acinetobacter baumannii,ARC2782,4
+mic,mic,Acinetobacter baumannii,ARC3484,4
+mic,mic,Acinetobacter baumannii,ARC3484,4
+mic,mic,Acinetobacter baumannii,ARC3485,6
+mic,mic,Acinetobacter baumannii,ARC3485,4
+mic,mic,Acinetobacter baumannii,ARC3486,6
+mic,mic,Acinetobacter baumannii,ARC3486,4
+mic,mic,Acinetobacter baumannii,ARC3487,3
+mic,mic,Acinetobacter baumannii,ARC3488,3
+mic,mic,Acinetobacter baumannii,ARC3489,6
+mic,mic,Acinetobacter baumannii,ARC3489,4
+mic,mic,Acinetobacter baumannii,ARC3490,3
+mic,mic,Acinetobacter baumannii,ARC3492,6
+mic,mic,Acinetobacter baumannii,ARC3492,4
+mic,mic,Acinetobacter baumannii,ARC3493,6
+mic,mic,Acinetobacter baumannii,ARC3493,4
+mic,mic,Acinetobacter baumannii,ARC3494,3
+mic,mic,Acinetobacter baumannii,ARC3495,52
+mic,mic,Acinetobacter baumannii,ARC3495,6
+mic,mic,Acinetobacter baumannii,ARC3513,4
+mic,mic,Acinetobacter baumannii,ARC3513,4
+mic,mic,Acinetobacter baumannii,ARC3515,4
+mic,mic,Acinetobacter baumannii,ARC3515,4
+mic,mic,Acinetobacter baumannii,ARC3657,4
+mic,mic,Acinetobacter baumannii,ARC3657,4
+mic,mic,Acinetobacter baumannii,ARC3658,6
+mic,mic,Acinetobacter baumannii,ARC3658,4
+mic,mic,Acinetobacter baumannii,ARC3659,6
+mic,mic,Acinetobacter baumannii,ARC3659,4
+mic,mic,Acinetobacter baumannii,ARC3882,4
+mic,mic,Acinetobacter baumannii,ARC3882,4
+mic,mic,Acinetobacter baumannii,ARC5073,3
+mic,mic,Acinetobacter baumannii,ARC5074,3
+mic,mic,Acinetobacter baumannii,ARC5075,3
+mic,mic,Acinetobacter baumannii,ARC5076,3
+mic,mic,Acinetobacter baumannii,ARC5077,3
+mic,mic,Acinetobacter baumannii,ARC5079,3
+mic,mic,Acinetobacter baumannii,ARC5080,3
+mic,mic,Acinetobacter baumannii,ARC5081,3
+mic,mic,Acinetobacter baumannii,ARC5082,3
+mic,mic,Acinetobacter baumannii,ARC5083,3
+mic,mic,Acinetobacter baumannii,ARC5084,3
+mic,mic,Acinetobacter baumannii,ARC5086,3
+mic,mic,Acinetobacter baumannii,ARC5087,3
+mic,mic,Acinetobacter baumannii,ARC5088,3
+mic,mic,Acinetobacter baumannii,ARC5089,3
+mic,mic,Acinetobacter baumannii,ARC5091,3
+mic,mic,Acinetobacter baumannii,ARC5092,3
+mic,mic,Acinetobacter baumannii,ARC5468,3
+mic,mic,Acinetobacter baumannii,ARC5942,3
+mic,mic,Acinetobacter baumannii,ARC5943,3
+mic,mic,Acinetobacter baumannii,ARC5944,3
+mic,mic,Acinetobacter baumannii,ARC5945,3
+mic,mic,Acinetobacter baumannii,ARC5946,3
+mic,mic,Acinetobacter baumannii,ARC5947,3
+mic,mic,Acinetobacter baumannii,ARC5948,3
+mic,mic,Acinetobacter baumannii,ARC5949,3
+mic,mic,Acinetobacter baumannii,ARC5952,3
+mic,mic,Acinetobacter baumannii,ARC5953,3
+mic,mic,Acinetobacter baumannii,ARC5955,3
+mic,mic,Acinetobacter baumannii,ARC5958,3
+mic,mic,Acinetobacter baumannii,ARC5959,3
+mic,mic,Acinetobacter baumannii,ARC5960,3
+mic,mic,Acinetobacter baumannii,ARC5963,3
+mic,mic,Acinetobacter baumannii,ARC5964,3
+mic,mic,Acinetobacter baumannii,ARC5965,3
+mic,mic,Acinetobacter baumannii,ARC5966,3
+mic,mic,Acinetobacter baumannii,ARC5967,3
+mic,mic,Acinetobacter baumannii,ARC5968,3
+mic,mic,Acinetobacter baumannii,ARC5971,3
+mic,mic,Acinetobacter baumannii,ARC5972,3
+mic,mic,Acinetobacter baumannii,ARC5973,3
+mic,mic,Acinetobacter baumannii,ARC5974,3
+mic,mic,Acinetobacter baumannii,ARC5975,3
+mic,mic,Acinetobacter baumannii,ARC5976,3
+mic,mic,Acinetobacter baumannii,ARC5978,3
+mic,mic,Acinetobacter baumannii,ARC5979,3
+mic,mic,Acinetobacter baumannii,ARC5982,3
+mic,mic,Acinetobacter baumannii,ARC5983,3
+mic,mic,Acinetobacter baumannii,ARC5984,3
+mic,mic,Acinetobacter baumannii,ARC5985,3
+mic,mic,Acinetobacter baumannii,ARC5987,3
+mic,mic,Acinetobacter baumannii,ARC5988,3
+mic,mic,Acinetobacter baumannii,ARC6199,3
+mic,mic,Acinetobacter baumannii,ARC6301,3
+mic,mic,Acinetobacter baumannii,ARC6302,3
+mic,mic,Acinetobacter baumannii,ARC6303,3
+mic,mic,Acinetobacter baumannii,ARC6304,3
+mic,mic,Acinetobacter baumannii,ARC6306,3
+mic,mic,Acinetobacter baumannii,ARC6307,3
+mic,mic,Acinetobacter baumannii,ARC6308,3
+mic,mic,Acinetobacter baumannii,ATCC 17961,90
+mic,mic,Acinetobacter baumannii,ATCC 17961,90
+mic,mic,Acinetobacter baumannii,ATCC 17978,43
+mic,mic,Acinetobacter baumannii,ATCC 17978,11
+mic,mic,Acinetobacter baumannii,ATCC 17978+mcr-1,1
+mic,mic,Acinetobacter baumannii,ATCC 17978-pNT255,7
+mic,mic,Acinetobacter baumannii,ATCC 17978-pNT255 : ADC-1,7
+mic,mic,Acinetobacter baumannii,ATCC 17978/pNT255,7
+mic,mic,Acinetobacter baumannii,ATCC 17978/pNT255-ADC-1,7
+mic,mic,Acinetobacter baumannii,ATCC 17978/pWH1266,3
+mic,mic,Acinetobacter baumannii,ATCC 17978/pWH1266-ADC-30,3
+mic,mic,Acinetobacter baumannii,ATCC 17978/pWH1266-KPC-2,3
+mic,mic,Acinetobacter baumannii,ATCC 17978/pWH1266-OXA-23,3
+mic,mic,Acinetobacter baumannii,ATCC 17978/pWH1266-OXA-24,3
+mic,mic,Acinetobacter baumannii,ATCC 17978/pWH1266-TEM-1,3
+mic,mic,Acinetobacter baumannii,ATCC 19606,1182
+mic,mic,Acinetobacter baumannii,ATCC 19606,151
+mic,mic,Acinetobacter baumannii,ATCC 19606R,5
+mic,mic,Acinetobacter baumannii,ATCC 19606R-pAL840,5
+mic,mic,Acinetobacter baumannii,ATCC 19606R-pWH1266,5
+mic,mic,Acinetobacter baumannii,ATCC BAA 1793,5
+mic,mic,Acinetobacter baumannii,ATCC BAA 1797,6
+mic,mic,Acinetobacter baumannii,ATCC BAA 1800,6
+mic,mic,Acinetobacter baumannii,ATCC BAA-1605,4
+mic,mic,Acinetobacter baumannii,ATCC BAA-1605,5
+mic,mic,Acinetobacter baumannii,ATCC BAA-1793,5
+mic,mic,Acinetobacter baumannii,ATCC BAA-1797,6
+mic,mic,Acinetobacter baumannii,ATCC BAA-1800,6
+mic,mic,Acinetobacter baumannii,Acinetobacter sp. CMX 662C,4
+mic,mic,Acinetobacter baumannii,Acinetobacter sp. CMX 669,4
+mic,mic,Acinetobacter baumannii,Acinetobacter sp. CMX 675F,4
+mic,mic,Acinetobacter baumannii,Acinetobacter sp. CMX 676C,4
+mic,mic,Acinetobacter baumannii,BAA1605,4
+mic,mic,Acinetobacter baumannii,BD335,5
+mic,mic,Acinetobacter baumannii,BM001,1
+mic,mic,Acinetobacter baumannii,BM002,1
+mic,mic,Acinetobacter baumannii,BM4454,4
+mic,mic,Acinetobacter baumannii,BM4652,4
+mic,mic,Acinetobacter baumannii,F19521,4
+mic,mic,Acinetobacter baumannii,F264,5
+mic,mic,Acinetobacter baumannii,FW004,23
+mic,mic,Acinetobacter baumannii,FW004,23
+mic,mic,Acinetobacter baumannii,HM001,33
+mic,mic,Acinetobacter baumannii,HM002,33
+mic,mic,Acinetobacter baumannii,HM005,33
+mic,mic,Acinetobacter baumannii,HPA 327009,4
+mic,mic,Acinetobacter baumannii,HPA 4737,4
+mic,mic,Acinetobacter baumannii,HPA I-16,4
+mic,mic,Acinetobacter baumannii,HPA74510,4
+mic,mic,Acinetobacter baumannii,IF101,5
+mic,mic,Acinetobacter baumannii,IID876,252
+mic,mic,Acinetobacter baumannii,IID876,3
+mic,mic,Acinetobacter baumannii,JVAB01 Orf3+,8
+mic,mic,Acinetobacter baumannii,JVAB01 Orf3-,8
+mic,mic,Acinetobacter baumannii,KB304,8
+mic,mic,Acinetobacter baumannii,KB343,3
+mic,mic,Acinetobacter baumannii,KB349,5
+mic,mic,Acinetobacter baumannii,KB357,3
+mic,mic,Acinetobacter baumannii,M13100,3
+mic,mic,Acinetobacter baumannii,MAC101,1
+mic,mic,Acinetobacter baumannii,MAC102,1
+mic,mic,Acinetobacter baumannii,MAC103,1
+mic,mic,Acinetobacter baumannii,MAC201,1
+mic,mic,Acinetobacter baumannii,MAC203,1
+mic,mic,Acinetobacter baumannii,NB48015,181
+mic,mic,Acinetobacter baumannii,NB48015-XYL0003,183
+mic,mic,Acinetobacter baumannii,NB48015-XYL0005,183
+mic,mic,Acinetobacter baumannii,NCIMB 12457,62
+mic,mic,Acinetobacter baumannii,PM3941,1
+mic,mic,Acinetobacter baumannii,PM3941,1
+mic,mic,Acinetobacter baumannii,PM3942,1
+mic,mic,Acinetobacter baumannii,PM3942,1
+mic,mic,Acinetobacter baumannii,PM4112,1
+mic,mic,Acinetobacter baumannii,PM4112,1
+mic,mic,Acinetobacter baumannii,PM4119,1
+mic,mic,Acinetobacter baumannii,PM4119,1
+mic,mic,Acinetobacter baumannii,Ptyela 100734512:2,36
+mic,mic,Acinetobacter baumannii,Ptyela 100734512:2,36
+mic,mic,Acinetobacter baumannii,SM1536,4
+mic,mic,Acinetobacter baumannii,SM1536,4
+mic,mic,Acinetobacter baumannii,SM1536+mcr-1,1
+mic,mic,Acinetobacter baumannii,T-627,4
+mic,mic,Acinetobacter baumannii,T6474,27
+mic,mic,Acinetobacter baumannii,T6474,27
+mic,mic,Acinetobacter baumannii,W41979,4
+mic,mic,Acinetobacter baumannii,WO22,8
+mic,mic,Acinetobacter baumannii,YMC2012/7/R3167,8
+mic,mic,Acinetobacter baumannii,ZK001,8
+mic,mic,Acinetobacter baumannii,ZK002,8
+mic,mic,Acinetobacter baumannii,ZK003,3
+mic,mic,Acinetobacter baumannii,ZK004,4
+mic,mic,Acinetobacter baumannii,ZK005,4
+mic,mic,Acinetobacter baumannii,ZK006,4
+mic,mic,Acinetobacter baumannii,ZK007,4
+mic,mic,Acinetobacter baumannii,ZK008,4
+mic,mic,Acinetobacter baumannii,ZW005,2
+mic,mic,Acinetobacter baumannii,ZW005,2
+mic,mic,Acinetobacter baumannii,focus ID 961025,19
+mic,mic,Acinetobacter baumannii,isolate 3941,33
+mic,mic,Acinetobacter baumannii,isolate 4106,33
+mic,mic,Acinetobacter baumannii,isolate 5075,33
+mic,mic,Acinetobacter baumannii,isolate ABO27,1
+mic,mic,Acinetobacter baumannii,isolate ABO28,1
+mic,mic,Acinetobacter baumannii,isolate ABO30,1
+mic,mic,Acinetobacter baumannii,isolate CAN-ICU 63169,6
+mic,mic,Acinetobacter baumannii,isolate FADDI008R,1
+mic,mic,Acinetobacter baumannii,Δ0431,4
+mic,mic,Acinetobacter baumannii,Δ1255,4
+mic,mic,Acinetobacter baumannii,Δ2609,4
+mic,mic,Acinetobacter baumannii,Δ5,8
+mic,mic,Acinetobacter baumannii,Δ5 + MsbA-missense,3
+mic,mic,Acinetobacter baumannii,Δ5 ΔlpxA,8
+mic,mic,Acinetobacter baumannii,ΔadeIJK::apr,4
+mic,mic,Acinetobacter baumannii,ΔlpxC::kan,4
+mic,mic,Acinetobacter calcoaceticus,810905230,4
+mic,mic,Acinetobacter junii,15218,1
+mic,mic,Acinetobacter junii,RT-4,16
+mic,mic,Acinetobacter junii,RT-4,16
+mic,mic,Alcaligenes xylosus,Alcaligenes sp. CMX 688E,4
+mic,mic,Alcaligenes xylosus,NB56002,2
+mic,mic,Bacillus amyloliquefaciens,23842,21
+mic,mic,Bacillus amyloliquefaciens,ATCC 23842,21
+mic,mic,Bacillus anthracis,Ames,9887
+mic,mic,Bacillus anthracis,Ames (NR-411),9887
+mic,mic,Bacillus anthracis,Sterne,29
+mic,mic,Bacillus anthracis,Sterne 34F2,42
+mic,mic,Bacillus cereus,ATCC 13061,9
+mic,mic,Bacillus cereus,ATCC 13061,9
+mic,mic,Bacillus cereus,ATCC 14579,13
+mic,mic,Bacillus cereus,VM001,16
+mic,mic,Bacillus cereus,VM001,16
+mic,mic,Bacillus licheniformis,ATCC 12759,9
+mic,mic,Bacillus licheniformis,ATCC 12759,9
+mic,mic,Bacillus megaterium,Bm11,16
+mic,mic,Bacillus megaterium,Bm11,16
+mic,mic,Bacillus subtilis,168,41
+mic,mic,Bacillus subtilis,3610,1
+mic,mic,Bacillus subtilis,ATCC 23857,94
+mic,mic,Bacillus subtilis,ATCC 23857,63
+mic,mic,Bacillus subtilis,ATCC 530,21
+mic,mic,Bacillus subtilis,ATCC 6633,156
+mic,mic,Bacillus subtilis,ATCC 6633,154
+mic,mic,Bacillus subtilis,ATCC6633,21
+mic,mic,Bacillus subtilis,JH642,1
+mic,mic,Bacillus subtilis,LZ003,25
+mic,mic,Bacillus subtilis,NCIM-2063,11
+mic,mic,Bacillus subtilis,YB886,12
+mic,mic,Bacillus subtilis,YB886,12
+mic,mic,Bacillus subtilis,ZZ001,21
+mic,mic,Bacteroides fragilis,ATCC 25285,1
+mic,mic,Bacteroides fragilis,ATCC 25285,1
+mic,mic,Brucella abortus,2308,9936
+mic,mic,Brucella abortus,2308,9936
+mic,mic,Burkholderia cepacia,2961,4
+mic,mic,Burkholderia cepacia,FC004,4
+mic,mic,Burkholderia cepacia,NB49016,4
+mic,mic,Burkholderia multivorans,249-2,2
+mic,mic,Burkholderia multivorans,ATCC 17616,2
+mic,mic,Burkholderia multivorans,C1576,2
+mic,mic,Burkholderia multivorans,C1962,2
+mic,mic,Burkholderia multivorans,C5393,2
+mic,mic,Burkholderia multivorans,CF-A1-1,2
+mic,mic,Burkholderia multivorans,JTC,2
+mic,mic,Burkholderia multivorans,LMG 13010,2
+mic,mic,Burkholderia thailandensis,ATCC 700388,569
+mic,mic,Caulobacter crescentus,CB15N,25
+mic,mic,Caulobacter crescentus,NA1000,37
+mic,mic,Caulobacter crescentus,NA1000,12
+mic,mic,Citrobacter freundii,ARC3883,2
+mic,mic,Citrobacter freundii,ARC5383,2
+mic,mic,Citrobacter freundii,ATCC 8090,5
+mic,mic,Citrobacter freundii,T8533,5
+mic,mic,Citrobacter freundii,T8533,5
+mic,mic,Cronobacter sakazakii,ATCC 29544,1
+mic,mic,Edwardsiella tarda,FW003,16
+mic,mic,Edwardsiella tarda,FW003,16
+mic,mic,Enterobacter aerogenes,88020207,4
+mic,mic,Enterobacter aerogenes,ATCC 13048,9
+mic,mic,Enterobacter aerogenes,ATCC 35029,139
+mic,mic,Enterobacter aerogenes,EA-CM64,5
+mic,mic,Enterobacter aerogenes,EA27,5
+mic,mic,Enterobacter aerogenes,EA289,5
+mic,mic,Enterobacter aerogenes,EA294,5
+mic,mic,Enterobacter aerogenes,EA298,5
+mic,mic,Enterobacter aerogenes,EA3,5
+mic,mic,Enterobacter aerogenes,EA5,5
+mic,mic,Enterobacter aerogenes,FW005,16
+mic,mic,Enterobacter aerogenes,FW005,16
+mic,mic,Enterobacter aerogenes,NB24004,2
+mic,mic,Enterobacter aerogenes,ZW002,2
+mic,mic,Enterobacter aerogenes,ZW002,2
+mic,mic,Enterobacter cloacae,1-60,5
+mic,mic,Enterobacter cloacae,10600,5
+mic,mic,Enterobacter cloacae,10600,5
+mic,mic,Enterobacter cloacae,29893,3
+mic,mic,Enterobacter cloacae,3-46,5
+mic,mic,Enterobacter cloacae,908R,4
+mic,mic,Enterobacter cloacae,A-1196,5
+mic,mic,Enterobacter cloacae,A-1196,5
+mic,mic,Enterobacter cloacae,ARC3528,5
+mic,mic,Enterobacter cloacae,ARC3528,5
+mic,mic,Enterobacter cloacae,ARC3532,2
+mic,mic,Enterobacter cloacae,ARC4520,2
+mic,mic,Enterobacter cloacae,ARC5127,2
+mic,mic,Enterobacter cloacae,ARC5130,2
+mic,mic,Enterobacter cloacae,ARC5342,2
+mic,mic,Enterobacter cloacae,ATCC 13047,99
+mic,mic,Enterobacter cloacae,ATCC 13047,86
+mic,mic,Enterobacter cloacae,ATCC 23355,9
+mic,mic,Enterobacter cloacae,ATCC 29893,8
+mic,mic,Enterobacter cloacae,ATCC BAA-2341,1
+mic,mic,Enterobacter cloacae,ATCC BAA-2341,1
+mic,mic,Enterobacter cloacae,BAA-1154,4
+mic,mic,Enterobacter cloacae,BAA-2341,3
+mic,mic,Enterobacter cloacae,BAA-2468,3
+mic,mic,Enterobacter cloacae,CCUG52947,5
+mic,mic,Enterobacter cloacae,CF002,1
+mic,mic,Enterobacter cloacae,CF002,1
+mic,mic,Enterobacter cloacae,Ec07769,5
+mic,mic,Enterobacter cloacae,Ec07769,5
+mic,mic,Enterobacter cloacae,Ec1194,5
+mic,mic,Enterobacter cloacae,Ec1194,5
+mic,mic,Enterobacter cloacae,MS001,4
+mic,mic,Enterobacter cloacae,P99,15
+mic,mic,Enterobacter cloacae,P99,15
+mic,mic,Enterobacter cloacae,S28901.1,3
+mic,mic,Enterobacter cloacae,S4741B,1
+mic,mic,Enterobacter cloacae,S9369,1
+mic,mic,Enterobacter cloacae,T-21929,5
+mic,mic,Enterobacter cloacae,T6519,5
+mic,mic,Enterobacter cloacae,T6519,5
+mic,mic,Enterobacter cloacae,VM002,16
+mic,mic,Enterobacter cloacae,VM002,16
+mic,mic,Enterococcus faecalis,1.5604,3
+mic,mic,Enterococcus faecalis,1131,3
+mic,mic,Enterococcus faecalis,99,9
+mic,mic,Enterococcus faecalis,99,9
+mic,mic,Enterococcus faecalis,ATCC 29212,1090
+mic,mic,Enterococcus faecalis,ATCC 29212,213
+mic,mic,Enterococcus faecalis,ATCC 33186,75
+mic,mic,Enterococcus faecalis,ATCC 33186,63
+mic,mic,Enterococcus faecalis,ATCC 49532,8
+mic,mic,Enterococcus faecalis,ATCC 49532,8
+mic,mic,Enterococcus faecalis,ATCC 49533,8
+mic,mic,Enterococcus faecalis,ATCC 51299,5
+mic,mic,Enterococcus faecalis,ATCC 51299,12
+mic,mic,Enterococcus faecalis,ATCC 51575,29
+mic,mic,Enterococcus faecalis,ATCC 51575,29
+mic,mic,Enterococcus faecalis,ATCC 9790,85
+mic,mic,Enterococcus faecalis,ATCC49533,8
+mic,mic,Enterococcus faecalis,FN-1,25
+mic,mic,Enterococcus faecalis,HM-201,8
+mic,mic,Enterococcus faecalis,HM-201,8
+mic,mic,Enterococcus faecalis,HM-334,5
+mic,mic,Enterococcus faecalis,HM-334,5
+mic,mic,Enterococcus faecalis,HM-335,5
+mic,mic,Enterococcus faecalis,HM-335,5
+mic,mic,Enterococcus faecalis,HM-934,8
+mic,mic,Enterococcus faecalis,HM-934,8
+mic,mic,Enterococcus faecalis,KCTC 2011,5
+mic,mic,Enterococcus faecalis,KU1777,4
+mic,mic,Enterococcus faecalis,LK001,5
+mic,mic,Enterococcus faecalis,MGH-2,24
+mic,mic,Enterococcus faecalis,MGH-2 EF1-1,24
+mic,mic,Enterococcus faecalis,MH003,14
+mic,mic,Enterococcus faecalis,NCTC 12201,25
+mic,mic,Enterococcus faecalis,NR-31887,8
+mic,mic,Enterococcus faecalis,NR-31887,8
+mic,mic,Enterococcus faecalis,NR-31972,5
+mic,mic,Enterococcus faecalis,NR-31972,5
+mic,mic,Enterococcus faecalis,NR-31975,5
+mic,mic,Enterococcus faecalis,NR-31975,5
+mic,mic,Enterococcus faecalis,VREF,5
+mic,mic,Enterococcus faecium,A-949,5
+mic,mic,Enterococcus faecium,A-949,5
+mic,mic,Enterococcus faecium,A2373,3
+mic,mic,Enterococcus faecium,A2373,3
+mic,mic,Enterococcus faecium,ARC073,13
+mic,mic,Enterococcus faecium,ATCC 19434,97
+mic,mic,Enterococcus faecium,ATCC 19434,92
+mic,mic,Enterococcus faecium,ATCC 27270,6
+mic,mic,Enterococcus faecium,ATCC 27270,6
+mic,mic,Enterococcus faecium,ATCC 51559,1
+mic,mic,Enterococcus faecium,ATCC 51559,1
+mic,mic,Enterococcus faecium,ATCC 6569,63
+mic,mic,Enterococcus faecium,ATCC 700221,5
+mic,mic,Enterococcus faecium,ATCC 700221,5
+mic,mic,Enterococcus faecium,ATCC 8043,4
+mic,mic,Enterococcus faecium,E1071,5
+mic,mic,Enterococcus faecium,E1071,5
+mic,mic,Enterococcus faecium,HM-204,8
+mic,mic,Enterococcus faecium,HM-204,8
+mic,mic,Enterococcus faecium,HM-463,8
+mic,mic,Enterococcus faecium,HM-463,8
+mic,mic,Enterococcus faecium,HM-959,8
+mic,mic,Enterococcus faecium,HM-959,8
+mic,mic,Enterococcus faecium,HM-968,5
+mic,mic,Enterococcus faecium,HM-968,5
+mic,mic,Enterococcus faecium,JM001,59
+mic,mic,Enterococcus faecium,KU1778,6
+mic,mic,Enterococcus faecium,L1,5
+mic,mic,Enterococcus faecium,NR-28979,8
+mic,mic,Enterococcus faecium,NR-28979,8
+mic,mic,Enterococcus faecium,NR-31903,5
+mic,mic,Enterococcus faecium,NR-31903,5
+mic,mic,Enterococcus faecium,NR-31909,5
+mic,mic,Enterococcus faecium,NR-31909,5
+mic,mic,Enterococcus faecium,NR-31912,5
+mic,mic,Enterococcus faecium,NR-31912,5
+mic,mic,Enterococcus faecium,NR-31914,5
+mic,mic,Enterococcus faecium,NR-31914,5
+mic,mic,Enterococcus faecium,NR-31915,5
+mic,mic,Enterococcus faecium,NR-31915,5
+mic,mic,Enterococcus faecium,NR-31916,5
+mic,mic,Enterococcus faecium,NR-31916,5
+mic,mic,Enterococcus faecium,OC3312,2
+mic,mic,Enterococcus faecium,OC3312,2
+mic,mic,Enterococcus faecium,SR005,5
+mic,mic,Enterococcus faecium,vanA,59
+mic,mic,Enterococcus hirae,ATCC 8043,66
+mic,mic,Enterococcus hirae,ATCC 9790,85
+mic,mic,Escherichia coli,1346,15
+mic,mic,Escherichia coli,1346,15
+mic,mic,Escherichia coli,1411,4
+mic,mic,Escherichia coli,1411,4
+mic,mic,Escherichia coli,1411 d-acrAB,4
+mic,mic,Escherichia coli,1527E,15
+mic,mic,Escherichia coli,1527E,15
+mic,mic,Escherichia coli,49,1
+mic,mic,Escherichia coli,49 no efflux,56
+mic,mic,Escherichia coli,5-NOT mutant 15-1,1
+mic,mic,Escherichia coli,5-NOT mutant 8,1
+mic,mic,Escherichia coli,50,57
+mic,mic,Escherichia coli,61714,6
+mic,mic,Escherichia coli,63074,6
+mic,mic,Escherichia coli,7623,9
+mic,mic,Escherichia coli,77081847,4
+mic,mic,Escherichia coli,89439,1
+mic,mic,Escherichia coli,90087,1
+mic,mic,Escherichia coli,90789,1
+mic,mic,Escherichia coli,91191,1
+mic,mic,Escherichia coli,92756,1
+mic,mic,Escherichia coli,92969,1
+mic,mic,Escherichia coli,95882,1
+mic,mic,Escherichia coli,97615,6
+mic,mic,Escherichia coli,98550,1
+mic,mic,Escherichia coli,A,4
+mic,mic,Escherichia coli,AECO006,1122
+mic,mic,Escherichia coli,AECO063,1227
+mic,mic,Escherichia coli,AECO1029,1077
+mic,mic,Escherichia coli,AG100A,8
+mic,mic,Escherichia coli,AG100A,8
+mic,mic,Escherichia coli,AG100ATet,5
+mic,mic,Escherichia coli,AG100ATet,5
+mic,mic,Escherichia coli,AG100AX/pBAD,25
+mic,mic,Escherichia coli,AG100AX/pBAD-norM,25
+mic,mic,Escherichia coli,AG100AX/pBAD-ydhE,25
+mic,mic,Escherichia coli,AG102,27
+mic,mic,Escherichia coli,AG102,27
+mic,mic,Escherichia coli,AG102MB,21
+mic,mic,Escherichia coli,AG102MB,21
+mic,mic,Escherichia coli,AG102MB/pP1,14
+mic,mic,Escherichia coli,AG102MB/pP1,14
+mic,mic,Escherichia coli,AG102MB/pP10,14
+mic,mic,Escherichia coli,AG102MB/pP10,14
+mic,mic,Escherichia coli,AG102MB/pS1328,14
+mic,mic,Escherichia coli,AG102MB/pS1328,14
+mic,mic,Escherichia coli,AG102MB/pSportI,14
+mic,mic,Escherichia coli,AG102MB/pSportI,14
+mic,mic,Escherichia coli,AG112,5
+mic,mic,Escherichia coli,ANS1,94
+mic,mic,Escherichia coli,ANS1,23
+mic,mic,Escherichia coli,ANSI,71
+mic,mic,Escherichia coli,AR-0048,3
+mic,mic,Escherichia coli,AR-0058,1
+mic,mic,Escherichia coli,AR-0058,3
+mic,mic,Escherichia coli,AR-0085,3
+mic,mic,Escherichia coli,AR-0114,3
+mic,mic,Escherichia coli,AR-0137,3
+mic,mic,Escherichia coli,AR-0151,3
+mic,mic,Escherichia coli,AR-0162,3
+mic,mic,Escherichia coli,AR-0346,3
+mic,mic,Escherichia coli,AR-0349,3
+mic,mic,Escherichia coli,AR-0493,3
+mic,mic,Escherichia coli,AR-0493,4
+mic,mic,Escherichia coli,AR-0495,3
+mic,mic,Escherichia coli,AR-0541,3
+mic,mic,Escherichia coli,AR-0543,1
+mic,mic,Escherichia coli,AR-0543,3
+mic,mic,Escherichia coli,AR-0559,3
+mic,mic,Escherichia coli,AR001,2
+mic,mic,Escherichia coli,AR00493,1
+mic,mic,Escherichia coli,AR0055,1
+mic,mic,Escherichia coli,AR0055,1
+mic,mic,Escherichia coli,AR0058,1
+mic,mic,Escherichia coli,AR0061,1
+mic,mic,Escherichia coli,AR0061,1
+mic,mic,Escherichia coli,AR0067,1
+mic,mic,Escherichia coli,AR0067,1
+mic,mic,Escherichia coli,AR0077,1
+mic,mic,Escherichia coli,AR0077,1
+mic,mic,Escherichia coli,AR0081,1
+mic,mic,Escherichia coli,AR0081,1
+mic,mic,Escherichia coli,AR0086,1
+mic,mic,Escherichia coli,AR0086,1
+mic,mic,Escherichia coli,AR0089,1
+mic,mic,Escherichia coli,AR0089,1
+mic,mic,Escherichia coli,AR0104,1
+mic,mic,Escherichia coli,AR0104,1
+mic,mic,Escherichia coli,AR0114,1
+mic,mic,Escherichia coli,AR0114,1
+mic,mic,Escherichia coli,AR0118,1
+mic,mic,Escherichia coli,AR0118,1
+mic,mic,Escherichia coli,AR0119,1
+mic,mic,Escherichia coli,AR0119,1
+mic,mic,Escherichia coli,AR0128,1
+mic,mic,Escherichia coli,AR0128,1
+mic,mic,Escherichia coli,AR0137,1
+mic,mic,Escherichia coli,AR0137,1
+mic,mic,Escherichia coli,AR0150,1
+mic,mic,Escherichia coli,AR0150,1
+mic,mic,Escherichia coli,AR0151,1
+mic,mic,Escherichia coli,AR0151,1
+mic,mic,Escherichia coli,AR0162,1
+mic,mic,Escherichia coli,AR0162,1
+mic,mic,Escherichia coli,AR0346,1
+mic,mic,Escherichia coli,AR0346,1
+mic,mic,Escherichia coli,AR0348,1
+mic,mic,Escherichia coli,AR0348,1
+mic,mic,Escherichia coli,AR0349,1
+mic,mic,Escherichia coli,AR0349,1
+mic,mic,Escherichia coli,AR0350,1
+mic,mic,Escherichia coli,AR0350,1
+mic,mic,Escherichia coli,AR0493,1
+mic,mic,Escherichia coli,AR0494,1
+mic,mic,Escherichia coli,AR0494,1
+mic,mic,Escherichia coli,AR0495,1
+mic,mic,Escherichia coli,AR0495,1
+mic,mic,Escherichia coli,AR0541,1
+mic,mic,Escherichia coli,AR0541,1
+mic,mic,Escherichia coli,AR0543,1
+mic,mic,Escherichia coli,AR0546,1
+mic,mic,Escherichia coli,AR0546,1
+mic,mic,Escherichia coli,AR0549,1
+mic,mic,Escherichia coli,AR0549,1
+mic,mic,Escherichia coli,AR0551,1
+mic,mic,Escherichia coli,AR0551,1
+mic,mic,Escherichia coli,AR0559,1
+mic,mic,Escherichia coli,AR0559,1
+mic,mic,Escherichia coli,ARA0016,3
+mic,mic,Escherichia coli,ARC3518,2
+mic,mic,Escherichia coli,ARC3600,2
+mic,mic,Escherichia coli,ARC3898,2
+mic,mic,Escherichia coli,ARC3899,2
+mic,mic,Escherichia coli,ARC3902,2
+mic,mic,Escherichia coli,ARC5139,2
+mic,mic,Escherichia coli,ARC6074,2
+mic,mic,Escherichia coli,ARC6436,2
+mic,mic,Escherichia coli,ARC6437,2
+mic,mic,Escherichia coli,ARC6438,2
+mic,mic,Escherichia coli,ARC6439,2
+mic,mic,Escherichia coli,ARC6440,2
+mic,mic,Escherichia coli,ARC6441,2
+mic,mic,Escherichia coli,ARC6442,2
+mic,mic,Escherichia coli,ARC6443,2
+mic,mic,Escherichia coli,ARC6444,2
+mic,mic,Escherichia coli,ARC6445,2
+mic,mic,Escherichia coli,ARP0004-3-DKO,1
+mic,mic,Escherichia coli,ARP0004-3-DKO,1
+mic,mic,Escherichia coli,ARP0004-4-DKO,1
+mic,mic,Escherichia coli,ARP0004-4-DKO,1
+mic,mic,Escherichia coli,ARP0010-3-DKO,1
+mic,mic,Escherichia coli,ARP0010-3-DKO,1
+mic,mic,Escherichia coli,ARP0010-3-WT,1
+mic,mic,Escherichia coli,ARP0010-3-WT,1
+mic,mic,Escherichia coli,ARP0010-4-DKO,1
+mic,mic,Escherichia coli,ARP0010-4-DKO,1
+mic,mic,Escherichia coli,ARP0010-4-WT,1
+mic,mic,Escherichia coli,ARP0010-4-WT,1
+mic,mic,Escherichia coli,ARP0011-3-DKO,1
+mic,mic,Escherichia coli,ARP0011-3-DKO,1
+mic,mic,Escherichia coli,ARP0011-4-DKO,1
+mic,mic,Escherichia coli,ARP0011-4-DKO,1
+mic,mic,Escherichia coli,ARP0012-3-DKO,1
+mic,mic,Escherichia coli,ARP0012-3-DKO,1
+mic,mic,Escherichia coli,ARP0012-3-WT,1
+mic,mic,Escherichia coli,ARP0012-3-WT,1
+mic,mic,Escherichia coli,ARP0012-4-DKO,1
+mic,mic,Escherichia coli,ARP0012-4-DKO,1
+mic,mic,Escherichia coli,ARP0012-4-WT,1
+mic,mic,Escherichia coli,ARP0012-4-WT,1
+mic,mic,Escherichia coli,ARP0023-3-DKO,1
+mic,mic,Escherichia coli,ARP0023-3-DKO,1
+mic,mic,Escherichia coli,ARP0023-3-WT,1
+mic,mic,Escherichia coli,ARP0023-3-WT,1
+mic,mic,Escherichia coli,ARP0023-4-DKO,1
+mic,mic,Escherichia coli,ARP0023-4-DKO,1
+mic,mic,Escherichia coli,ARP0023-4-WT,1
+mic,mic,Escherichia coli,ARP0024-3-DKO,1
+mic,mic,Escherichia coli,ARP0024-3-DKO,1
+mic,mic,Escherichia coli,ARP0024-4-DKO,1
+mic,mic,Escherichia coli,ARP0024-4-DKO,1
+mic,mic,Escherichia coli,ARP0025-3-DKO,1
+mic,mic,Escherichia coli,ARP0025-3-DKO,1
+mic,mic,Escherichia coli,ARP0025-4-DKO,1
+mic,mic,Escherichia coli,ARP0025-4-DKO,1
+mic,mic,Escherichia coli,ARP0026-3-DKO,1
+mic,mic,Escherichia coli,ARP0026-3-DKO,1
+mic,mic,Escherichia coli,ARP0026-4-DKO,1
+mic,mic,Escherichia coli,ARP0026-4-DKO,1
+mic,mic,Escherichia coli,ARP0027-3-DKO,1
+mic,mic,Escherichia coli,ARP0027-3-DKO,1
+mic,mic,Escherichia coli,ARP0027-4-DKO,1
+mic,mic,Escherichia coli,ARP0027-4-DKO,1
+mic,mic,Escherichia coli,ARP0027-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0027-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0027-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0027-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0028-3-DKO,1
+mic,mic,Escherichia coli,ARP0028-3-DKO,1
+mic,mic,Escherichia coli,ARP0028-4-DKO,1
+mic,mic,Escherichia coli,ARP0028-4-DKO,1
+mic,mic,Escherichia coli,ARP0029-3-DKO,1
+mic,mic,Escherichia coli,ARP0029-3-DKO,1
+mic,mic,Escherichia coli,ARP0029-3-WT,1
+mic,mic,Escherichia coli,ARP0029-3-WT,1
+mic,mic,Escherichia coli,ARP0029-4-DKO,1
+mic,mic,Escherichia coli,ARP0029-4-DKO,1
+mic,mic,Escherichia coli,ARP0029-4-WT,1
+mic,mic,Escherichia coli,ARP0029-4-WT,1
+mic,mic,Escherichia coli,ARP0030-3-DKO,1
+mic,mic,Escherichia coli,ARP0030-3-DKO,1
+mic,mic,Escherichia coli,ARP0030-4-DKO,1
+mic,mic,Escherichia coli,ARP0030-4-DKO,1
+mic,mic,Escherichia coli,ARP0031-3-DKO,1
+mic,mic,Escherichia coli,ARP0031-3-DKO,1
+mic,mic,Escherichia coli,ARP0031-4-DKO,1
+mic,mic,Escherichia coli,ARP0031-4-DKO,1
+mic,mic,Escherichia coli,ARP0032-3-DKO,2
+mic,mic,Escherichia coli,ARP0032-3-DKO,2
+mic,mic,Escherichia coli,ARP0032-3-WT,2
+mic,mic,Escherichia coli,ARP0032-3-WT,2
+mic,mic,Escherichia coli,ARP0032-4-DKO,2
+mic,mic,Escherichia coli,ARP0032-4-DKO,2
+mic,mic,Escherichia coli,ARP0032-4-WT,2
+mic,mic,Escherichia coli,ARP0032-4-WT,2
+mic,mic,Escherichia coli,ARP0033-3-DKO,1
+mic,mic,Escherichia coli,ARP0033-3-DKO,1
+mic,mic,Escherichia coli,ARP0033-3-WT,1
+mic,mic,Escherichia coli,ARP0033-3-WT,1
+mic,mic,Escherichia coli,ARP0033-4-DKO,1
+mic,mic,Escherichia coli,ARP0033-4-DKO,1
+mic,mic,Escherichia coli,ARP0033-4-WT,1
+mic,mic,Escherichia coli,ARP0033-4-WT,1
+mic,mic,Escherichia coli,ARP0034-3-DKO,1
+mic,mic,Escherichia coli,ARP0034-3-DKO,1
+mic,mic,Escherichia coli,ARP0034-4-DKO,1
+mic,mic,Escherichia coli,ARP0034-4-DKO,1
+mic,mic,Escherichia coli,ARP0035-3-DKO,1
+mic,mic,Escherichia coli,ARP0035-3-DKO,1
+mic,mic,Escherichia coli,ARP0035-4-DKO,1
+mic,mic,Escherichia coli,ARP0035-4-DKO,1
+mic,mic,Escherichia coli,ARP0036-3-DKO,1
+mic,mic,Escherichia coli,ARP0036-3-DKO,1
+mic,mic,Escherichia coli,ARP0036-4-DKO,1
+mic,mic,Escherichia coli,ARP0036-4-DKO,1
+mic,mic,Escherichia coli,ARP0036-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0036-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0036-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0036-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0041-3-DKO,1
+mic,mic,Escherichia coli,ARP0041-3-DKO,1
+mic,mic,Escherichia coli,ARP0041-4-DKO,1
+mic,mic,Escherichia coli,ARP0041-4-DKO,1
+mic,mic,Escherichia coli,ARP0042-3-DKO,1
+mic,mic,Escherichia coli,ARP0042-3-DKO,1
+mic,mic,Escherichia coli,ARP0042-4-DKO,1
+mic,mic,Escherichia coli,ARP0042-4-DKO,1
+mic,mic,Escherichia coli,ARP0043-1-DKO,1
+mic,mic,Escherichia coli,ARP0043-1-DKO,1
+mic,mic,Escherichia coli,ARP0043-2-DKO,1
+mic,mic,Escherichia coli,ARP0043-2-DKO,1
+mic,mic,Escherichia coli,ARP0043-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0043-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0043-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0043-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0061-1-DKO,1
+mic,mic,Escherichia coli,ARP0061-1-DKO,1
+mic,mic,Escherichia coli,ARP0061-2-DKO,1
+mic,mic,Escherichia coli,ARP0061-2-DKO,1
+mic,mic,Escherichia coli,ARP0062-1-DKO,1
+mic,mic,Escherichia coli,ARP0062-1-DKO,1
+mic,mic,Escherichia coli,ARP0062-2-DKO,1
+mic,mic,Escherichia coli,ARP0062-2-DKO,1
+mic,mic,Escherichia coli,ARP0075-1-DKO,1
+mic,mic,Escherichia coli,ARP0075-1-DKO,1
+mic,mic,Escherichia coli,ARP0075-2-DKO,1
+mic,mic,Escherichia coli,ARP0075-2-DKO,1
+mic,mic,Escherichia coli,ARP0078-1-DKO,1
+mic,mic,Escherichia coli,ARP0078-1-DKO,1
+mic,mic,Escherichia coli,ARP0078-2-DKO,1
+mic,mic,Escherichia coli,ARP0078-2-DKO,1
+mic,mic,Escherichia coli,ARP0078-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0078-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0078-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0078-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0086-1-DKO,1
+mic,mic,Escherichia coli,ARP0086-1-DKO,1
+mic,mic,Escherichia coli,ARP0086-2-DKO,1
+mic,mic,Escherichia coli,ARP0086-2-DKO,1
+mic,mic,Escherichia coli,ARP0086-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0086-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0086-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0086-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0091-1-DKO,1
+mic,mic,Escherichia coli,ARP0091-1-DKO,1
+mic,mic,Escherichia coli,ARP0091-2-DKO,1
+mic,mic,Escherichia coli,ARP0091-2-DKO,1
+mic,mic,Escherichia coli,ARP0095-1-DKO,1
+mic,mic,Escherichia coli,ARP0095-1-DKO,1
+mic,mic,Escherichia coli,ARP0095-2-DKO,1
+mic,mic,Escherichia coli,ARP0095-2-DKO,1
+mic,mic,Escherichia coli,ARP0097-3-DKO,1
+mic,mic,Escherichia coli,ARP0097-3-DKO,1
+mic,mic,Escherichia coli,ARP0097-3-WT,1
+mic,mic,Escherichia coli,ARP0097-3-WT,1
+mic,mic,Escherichia coli,ARP0097-4-DKO,1
+mic,mic,Escherichia coli,ARP0097-4-DKO,1
+mic,mic,Escherichia coli,ARP0097-4-WT,1
+mic,mic,Escherichia coli,ARP0097-4-WT,1
+mic,mic,Escherichia coli,ARP0098-1-DKO,1
+mic,mic,Escherichia coli,ARP0098-1-DKO,1
+mic,mic,Escherichia coli,ARP0098-2-DKO,1
+mic,mic,Escherichia coli,ARP0098-2-DKO,1
+mic,mic,Escherichia coli,ARP0101-1-DKO,1
+mic,mic,Escherichia coli,ARP0101-1-DKO,1
+mic,mic,Escherichia coli,ARP0101-2-DKO,1
+mic,mic,Escherichia coli,ARP0101-2-DKO,1
+mic,mic,Escherichia coli,ARP0105-3-DKO,1
+mic,mic,Escherichia coli,ARP0105-3-DKO,1
+mic,mic,Escherichia coli,ARP0105-4-DKO,1
+mic,mic,Escherichia coli,ARP0105-4-DKO,1
+mic,mic,Escherichia coli,ARP0106-3-DKO,2
+mic,mic,Escherichia coli,ARP0106-3-DKO,2
+mic,mic,Escherichia coli,ARP0106-4-DKO,2
+mic,mic,Escherichia coli,ARP0106-4-DKO,2
+mic,mic,Escherichia coli,ARP0108-3-DKO,1
+mic,mic,Escherichia coli,ARP0108-3-DKO,1
+mic,mic,Escherichia coli,ARP0108-4-DKO,1
+mic,mic,Escherichia coli,ARP0108-4-DKO,1
+mic,mic,Escherichia coli,ARP0108-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0108-INT1-DKO,1
+mic,mic,Escherichia coli,ARP0108-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0108-INT2-DKO,1
+mic,mic,Escherichia coli,ARP0111-3-DKO,1
+mic,mic,Escherichia coli,ARP0111-3-DKO,1
+mic,mic,Escherichia coli,ARP0111-4-DKO,1
+mic,mic,Escherichia coli,ARP0111-4-DKO,1
+mic,mic,Escherichia coli,ARP0116-1-DKO,1
+mic,mic,Escherichia coli,ARP0116-1-DKO,1
+mic,mic,Escherichia coli,ARP0116-1-WT,1
+mic,mic,Escherichia coli,ARP0116-1-WT,1
+mic,mic,Escherichia coli,ARP0116-2-DKO,1
+mic,mic,Escherichia coli,ARP0116-2-DKO,1
+mic,mic,Escherichia coli,ARP0116-2-WT,1
+mic,mic,Escherichia coli,ARP0116-2-WT,1
+mic,mic,Escherichia coli,ARP0119-3-DKO,1
+mic,mic,Escherichia coli,ARP0119-3-DKO,1
+mic,mic,Escherichia coli,ARP0119-4-DKO,1
+mic,mic,Escherichia coli,ARP0119-4-DKO,1
+mic,mic,Escherichia coli,ARP0123-1-DKO,1
+mic,mic,Escherichia coli,ARP0123-1-DKO,1
+mic,mic,Escherichia coli,ARP0123-1-WT,1
+mic,mic,Escherichia coli,ARP0123-1-WT,1
+mic,mic,Escherichia coli,ARP0123-2-DKO,1
+mic,mic,Escherichia coli,ARP0123-2-DKO,1
+mic,mic,Escherichia coli,ARP0123-2-WT,1
+mic,mic,Escherichia coli,ARP0123-2-WT,1
+mic,mic,Escherichia coli,ARP0124-3-DKO,1
+mic,mic,Escherichia coli,ARP0124-3-DKO,1
+mic,mic,Escherichia coli,ARP0124-4-DKO,1
+mic,mic,Escherichia coli,ARP0124-4-DKO,1
+mic,mic,Escherichia coli,ARP0125-3-DKO,1
+mic,mic,Escherichia coli,ARP0125-3-DKO,1
+mic,mic,Escherichia coli,ARP0125-4-DKO,1
+mic,mic,Escherichia coli,ARP0125-4-DKO,1
+mic,mic,Escherichia coli,ARP0126-1-DKO,1
+mic,mic,Escherichia coli,ARP0126-1-DKO,1
+mic,mic,Escherichia coli,ARP0126-2-DKO,1
+mic,mic,Escherichia coli,ARP0126-2-DKO,1
+mic,mic,Escherichia coli,ARP0128-1-DKO,1
+mic,mic,Escherichia coli,ARP0128-1-DKO,1
+mic,mic,Escherichia coli,ARP0128-1-WT,1
+mic,mic,Escherichia coli,ARP0128-1-WT,1
+mic,mic,Escherichia coli,ARP0128-2-DKO,1
+mic,mic,Escherichia coli,ARP0128-2-DKO,1
+mic,mic,Escherichia coli,ARP0128-2-WT,1
+mic,mic,Escherichia coli,ARP0128-2-WT,1
+mic,mic,Escherichia coli,ARPX-DKO,21
+mic,mic,Escherichia coli,ARPX-DKO,21
+mic,mic,Escherichia coli,ATCC 10536,5
+mic,mic,Escherichia coli,ATCC 10536,5
+mic,mic,Escherichia coli,ATCC 13883,2
+mic,mic,Escherichia coli,ATCC 25922,12419
+mic,mic,Escherichia coli,ATCC 25922,624
+mic,mic,Escherichia coli,ATCC 25922 d-tolC,27
+mic,mic,Escherichia coli,ATCC 25922 hisS V334E (selection at 32μg/mL),1
+mic,mic,Escherichia coli,ATCC 25922 mcr-1,33
+mic,mic,Escherichia coli,ATCC 25922 ΔtolC,2
+mic,mic,Escherichia coli,ATCC 25922 ΔtolC (selection at 0.5μg/mL),1
+mic,mic,Escherichia coli,ATCC 25922 ΔtolC (selection at 1μg/mL),1
+mic,mic,Escherichia coli,ATCC 25922 ΔtolC DR76_3503 Q47H (selection at 1μg/mL),1
+mic,mic,Escherichia coli,ATCC 25922+mcr-1,1
+mic,mic,Escherichia coli,ATCC 25992,9
+mic,mic,Escherichia coli,ATCC 35150,4
+mic,mic,Escherichia coli,ATCC 35150,4
+mic,mic,Escherichia coli,ATCC 35210,16
+mic,mic,Escherichia coli,ATCC 35218,162
+mic,mic,Escherichia coli,ATCC 35218,152
+mic,mic,Escherichia coli,ATCC 53323,17
+mic,mic,Escherichia coli,ATCC 8739,5
+mic,mic,Escherichia coli,ATCC 8739,5
+mic,mic,Escherichia coli,ATCC BAA-2340,1
+mic,mic,Escherichia coli,ATCC BAA-2340,1
+mic,mic,Escherichia coli,ATCC BAA-2452,5
+mic,mic,Escherichia coli,ATCC BAA-2469,1
+mic,mic,Escherichia coli,ATCC BAA-2469,1
+mic,mic,Escherichia coli,ATCC BAA-2471,1
+mic,mic,Escherichia coli,ATCC BAA-2471,2
+mic,mic,Escherichia coli,ATCC25922,52
+mic,mic,Escherichia coli,ATCC35218,21
+mic,mic,Escherichia coli,AcrAB-,1
+mic,mic,Escherichia coli,B,15
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-L1,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-L1,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-L2,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-L2,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,B1LK0A/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,BAA-2340,3
+mic,mic,Escherichia coli,BAA-2452,5
+mic,mic,Escherichia coli,BAA-2469,8
+mic,mic,Escherichia coli,BAA-2471,3
+mic,mic,Escherichia coli,BL21(DE3),4
+mic,mic,Escherichia coli,BM003,1
+mic,mic,Escherichia coli,BM004,1
+mic,mic,Escherichia coli,BW25113,127
+mic,mic,Escherichia coli,BW25113 d-tolC,74
+mic,mic,Escherichia coli,BW25113 delta tolC,5
+mic,mic,Escherichia coli,"BW25113, pPJ131 empty plasmid, CBNR",1
+mic,mic,Escherichia coli,"BW25113, pPJ131:cysK, CBNR",1
+mic,mic,Escherichia coli,BWDK,9
+mic,mic,Escherichia coli,CDY0154,12
+mic,mic,Escherichia coli,CDY0154,3
+mic,mic,Escherichia coli,CF102,4
+mic,mic,Escherichia coli,CFT073,1
+mic,mic,Escherichia coli,CGSC 10255,7
+mic,mic,Escherichia coli,CGSC 11430,644
+mic,mic,Escherichia coli,CGSC 11430,116
+mic,mic,Escherichia coli,CGSC 11805,17
+mic,mic,Escherichia coli,CGSC 11805,17
+mic,mic,Escherichia coli,CGSC 12504,21
+mic,mic,Escherichia coli,CGSC 12504,12
+mic,mic,Escherichia coli,CGSC 14179,909
+mic,mic,Escherichia coli,CGSC 14179,87
+mic,mic,Escherichia coli,CGSC 4245,17
+mic,mic,Escherichia coli,CGSC 4245,17
+mic,mic,Escherichia coli,CGSC 4474,120
+mic,mic,Escherichia coli,CGSC 4474,105
+mic,mic,Escherichia coli,CGSC 5158,24
+mic,mic,Escherichia coli,CGSC 5163,20
+mic,mic,Escherichia coli,CGSC 5163,26
+mic,mic,Escherichia coli,CGSC 5583,37
+mic,mic,Escherichia coli,CGSC 5583,7
+mic,mic,Escherichia coli,CGSC 6152,345
+mic,mic,Escherichia coli,CGSC 6152,40
+mic,mic,Escherichia coli,CGSC 6152 Δtig,1
+mic,mic,Escherichia coli,CGSC 7138,13
+mic,mic,Escherichia coli,CGSC 7138,13
+mic,mic,Escherichia coli,CGSC 7139,31
+mic,mic,Escherichia coli,CGSC 7139,27
+mic,mic,Escherichia coli,CGSC 7636,1545
+mic,mic,Escherichia coli,CGSC 7636,164
+mic,mic,Escherichia coli,CGSC 7636/pPJ131,1
+mic,mic,Escherichia coli,CGSC 7636/pPJ131:cysK,1
+mic,mic,Escherichia coli,CGSC 7740,1076
+mic,mic,Escherichia coli,CGSC 7851,187
+mic,mic,Escherichia coli,CGSC 7851,12
+mic,mic,Escherichia coli,CGSC 7851; wildtype,7
+mic,mic,Escherichia coli,CGSC 8299,7
+mic,mic,Escherichia coli,CGSC 8399,7
+mic,mic,Escherichia coli,CGSC 8609,5
+mic,mic,Escherichia coli,CGSC 9916,6
+mic,mic,Escherichia coli,CGSC 9916/pPJ131:cysK-S70C,1
+mic,mic,Escherichia coli,CGSC 9922,7
+mic,mic,Escherichia coli,CMR300,11
+mic,mic,Escherichia coli,CMR300,11
+mic,mic,Escherichia coli,CTX-M-15,7
+mic,mic,Escherichia coli,CU164A/pBK-CMV,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-L1,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-L1,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-L2,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-L2,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,CU164A/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,D21,24
+mic,mic,Escherichia coli,D21 lpxC101,8
+mic,mic,Escherichia coli,"D21 lpxC101, tolC",8
+mic,mic,Escherichia coli,D21 tolC,8
+mic,mic,Escherichia coli,"D21 tolC,moir-R",4
+mic,mic,Escherichia coli,DC-2,4
+mic,mic,Escherichia coli,DC0,13
+mic,mic,Escherichia coli,DC0,13
+mic,mic,Escherichia coli,DH5? (parent strain),7
+mic,mic,Escherichia coli,DH5a,6
+mic,mic,Escherichia coli,DH5a + KPC2,6
+mic,mic,Escherichia coli,DH5a + KPC3,6
+mic,mic,Escherichia coli,DH5a + NDM1,6
+mic,mic,Escherichia coli,DH5ɑ,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-CTX-M-15,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-KPC-3,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-NDM-1,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-OXA-24/40,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-OXA-58,6
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-SHV-12,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-SHV-5,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-TEM-1,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-TEM-24,7
+mic,mic,Escherichia coli,DH5ɑ/pUCP26-VIM-2,7
+mic,mic,Escherichia coli,DL001,7
+mic,mic,Escherichia coli,DL002,7
+mic,mic,Escherichia coli,DL003,7
+mic,mic,Escherichia coli,DL004,7
+mic,mic,Escherichia coli,DL005,7
+mic,mic,Escherichia coli,DL006,4
+mic,mic,Escherichia coli,DL007,4
+mic,mic,Escherichia coli,DL008,2
+mic,mic,Escherichia coli,DL009,2
+mic,mic,Escherichia coli,EC-2549,24
+mic,mic,Escherichia coli,EC-28,7
+mic,mic,Escherichia coli,ECM1194,1
+mic,mic,Escherichia coli,ECM1194,1
+mic,mic,Escherichia coli,ECM1194 ΔtolC,1
+mic,mic,Escherichia coli,ECMH01,1
+mic,mic,Escherichia coli,ELZ 4004,1
+mic,mic,Escherichia coli,ELZ 4017,1
+mic,mic,Escherichia coli,ELZ 4042,1
+mic,mic,Escherichia coli,ELZ 4045,1
+mic,mic,Escherichia coli,ELZ 4072,1
+mic,mic,Escherichia coli,ELZ 4081,1
+mic,mic,Escherichia coli,ELZ 4239,1
+mic,mic,Escherichia coli,ELZ 4277,1
+mic,mic,Escherichia coli,ELZ 4346,3
+mic,mic,Escherichia coli,ELZ4004,6
+mic,mic,Escherichia coli,ELZ4017,6
+mic,mic,Escherichia coli,ELZ4042,6
+mic,mic,Escherichia coli,ELZ4045,6
+mic,mic,Escherichia coli,ELZ4072,6
+mic,mic,Escherichia coli,ELZ4081,6
+mic,mic,Escherichia coli,ELZ4139,5
+mic,mic,Escherichia coli,ELZ4239,6
+mic,mic,Escherichia coli,ELZ4277,6
+mic,mic,Escherichia coli,ELZ4346,8
+mic,mic,Escherichia coli,Ec d9pump,12
+mic,mic,Escherichia coli,Ec7623,9
+mic,mic,Escherichia coli,EcCI 1,7
+mic,mic,Escherichia coli,EcCI 2,7
+mic,mic,Escherichia coli,EcCI 3,7
+mic,mic,Escherichia coli,EcCI 4,7
+mic,mic,Escherichia coli,EcCI 5,7
+mic,mic,Escherichia coli,EcCI 6,7
+mic,mic,Escherichia coli,Eco524,75
+mic,mic,Escherichia coli,Eco524,31
+mic,mic,Escherichia coli,F20987,2
+mic,mic,Escherichia coli,FS001,62
+mic,mic,Escherichia coli,FW012,1
+mic,mic,Escherichia coli,FW013,1
+mic,mic,Escherichia coli,GD100,7
+mic,mic,Escherichia coli,GD100,7
+mic,mic,Escherichia coli,GD102 (dTolC),22
+mic,mic,Escherichia coli,GD106,7
+mic,mic,Escherichia coli,GD106,7
+mic,mic,Escherichia coli,GD107,7
+mic,mic,Escherichia coli,GD107,7
+mic,mic,Escherichia coli,GD108,7
+mic,mic,Escherichia coli,GD108,7
+mic,mic,Escherichia coli,GKCW101,21
+mic,mic,Escherichia coli,GKCW102,33
+mic,mic,Escherichia coli,GKCW102,1
+mic,mic,Escherichia coli,GKCW103,32
+mic,mic,Escherichia coli,GKCW104,32
+mic,mic,Escherichia coli,GKCW105,19
+mic,mic,Escherichia coli,GKCW106,20
+mic,mic,Escherichia coli,GKCW107,19
+mic,mic,Escherichia coli,GKCW108,19
+mic,mic,Escherichia coli,GKCW109,20
+mic,mic,Escherichia coli,GKCW110,20
+mic,mic,Escherichia coli,Gradisar EC001,4
+mic,mic,Escherichia coli,H560,4
+mic,mic,Escherichia coli,H560,4
+mic,mic,Escherichia coli,HB101-pAT268,4
+mic,mic,Escherichia coli,HC001,17
+mic,mic,Escherichia coli,HC001,17
+mic,mic,Escherichia coli,HC002,17
+mic,mic,Escherichia coli,HM006,33
+mic,mic,Escherichia coli,HNCE4,21
+mic,mic,Escherichia coli,HNCE4,21
+mic,mic,Escherichia coli,HS294,34
+mic,mic,Escherichia coli,HS294,34
+mic,mic,Escherichia coli,Hubschwerlen EC00B,15
+mic,mic,Escherichia coli,IH3080,9
+mic,mic,Escherichia coli,J53,11
+mic,mic,Escherichia coli,JC7623,3
+mic,mic,Escherichia coli,JC7623 ΔtolC FQ-S,7
+mic,mic,Escherichia coli,JM003,57
+mic,mic,Escherichia coli,JM004,56
+mic,mic,Escherichia coli,JM005,1
+mic,mic,Escherichia coli,JM109,17
+mic,mic,Escherichia coli,JUHL,66
+mic,mic,Escherichia coli,JUHL,60
+mic,mic,Escherichia coli,JW0117-1,7
+mic,mic,Escherichia coli,JW0451,3
+mic,mic,Escherichia coli,JW0451,3
+mic,mic,Escherichia coli,JW0451-2,5
+mic,mic,Escherichia coli,"JW2407, KanR",1
+mic,mic,Escherichia coli,"JW2407, pPJ131:cysKS70C, KanR, CBNR",1
+mic,mic,Escherichia coli,"JW2414, KanR",1
+mic,mic,Escherichia coli,JW2914-1,7
+mic,mic,Escherichia coli,JW2956-1,7
+mic,mic,Escherichia coli,JW3596,5
+mic,mic,Escherichia coli,JW5503,4
+mic,mic,Escherichia coli,JW5503-1,8
+mic,mic,Escherichia coli,JW55031 + KPC2,5
+mic,mic,Escherichia coli,JW55031 + KPC3,5
+mic,mic,Escherichia coli,JW55031 + NDM1,5
+mic,mic,Escherichia coli,JWK0002,13
+mic,mic,Escherichia coli,JWK0002,13
+mic,mic,Escherichia coli,Juhl,4
+mic,mic,Escherichia coli,K 901,15
+mic,mic,Escherichia coli,K-12,28
+mic,mic,Escherichia coli,K12,90
+mic,mic,Escherichia coli,K12,85
+mic,mic,Escherichia coli,K12 delta-tolC,28
+mic,mic,Escherichia coli,K12ΔtolC,28
+mic,mic,Escherichia coli,K802N-pAT251,4
+mic,mic,Escherichia coli,K901,15
+mic,mic,Escherichia coli,KAM3,263
+mic,mic,Escherichia coli,KAM3,18
+mic,mic,Escherichia coli,KNK 437,4
+mic,mic,Escherichia coli,KNK 437,4
+mic,mic,Escherichia coli,KPC-3,7
+mic,mic,Escherichia coli,LY001,25
+mic,mic,Escherichia coli,LY002,25
+mic,mic,Escherichia coli,LY003,25
+mic,mic,Escherichia coli,LZ001,25
+mic,mic,Escherichia coli,Libyien,4
+mic,mic,Escherichia coli,LpxAQ73L,12
+mic,mic,Escherichia coli,M113R,7
+mic,mic,Escherichia coli,M6394 (WT),20
+mic,mic,Escherichia coli,M6394-d9,19
+mic,mic,Escherichia coli,M6394-dTolCM,20
+mic,mic,Escherichia coli,M66623,2
+mic,mic,Escherichia coli,MC4100 EC-2026,24
+mic,mic,Escherichia coli,MC4100A/pBK-CMV,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-L1,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-L1,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-L2,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-L2,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,MC4100A/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,MG1655,285
+mic,mic,Escherichia coli,MG1655,136
+mic,mic,Escherichia coli,MG1655 (K12),14
+mic,mic,Escherichia coli,MG1655 A116V,1
+mic,mic,Escherichia coli,MG1655 A116V colony 1,2
+mic,mic,Escherichia coli,MG1655 A116V colony 5,2
+mic,mic,Escherichia coli,MG1655 G148S colony 1,2
+mic,mic,Escherichia coli,MG1655 G148S colony 2,2
+mic,mic,Escherichia coli,MG1655 GyrA S83L D87N ParC S80I,2
+mic,mic,Escherichia coli,MG1655 d-acrAB,16
+mic,mic,Escherichia coli,MG1655 d-rfaC,16
+mic,mic,Escherichia coli,MG1655 d-tolC,16
+mic,mic,Escherichia coli,MG1655 ΔtolC,14
+mic,mic,Escherichia coli,MG1665 G148S,1
+mic,mic,Escherichia coli,MH001,1
+mic,mic,Escherichia coli,MN001,27
+mic,mic,Escherichia coli,N-10-1631,1
+mic,mic,Escherichia coli,N43,31
+mic,mic,Escherichia coli,NB27005,183
+mic,mic,Escherichia coli,NB27005,3
+mic,mic,Escherichia coli,NB27006,183
+mic,mic,Escherichia coli,NB27007,183
+mic,mic,Escherichia coli,NB27047,2
+mic,mic,Escherichia coli,NB27176-JAL0947,3
+mic,mic,Escherichia coli,NB27176-JAL0948,3
+mic,mic,Escherichia coli,NB27176-JAL0949,3
+mic,mic,Escherichia coli,NCIM-2256,11
+mic,mic,Escherichia coli,NCTC 9002,11
+mic,mic,Escherichia coli,NCTC13353,2
+mic,mic,Escherichia coli,NDM-1,7
+mic,mic,Escherichia coli,NIHJ JC-2,24
+mic,mic,Escherichia coli,NIHJ JC-2,24
+mic,mic,Escherichia coli,NL001,5
+mic,mic,Escherichia coli,NL002,6
+mic,mic,Escherichia coli,NL003,6
+mic,mic,Escherichia coli,NL004,6
+mic,mic,Escherichia coli,NL005,6
+mic,mic,Escherichia coli,NL006,6
+mic,mic,Escherichia coli,NL007,6
+mic,mic,Escherichia coli,NL008,6
+mic,mic,Escherichia coli,NL009,6
+mic,mic,Escherichia coli,NL010,6
+mic,mic,Escherichia coli,NL011,6
+mic,mic,Escherichia coli,NL012,6
+mic,mic,Escherichia coli,NL013,6
+mic,mic,Escherichia coli,NL014,5
+mic,mic,Escherichia coli,NL015,5
+mic,mic,Escherichia coli,NR698,8
+mic,mic,Escherichia coli,NR698,17
+mic,mic,Escherichia coli,NovaBlue,3
+mic,mic,Escherichia coli,NovaBlue,3
+mic,mic,Escherichia coli,OC2530,12
+mic,mic,Escherichia coli,OC2530,12
+mic,mic,Escherichia coli,OC2605,2
+mic,mic,Escherichia coli,OC2605,2
+mic,mic,Escherichia coli,OC9040,2
+mic,mic,Escherichia coli,OC9040,2
+mic,mic,Escherichia coli,OXA-24/40,7
+mic,mic,Escherichia coli,OXA-58,6
+mic,mic,Escherichia coli,PQ37,1
+mic,mic,Escherichia coli,PQ37,1
+mic,mic,Escherichia coli,PTC E028,7
+mic,mic,Escherichia coli,Pore,10
+mic,mic,Escherichia coli,Pore-dTolC,10
+mic,mic,Escherichia coli,RFM795 + KPC2,6
+mic,mic,Escherichia coli,RFM795 + KPC3,6
+mic,mic,Escherichia coli,RFM795 + NDM1,6
+mic,mic,Escherichia coli,SC 9252,4
+mic,mic,Escherichia coli,SC 9253,4
+mic,mic,Escherichia coli,SHV-12,7
+mic,mic,Escherichia coli,SHV-5,7
+mic,mic,Escherichia coli,SJ EC001,7
+mic,mic,Escherichia coli,SJ EC002,7
+mic,mic,Escherichia coli,SJ EC003,7
+mic,mic,Escherichia coli,SJ EC004,7
+mic,mic,Escherichia coli,SJ EC005,7
+mic,mic,Escherichia coli,SJ EC006,7
+mic,mic,Escherichia coli,SM1411,4
+mic,mic,Escherichia coli,SR001,16
+mic,mic,Escherichia coli,SR002,16
+mic,mic,Escherichia coli,SR003,16
+mic,mic,Escherichia coli,SS,4
+mic,mic,Escherichia coli,SW002,8
+mic,mic,Escherichia coli,SW003,4
+mic,mic,Escherichia coli,SW004,8
+mic,mic,Escherichia coli,T-21372,9
+mic,mic,Escherichia coli,T-21427,6
+mic,mic,Escherichia coli,T-290,1
+mic,mic,Escherichia coli,T-31234,4
+mic,mic,Escherichia coli,T-920,8
+mic,mic,Escherichia coli,TEM-1,7
+mic,mic,Escherichia coli,TEM-24,7
+mic,mic,Escherichia coli,TG1,18
+mic,mic,Escherichia coli,TG1,46
+mic,mic,Escherichia coli,TG1 (pSF815),28
+mic,mic,Escherichia coli,TG1 (pTZ19U-3),30
+mic,mic,Escherichia coli,TUP0042,3
+mic,mic,Escherichia coli,TUP0074,3
+mic,mic,Escherichia coli,TUP0092,3
+mic,mic,Escherichia coli,TUP0093,12
+mic,mic,Escherichia coli,TUP0093,3
+mic,mic,Escherichia coli,TUP0097,3
+mic,mic,Escherichia coli,TUP0115,3
+mic,mic,Escherichia coli,TUP0116,3
+mic,mic,Escherichia coli,TUP0118,3
+mic,mic,Escherichia coli,TUP0119,3
+mic,mic,Escherichia coli,TolC EC-2549,24
+mic,mic,Escherichia coli,TolC-,10
+mic,mic,Escherichia coli,UTI89,5
+mic,mic,Escherichia coli,UTI89,5
+mic,mic,Escherichia coli,VIM-2,7
+mic,mic,Escherichia coli,VM003,16
+mic,mic,Escherichia coli,VRTX 001,131
+mic,mic,Escherichia coli,VRTX 002,129
+mic,mic,Escherichia coli,VRTX 003,131
+mic,mic,Escherichia coli,Vogel,59
+mic,mic,Escherichia coli,W3110,15
+mic,mic,Escherichia coli,W3110 ΔtolC,21
+mic,mic,Escherichia coli,W3110PA,17
+mic,mic,Escherichia coli,W3110PA,17
+mic,mic,Escherichia coli,W3110RL,8
+mic,mic,Escherichia coli,W3110RL,8
+mic,mic,Escherichia coli,W4680AE,2
+mic,mic,Escherichia coli,W4680AE,2
+mic,mic,Escherichia coli,W4753 ΔtolC FQ-R GyrA S83L D87N ParC S80I ParE S458A,7
+mic,mic,Escherichia coli,WL-EcCI1,7
+mic,mic,Escherichia coli,WL-EcCI2,7
+mic,mic,Escherichia coli,WL-EcCI3,7
+mic,mic,Escherichia coli,WL-EcCI4,7
+mic,mic,Escherichia coli,WL-EcCI5,7
+mic,mic,Escherichia coli,WL-EcCI6,7
+mic,mic,Escherichia coli,X 5024,5
+mic,mic,Escherichia coli,X 5024,5
+mic,mic,Escherichia coli,YD626,4
+mic,mic,Escherichia coli,YD626,4
+mic,mic,Escherichia coli,YD626+mcr-1,1
+mic,mic,Escherichia coli,YLS-3/pBK-CMV,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-AmpC,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-CTX-M-14,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-L1,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-L1,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-L2,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-L2,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,YLS-3/pBK-CMV-TEM-1,5
+mic,mic,Escherichia coli,d-cysK,7
+mic,mic,Escherichia coli,d-cysM,6
+mic,mic,Escherichia coli,d-imp,1
+mic,mic,Escherichia coli,d-ompF,7
+mic,mic,Escherichia coli,d-tolC,17
+mic,mic,Escherichia coli,dTolC,10
+mic,mic,Escherichia coli,dtolC,62
+mic,mic,Escherichia coli,isolate 79768,1
+mic,mic,Escherichia coli,isolate 80083,1
+mic,mic,Escherichia coli,isolate 80960,1
+mic,mic,Escherichia coli,isolate 85332,1
+mic,mic,Escherichia coli,isolate 87164,1
+mic,mic,Escherichia coli,isolate 88273,1
+mic,mic,Escherichia coli,isolate 89439,1
+mic,mic,Escherichia coli,isolate 90087,1
+mic,mic,Escherichia coli,isolate 90789,1
+mic,mic,Escherichia coli,isolate 91191,1
+mic,mic,Escherichia coli,isolate 92756,1
+mic,mic,Escherichia coli,isolate 92969,1
+mic,mic,Escherichia coli,isolate 95882,1
+mic,mic,Escherichia coli,isolate 98550,1
+mic,mic,Escherichia coli,isolate CAN-ICU 61714,6
+mic,mic,Escherichia coli,isolate CAN-ICU 63074,6
+mic,mic,Escherichia coli,isolate CANWARD-2011 97615,6
+mic,mic,Escherichia coli,isolate ECMH01,1
+mic,mic,Escherichia coli,isolate N-10-1631,1
+mic,mic,Escherichia coli,lon3::IS186,7
+mic,mic,Escherichia coli,"lon3::IS186, ycgE::Tn5",7
+mic,mic,Escherichia coli,"lon3::IS186, ycgE::Tn5, d-ompF",7
+mic,mic,Escherichia coli,"lon3::IS186, ycgE::Tn5, pET21b, pACT7Sp",2
+mic,mic,Escherichia coli,"lon3::IS186, ycgE::Tn5, pET21b-ompF, pACT7Sp",2
+mic,mic,Escherichia coli,"lon3::IS186, ycgE::Tn5, pMPM",4
+mic,mic,Escherichia coli,"lon3::IS186, ycgE::Tn5, pMPM-ompF",4
+mic,mic,Escherichia coli,marR,7
+mic,mic,Escherichia coli,nmcA,4
+mic,mic,Escherichia coli,pUCP26 (empty vector),7
+mic,mic,Escherichia coli,resistant,16
+mic,mic,Escherichia coli,ss,21
+mic,mic,Escherichia coli,ss,18
+mic,mic,Escherichia coli,tolC::Tn10,28
+mic,mic,Escherichia coli,tolC::Tn10,28
+mic,mic,Escherichia coli,ycgE::Tn5,7
+mic,mic,Francisella novicida,U 112,4
+mic,mic,Francisella novicida,U 112,4
+mic,mic,Francisella tularensis,ATCC 15482,9
+mic,mic,Francisella tularensis,Schu S4,9661
+mic,mic,Francisella tularensis,Schu S4 (NR-643),9661
+mic,mic,Francisella tularensis,Utah 112,10
+mic,mic,Haemophilus influenzae,ARC446,14
+mic,mic,Haemophilus influenzae,ARC446,14
+mic,mic,Haemophilus influenzae,ATCC 10211,12
+mic,mic,Haemophilus influenzae,ATCC 10211,12
+mic,mic,Haemophilus influenzae,ATCC 31517,59
+mic,mic,Haemophilus influenzae,ATCC 31517 MMSA,59
+mic,mic,Haemophilus influenzae,ATCC 49247,62
+mic,mic,Haemophilus influenzae,ATCC 49247,62
+mic,mic,Haemophilus influenzae,ATCC 49766,5
+mic,mic,Haemophilus influenzae,ATCC 49766,5
+mic,mic,Haemophilus influenzae,ATCC 51907,17
+mic,mic,Haemophilus influenzae,ATCC 51907,17
+mic,mic,Haemophilus influenzae,JM006,59
+mic,mic,Haemophilus influenzae,LS2 Efflux knock-out,59
+mic,mic,Haemophilus influenzae,MH002,15
+mic,mic,Klebsiella aerogenes,ATCC 13048,70
+mic,mic,Klebsiella aerogenes,ATCC 13048,1
+mic,mic,Klebsiella aerogenes,EA-CM64,5
+mic,mic,Klebsiella aerogenes,EA27,5
+mic,mic,Klebsiella aerogenes,EA294,5
+mic,mic,Klebsiella aerogenes,EA298,5
+mic,mic,Klebsiella aerogenes,EA3,5
+mic,mic,Klebsiella aerogenes,EA5,5
+mic,mic,Klebsiella oxytoca,1028E,4
+mic,mic,Klebsiella oxytoca,1082E,15
+mic,mic,Klebsiella oxytoca,1082E,15
+mic,mic,Klebsiella oxytoca,ARC5389,2
+mic,mic,Klebsiella oxytoca,ATCC 13182,5
+mic,mic,Klebsiella oxytoca,CCUG51683,5
+mic,mic,Klebsiella oxytoca,NB30007,2
+mic,mic,Klebsiella pneumoniae,1161486,5
+mic,mic,Klebsiella pneumoniae,1161486 GyrA S83F D87V ParC S80I,2
+mic,mic,Klebsiella pneumoniae,1161486 GyrA S83I,2
+mic,mic,Klebsiella pneumoniae,1161486 GyrA S83I ParC S80I,2
+mic,mic,Klebsiella pneumoniae,1161486a,4
+mic,mic,Klebsiella pneumoniae,1338665,1
+mic,mic,Klebsiella pneumoniae,1357E,4
+mic,mic,Klebsiella pneumoniae,138-16357-20362,36
+mic,mic,Klebsiella pneumoniae,138-16357-20362,36
+mic,mic,Klebsiella pneumoniae,2210291,4
+mic,mic,Klebsiella pneumoniae,2210291,4
+mic,mic,Klebsiella pneumoniae,2210291+mcr-1,1
+mic,mic,Klebsiella pneumoniae,25910,5
+mic,mic,Klebsiella pneumoniae,25910,5
+mic,mic,Klebsiella pneumoniae,26768WU,4
+mic,mic,Klebsiella pneumoniae,30530,5
+mic,mic,Klebsiella pneumoniae,30530,5
+mic,mic,Klebsiella pneumoniae,4-38,5
+mic,mic,Klebsiella pneumoniae,46592,5
+mic,mic,Klebsiella pneumoniae,46592,5
+mic,mic,Klebsiella pneumoniae,53816,5
+mic,mic,Klebsiella pneumoniae,53816,5
+mic,mic,Klebsiella pneumoniae,5665,5
+mic,mic,Klebsiella pneumoniae,5665,5
+mic,mic,Klebsiella pneumoniae,6-73,5
+mic,mic,Klebsiella pneumoniae,6154,5
+mic,mic,Klebsiella pneumoniae,6154,5
+mic,mic,Klebsiella pneumoniae,88092907,6
+mic,mic,Klebsiella pneumoniae,A-651,6
+mic,mic,Klebsiella pneumoniae,A-651,6
+mic,mic,Klebsiella pneumoniae,AKPN1001,1097
+mic,mic,Klebsiella pneumoniae,AKPN1081,151
+mic,mic,Klebsiella pneumoniae,AR-0034,1
+mic,mic,Klebsiella pneumoniae,AR-0034,3
+mic,mic,Klebsiella pneumoniae,AR-0066,1
+mic,mic,Klebsiella pneumoniae,AR-0066,3
+mic,mic,Klebsiella pneumoniae,AR-0098,3
+mic,mic,Klebsiella pneumoniae,AR-0113,3
+mic,mic,Klebsiella pneumoniae,AR-0139,3
+mic,mic,Klebsiella pneumoniae,AR-0141,3
+mic,mic,Klebsiella pneumoniae,AR-0347,3
+mic,mic,Klebsiella pneumoniae,AR-0542,3
+mic,mic,Klebsiella pneumoniae,AR-0548,3
+mic,mic,Klebsiella pneumoniae,AR-0555,3
+mic,mic,Klebsiella pneumoniae,AR-0560,3
+mic,mic,Klebsiella pneumoniae,AR0034,2
+mic,mic,Klebsiella pneumoniae,AR0039,2
+mic,mic,Klebsiella pneumoniae,AR0039,3
+mic,mic,Klebsiella pneumoniae,AR0040,1
+mic,mic,Klebsiella pneumoniae,AR0040,3
+mic,mic,Klebsiella pneumoniae,AR0041,2
+mic,mic,Klebsiella pneumoniae,AR0041,2
+mic,mic,Klebsiella pneumoniae,AR0042,2
+mic,mic,Klebsiella pneumoniae,AR0043,1
+mic,mic,Klebsiella pneumoniae,AR0043,3
+mic,mic,Klebsiella pneumoniae,AR0044,1
+mic,mic,Klebsiella pneumoniae,AR0044,2
+mic,mic,Klebsiella pneumoniae,AR0046,1
+mic,mic,Klebsiella pneumoniae,AR0046,2
+mic,mic,Klebsiella pneumoniae,AR0049,1
+mic,mic,Klebsiella pneumoniae,AR0066,2
+mic,mic,Klebsiella pneumoniae,AR0068,2
+mic,mic,Klebsiella pneumoniae,AR0075,1
+mic,mic,Klebsiella pneumoniae,AR0076,1
+mic,mic,Klebsiella pneumoniae,AR0076,3
+mic,mic,Klebsiella pneumoniae,AR0079,2
+mic,mic,Klebsiella pneumoniae,AR0080,1
+mic,mic,Klebsiella pneumoniae,AR0080,2
+mic,mic,Klebsiella pneumoniae,AR0087,1
+mic,mic,Klebsiella pneumoniae,AR0087,2
+mic,mic,Klebsiella pneumoniae,AR0097,1
+mic,mic,Klebsiella pneumoniae,AR0097,3
+mic,mic,Klebsiella pneumoniae,AR0106,1
+mic,mic,Klebsiella pneumoniae,AR0106,3
+mic,mic,Klebsiella pneumoniae,AR0107,1
+mic,mic,Klebsiella pneumoniae,AR0112,1
+mic,mic,Klebsiella pneumoniae,AR0113,1
+mic,mic,Klebsiella pneumoniae,AR0113,2
+mic,mic,Klebsiella pneumoniae,AR0115,1
+mic,mic,Klebsiella pneumoniae,AR0117,1
+mic,mic,Klebsiella pneumoniae,AR0117,3
+mic,mic,Klebsiella pneumoniae,AR0120,1
+mic,mic,Klebsiella pneumoniae,AR0125,1
+mic,mic,Klebsiella pneumoniae,AR0125,2
+mic,mic,Klebsiella pneumoniae,AR0126,1
+mic,mic,Klebsiella pneumoniae,AR0126,3
+mic,mic,Klebsiella pneumoniae,AR0129,1
+mic,mic,Klebsiella pneumoniae,AR0135,1
+mic,mic,Klebsiella pneumoniae,AR0135,3
+mic,mic,Klebsiella pneumoniae,AR0138,1
+mic,mic,Klebsiella pneumoniae,AR0139,1
+mic,mic,Klebsiella pneumoniae,AR0139,2
+mic,mic,Klebsiella pneumoniae,AR0140,1
+mic,mic,Klebsiella pneumoniae,AR0140,3
+mic,mic,Klebsiella pneumoniae,AR0141,3
+mic,mic,Klebsiella pneumoniae,AR0142,1
+mic,mic,Klebsiella pneumoniae,AR0142,3
+mic,mic,Klebsiella pneumoniae,AR0143,2
+mic,mic,Klebsiella pneumoniae,AR0145,2
+mic,mic,Klebsiella pneumoniae,AR0146,1
+mic,mic,Klebsiella pneumoniae,AR0146,3
+mic,mic,Klebsiella pneumoniae,AR0148,1
+mic,mic,Klebsiella pneumoniae,AR0152,2
+mic,mic,Klebsiella pneumoniae,AR0153,1
+mic,mic,Klebsiella pneumoniae,AR0158,1
+mic,mic,Klebsiella pneumoniae,AR0158,2
+mic,mic,Klebsiella pneumoniae,AR0160,2
+mic,mic,Klebsiella pneumoniae,AR0347,1
+mic,mic,Klebsiella pneumoniae,AR0347,2
+mic,mic,Klebsiella pneumoniae,AR0497,1
+mic,mic,Klebsiella pneumoniae,AR0542,1
+mic,mic,Klebsiella pneumoniae,AR0542,2
+mic,mic,Klebsiella pneumoniae,AR0548,1
+mic,mic,Klebsiella pneumoniae,AR0548,3
+mic,mic,Klebsiella pneumoniae,AR0550,1
+mic,mic,Klebsiella pneumoniae,AR0550,2
+mic,mic,Klebsiella pneumoniae,AR0552,1
+mic,mic,Klebsiella pneumoniae,AR0552,2
+mic,mic,Klebsiella pneumoniae,AR0553,2
+mic,mic,Klebsiella pneumoniae,AR0554,1
+mic,mic,Klebsiella pneumoniae,AR0555,1
+mic,mic,Klebsiella pneumoniae,AR0557,2
+mic,mic,Klebsiella pneumoniae,AR0558,3
+mic,mic,Klebsiella pneumoniae,AR0560,1
+mic,mic,Klebsiella pneumoniae,ARC1865,5
+mic,mic,Klebsiella pneumoniae,ARC1865,5
+mic,mic,Klebsiella pneumoniae,ARC3777,2
+mic,mic,Klebsiella pneumoniae,ARC3816,2
+mic,mic,Klebsiella pneumoniae,ARC4378,2
+mic,mic,Klebsiella pneumoniae,ARC4451,2
+mic,mic,Klebsiella pneumoniae,ARC4476,2
+mic,mic,Klebsiella pneumoniae,ARC4490,2
+mic,mic,Klebsiella pneumoniae,ARC4770,2
+mic,mic,Klebsiella pneumoniae,ARC5118,2
+mic,mic,Klebsiella pneumoniae,ARC5378,2
+mic,mic,Klebsiella pneumoniae,ARC6088,2
+mic,mic,Klebsiella pneumoniae,ARC6089,2
+mic,mic,Klebsiella pneumoniae,ARC6092,2
+mic,mic,Klebsiella pneumoniae,ARC6095,2
+mic,mic,Klebsiella pneumoniae,ARC6099,2
+mic,mic,Klebsiella pneumoniae,ARC6100,2
+mic,mic,Klebsiella pneumoniae,ARC6109,2
+mic,mic,Klebsiella pneumoniae,ARC6110,2
+mic,mic,Klebsiella pneumoniae,ATCC 11296,5
+mic,mic,Klebsiella pneumoniae,ATCC 11296,5
+mic,mic,Klebsiella pneumoniae,ATCC 13882,25
+mic,mic,Klebsiella pneumoniae,ATCC 13882,26
+mic,mic,Klebsiella pneumoniae,ATCC 13883,59
+mic,mic,Klebsiella pneumoniae,ATCC 13883,68
+mic,mic,Klebsiella pneumoniae,ATCC 2146,33
+mic,mic,Klebsiella pneumoniae,ATCC 25922,2
+mic,mic,Klebsiella pneumoniae,ATCC 27736,14
+mic,mic,Klebsiella pneumoniae,ATCC 27736,19
+mic,mic,Klebsiella pneumoniae,ATCC 33495,78
+mic,mic,Klebsiella pneumoniae,ATCC 33495,62
+mic,mic,Klebsiella pneumoniae,ATCC 4352,27
+mic,mic,Klebsiella pneumoniae,ATCC 43816,1117
+mic,mic,Klebsiella pneumoniae,ATCC 43816,24
+mic,mic,Klebsiella pneumoniae,ATCC 700603,1641
+mic,mic,Klebsiella pneumoniae,ATCC 700603,176
+mic,mic,Klebsiella pneumoniae,ATCC 8045,66
+mic,mic,Klebsiella pneumoniae,ATCC 8045,64
+mic,mic,Klebsiella pneumoniae,ATCC BAA-1705,5
+mic,mic,Klebsiella pneumoniae,ATCC BAA-1706,4
+mic,mic,Klebsiella pneumoniae,ATCC BAA-2146,73
+mic,mic,Klebsiella pneumoniae,ATCC BAA-2146,38
+mic,mic,Klebsiella pneumoniae,B9,1
+mic,mic,Klebsiella pneumoniae,BAA-1705,10
+mic,mic,Klebsiella pneumoniae,BAA-1706,4
+mic,mic,Klebsiella pneumoniae,BAA-2146NDM-1,3
+mic,mic,Klebsiella pneumoniae,BAA-2342,3
+mic,mic,Klebsiella pneumoniae,BAA-2470,3
+mic,mic,Klebsiella pneumoniae,BAA-2472,3
+mic,mic,Klebsiella pneumoniae,BAA-2473,3
+mic,mic,Klebsiella pneumoniae,BAA2146,4
+mic,mic,Klebsiella pneumoniae,BM005,1
+mic,mic,Klebsiella pneumoniae,BM006,1
+mic,mic,Klebsiella pneumoniae,BM007,1
+mic,mic,Klebsiella pneumoniae,C3,1
+mic,mic,Klebsiella pneumoniae,C5,1
+mic,mic,Klebsiella pneumoniae,CCUG45421,5
+mic,mic,Klebsiella pneumoniae,CF001,1
+mic,mic,Klebsiella pneumoniae,CF001,1
+mic,mic,Klebsiella pneumoniae,CRE,4
+mic,mic,Klebsiella pneumoniae,FW006,18
+mic,mic,Klebsiella pneumoniae,FW006,18
+mic,mic,Klebsiella pneumoniae,G340,183
+mic,mic,Klebsiella pneumoniae,GC7535,183
+mic,mic,Klebsiella pneumoniae,HM003,33
+mic,mic,Klebsiella pneumoniae,HM004,33
+mic,mic,Klebsiella pneumoniae,KP-3700,8
+mic,mic,Klebsiella pneumoniae,KP-3700,8
+mic,mic,Klebsiella pneumoniae,KP55,5
+mic,mic,Klebsiella pneumoniae,KP55,5
+mic,mic,Klebsiella pneumoniae,KP63,5
+mic,mic,Klebsiella pneumoniae,KP63,5
+mic,mic,Klebsiella pneumoniae,Koprana 100650661:1,36
+mic,mic,Klebsiella pneumoniae,Koprana 100650661:1,36
+mic,mic,Klebsiella pneumoniae,KpCI 1,7
+mic,mic,Klebsiella pneumoniae,KpCI 2,7
+mic,mic,Klebsiella pneumoniae,KpCI 3,7
+mic,mic,Klebsiella pneumoniae,KpCI 4,7
+mic,mic,Klebsiella pneumoniae,KpCI 5,7
+mic,mic,Klebsiella pneumoniae,KpCI 6,7
+mic,mic,Klebsiella pneumoniae,M14723,3
+mic,mic,Klebsiella pneumoniae,M67198,3
+mic,mic,Klebsiella pneumoniae,M67297,3
+mic,mic,Klebsiella pneumoniae,NB29018,2
+mic,mic,Klebsiella pneumoniae,NCTC 13438,4
+mic,mic,Klebsiella pneumoniae,NCTC 13443,4
+mic,mic,Klebsiella pneumoniae,S20595,3
+mic,mic,Klebsiella pneumoniae,S47889,5
+mic,mic,Klebsiella pneumoniae,SJ KP001,7
+mic,mic,Klebsiella pneumoniae,SJ KP002,7
+mic,mic,Klebsiella pneumoniae,SJ KP003,7
+mic,mic,Klebsiella pneumoniae,SJ KP004,7
+mic,mic,Klebsiella pneumoniae,SJ KP005,7
+mic,mic,Klebsiella pneumoniae,T-21377,5
+mic,mic,Klebsiella pneumoniae,WL-KpCI1,7
+mic,mic,Klebsiella pneumoniae,WL-KpCI2,7
+mic,mic,Klebsiella pneumoniae,WL-KpCI3,7
+mic,mic,Klebsiella pneumoniae,WL-KpCI4,7
+mic,mic,Klebsiella pneumoniae,WL-KpCI5,7
+mic,mic,Klebsiella pneumoniae,WL-KpCI6,7
+mic,mic,Klebsiella pneumoniae,YC,4
+mic,mic,Klebsiella pneumoniae,ZW006,2
+mic,mic,Klebsiella pneumoniae,ZW006,2
+mic,mic,Klebsiella pneumoniae,isolate 847,8
+mic,mic,Klebsiella pneumoniae,isolate B9,33
+mic,mic,Klebsiella pneumoniae,isolate C3,33
+mic,mic,Kocuria rhizophila,ATCC 9341,4
+mic,mic,Lactobacillus acidophilus,NCBI 1899 NCDO 2,17
+mic,mic,Listeria ivanovii,BAA-139,63
+mic,mic,Micrococcus luteus,ATCC 10240,7
+mic,mic,Micrococcus luteus,ATCC 10240,7
+mic,mic,Micrococcus luteus,ATCC 4698,4
+mic,mic,Micrococcus luteus,ATCC 4698,4
+mic,mic,Micrococcus luteus,ATCC 9341,4
+mic,mic,Moraxella catarrhalis,1502,15
+mic,mic,Moraxella catarrhalis,ARC445,12
+mic,mic,Moraxella catarrhalis,ARC445,14
+mic,mic,Moraxella catarrhalis,ATCC 25238,2
+mic,mic,Moraxella catarrhalis,ATCC 25238,2
+mic,mic,Moraxella catarrhalis,ATCC 25240,3
+mic,mic,Moraxella catarrhalis,ATCC 25240,3
+mic,mic,Moraxella catarrhalis,Mc1502,17
+mic,mic,Morganella morganii,FW002,16
+mic,mic,Morganella morganii,FW002,16
+mic,mic,Morganella morganii,ZW007,2
+mic,mic,Morganella morganii,ZW007,2
+mic,mic,Mycobacterium bovis,CR001,1
+mic,mic,Mycobacterium tuberculosis,ATCC 27294,140
+mic,mic,Mycobacterium tuberculosis,ATCC 27294,5
+mic,mic,Mycobacterium tuberculosis,H37Rv,136
+mic,mic,Mycobacterium vaccae,IMET 10670,7
+mic,mic,Mycobacterium vaccae,IMET10670,7
+mic,mic,Neisseria gonorrhoeae,ATCC 49226,43
+mic,mic,Neisseria gonorrhoeae,GC525,1
+mic,mic,Neisseria meningitidis,69480,19
+mic,mic,Neisseria meningitidis,69480,19
+mic,mic,Ochrobactrum anthropi,ATCC 49687,62
+mic,mic,Proteus hauseri,ATCC 13315,4
+mic,mic,Proteus hauseri,ATCC 13315,1
+mic,mic,Proteus mirabilis,5432,5
+mic,mic,Proteus mirabilis,5432,5
+mic,mic,Proteus mirabilis,ATCC 14253,1
+mic,mic,Proteus mirabilis,ATCC 25933,17
+mic,mic,Proteus mirabilis,ATCC 29906,1
+mic,mic,Proteus mirabilis,B7512,5
+mic,mic,Proteus mirabilis,B7512,5
+mic,mic,Providencia alcalifaciens,ATCC 9886,62
+mic,mic,Providencia rettgeri,J96,4
+mic,mic,Providencia stuartii,CMX 640,4
+mic,mic,Providencia stuartii,CMX-640,66
+mic,mic,Providencia stuartii,CMX-640,60
+mic,mic,Pseudomonas aeruginosa,(560546)9 M.P.,2
+mic,mic,Pseudomonas aeruginosa,100036,10
+mic,mic,Pseudomonas aeruginosa,101021,3
+mic,mic,Pseudomonas aeruginosa,101021,3
+mic,mic,Pseudomonas aeruginosa,101243,9
+mic,mic,Pseudomonas aeruginosa,101885,10
+mic,mic,Pseudomonas aeruginosa,108590,9
+mic,mic,Pseudomonas aeruginosa,1091-05,8
+mic,mic,Pseudomonas aeruginosa,134,2
+mic,mic,Pseudomonas aeruginosa,1494,6
+mic,mic,Pseudomonas aeruginosa,17035,5
+mic,mic,Pseudomonas aeruginosa,17035,5
+mic,mic,Pseudomonas aeruginosa,18S/H,8
+mic,mic,Pseudomonas aeruginosa,1937E,4
+mic,mic,Pseudomonas aeruginosa,1956,9
+mic,mic,Pseudomonas aeruginosa,1956 (pNF225),7
+mic,mic,Pseudomonas aeruginosa,1973E,4
+mic,mic,Pseudomonas aeruginosa,2126,9
+mic,mic,Pseudomonas aeruginosa,2126 (pNF225),7
+mic,mic,Pseudomonas aeruginosa,2439,9
+mic,mic,Pseudomonas aeruginosa,2439 (pNF225),7
+mic,mic,Pseudomonas aeruginosa,24674,5
+mic,mic,Pseudomonas aeruginosa,24674,5
+mic,mic,Pseudomonas aeruginosa,27853,4
+mic,mic,Pseudomonas aeruginosa,30848,6
+mic,mic,Pseudomonas aeruginosa,312,6
+mic,mic,Pseudomonas aeruginosa,3208,6
+mic,mic,Pseudomonas aeruginosa,32455,6
+mic,mic,Pseudomonas aeruginosa,3308,9
+mic,mic,Pseudomonas aeruginosa,3308 (pNF225),7
+mic,mic,Pseudomonas aeruginosa,33410,6
+mic,mic,Pseudomonas aeruginosa,3434,6
+mic,mic,Pseudomonas aeruginosa,3465,6
+mic,mic,Pseudomonas aeruginosa,3894,6
+mic,mic,Pseudomonas aeruginosa,40198,6
+mic,mic,Pseudomonas aeruginosa,46396,6
+mic,mic,Pseudomonas aeruginosa,5007,62
+mic,mic,Pseudomonas aeruginosa,5007,60
+mic,mic,Pseudomonas aeruginosa,527,1
+mic,mic,Pseudomonas aeruginosa,621,1
+mic,mic,Pseudomonas aeruginosa,62308,6
+mic,mic,Pseudomonas aeruginosa,79199,9
+mic,mic,Pseudomonas aeruginosa,80621,9
+mic,mic,Pseudomonas aeruginosa,83182,9
+mic,mic,Pseudomonas aeruginosa,84745,9
+mic,mic,Pseudomonas aeruginosa,85322,9
+mic,mic,Pseudomonas aeruginosa,8564,6
+mic,mic,Pseudomonas aeruginosa,860,2
+mic,mic,Pseudomonas aeruginosa,86052,9
+mic,mic,Pseudomonas aeruginosa,86053,9
+mic,mic,Pseudomonas aeruginosa,86067,9
+mic,mic,Pseudomonas aeruginosa,86079,9
+mic,mic,Pseudomonas aeruginosa,86141,9
+mic,mic,Pseudomonas aeruginosa,8666,6
+mic,mic,Pseudomonas aeruginosa,91433,10
+mic,mic,Pseudomonas aeruginosa,92014,9
+mic,mic,Pseudomonas aeruginosa,9256,6
+mic,mic,Pseudomonas aeruginosa,96846,6
+mic,mic,Pseudomonas aeruginosa,A-861,5
+mic,mic,Pseudomonas aeruginosa,A-861,5
+mic,mic,Pseudomonas aeruginosa,A5000,4
+mic,mic,Pseudomonas aeruginosa,A5000,4
+mic,mic,Pseudomonas aeruginosa,A5005,4
+mic,mic,Pseudomonas aeruginosa,A5005,4
+mic,mic,Pseudomonas aeruginosa,A5007,4
+mic,mic,Pseudomonas aeruginosa,A5007,4
+mic,mic,Pseudomonas aeruginosa,APAE006,1850
+mic,mic,Pseudomonas aeruginosa,APAE007,1758
+mic,mic,Pseudomonas aeruginosa,APAE008,966
+mic,mic,Pseudomonas aeruginosa,APAE009,964
+mic,mic,Pseudomonas aeruginosa,APAE010,966
+mic,mic,Pseudomonas aeruginosa,APAE1096,1157
+mic,mic,Pseudomonas aeruginosa,APAE1102,1155
+mic,mic,Pseudomonas aeruginosa,APAE1111,1114
+mic,mic,Pseudomonas aeruginosa,APAE1238,531
+mic,mic,Pseudomonas aeruginosa,APAE1257,531
+mic,mic,Pseudomonas aeruginosa,APAE1260,531
+mic,mic,Pseudomonas aeruginosa,APAE1262,531
+mic,mic,Pseudomonas aeruginosa,APAE1267,531
+mic,mic,Pseudomonas aeruginosa,APAE189,516
+mic,mic,Pseudomonas aeruginosa,ARC003,4
+mic,mic,Pseudomonas aeruginosa,ARC3483,1
+mic,mic,Pseudomonas aeruginosa,ARC3483/pBBR1MCS2-AmpC,1
+mic,mic,Pseudomonas aeruginosa,ARC3483/pBBR1MCS2-KPC-2,1
+mic,mic,Pseudomonas aeruginosa,ARC3483/pBBR1MCS2-OXA-24,1
+mic,mic,Pseudomonas aeruginosa,ARC3502,4
+mic,mic,Pseudomonas aeruginosa,ARC3502,4
+mic,mic,Pseudomonas aeruginosa,ARC3504,4
+mic,mic,Pseudomonas aeruginosa,ARC3504,4
+mic,mic,Pseudomonas aeruginosa,ARC3505,4
+mic,mic,Pseudomonas aeruginosa,ARC3505,4
+mic,mic,Pseudomonas aeruginosa,ARC3506,4
+mic,mic,Pseudomonas aeruginosa,ARC3506,4
+mic,mic,Pseudomonas aeruginosa,ARC3509,4
+mic,mic,Pseudomonas aeruginosa,ARC3509,4
+mic,mic,Pseudomonas aeruginosa,ARC3511,4
+mic,mic,Pseudomonas aeruginosa,ARC3511,4
+mic,mic,Pseudomonas aeruginosa,ARC3514,4
+mic,mic,Pseudomonas aeruginosa,ARC3514,4
+mic,mic,Pseudomonas aeruginosa,ARC3606,4
+mic,mic,Pseudomonas aeruginosa,ARC3606,4
+mic,mic,Pseudomonas aeruginosa,ARC3607,4
+mic,mic,Pseudomonas aeruginosa,ARC3607,4
+mic,mic,Pseudomonas aeruginosa,ARC3611,4
+mic,mic,Pseudomonas aeruginosa,ARC3611,4
+mic,mic,Pseudomonas aeruginosa,ARC3612,4
+mic,mic,Pseudomonas aeruginosa,ARC3612,4
+mic,mic,Pseudomonas aeruginosa,ARC3727,4
+mic,mic,Pseudomonas aeruginosa,ARC3727,4
+mic,mic,Pseudomonas aeruginosa,ARC3729,4
+mic,mic,Pseudomonas aeruginosa,ARC3729,4
+mic,mic,Pseudomonas aeruginosa,ARC3756,4
+mic,mic,Pseudomonas aeruginosa,ARC3756,4
+mic,mic,Pseudomonas aeruginosa,ARC3916,4
+mic,mic,Pseudomonas aeruginosa,ARC3916,4
+mic,mic,Pseudomonas aeruginosa,ARC3925,4
+mic,mic,Pseudomonas aeruginosa,ARC3925,4
+mic,mic,Pseudomonas aeruginosa,ARC4060,4
+mic,mic,Pseudomonas aeruginosa,ARC4060,4
+mic,mic,Pseudomonas aeruginosa,ARC4063,4
+mic,mic,Pseudomonas aeruginosa,ARC4063,4
+mic,mic,Pseudomonas aeruginosa,ARC4068,4
+mic,mic,Pseudomonas aeruginosa,ARC4068,4
+mic,mic,Pseudomonas aeruginosa,ARC546,21
+mic,mic,Pseudomonas aeruginosa,ATCC 10145,2
+mic,mic,Pseudomonas aeruginosa,ATCC 12055,24
+mic,mic,Pseudomonas aeruginosa,ATCC 12055,20
+mic,mic,Pseudomonas aeruginosa,ATCC 13525,106
+mic,mic,Pseudomonas aeruginosa,ATCC 15442,4
+mic,mic,Pseudomonas aeruginosa,ATCC 15442,4
+mic,mic,Pseudomonas aeruginosa,ATCC 156902,1
+mic,mic,Pseudomonas aeruginosa,ATCC 15692,16
+mic,mic,Pseudomonas aeruginosa,ATCC 15692,16
+mic,mic,Pseudomonas aeruginosa,ATCC 17853,77
+mic,mic,Pseudomonas aeruginosa,ATCC 25619,29
+mic,mic,Pseudomonas aeruginosa,ATCC 25619,29
+mic,mic,Pseudomonas aeruginosa,ATCC 27835,62
+mic,mic,Pseudomonas aeruginosa,ATCC 27853,3464
+mic,mic,Pseudomonas aeruginosa,ATCC 27853,463
+mic,mic,Pseudomonas aeruginosa,ATCC 35151,539
+mic,mic,Pseudomonas aeruginosa,ATCC 35151,58
+mic,mic,Pseudomonas aeruginosa,ATCC BAA-47,71
+mic,mic,Pseudomonas aeruginosa,ATCC13525,21
+mic,mic,Pseudomonas aeruginosa,B4,6
+mic,mic,Pseudomonas aeruginosa,BA,7
+mic,mic,Pseudomonas aeruginosa,BA(C1-106),6
+mic,mic,Pseudomonas aeruginosa,BA(C2-107),6
+mic,mic,Pseudomonas aeruginosa,BMH 1,4
+mic,mic,Pseudomonas aeruginosa,BMH 1,4
+mic,mic,Pseudomonas aeruginosa,BMH 10,4
+mic,mic,Pseudomonas aeruginosa,BMH 10,4
+mic,mic,Pseudomonas aeruginosa,C2,6
+mic,mic,Pseudomonas aeruginosa,C53,1
+mic,mic,Pseudomonas aeruginosa,C53,1
+mic,mic,Pseudomonas aeruginosa,CDR1,1
+mic,mic,Pseudomonas aeruginosa,CDR1,1
+mic,mic,Pseudomonas aeruginosa,CDR2,1
+mic,mic,Pseudomonas aeruginosa,CDR2,1
+mic,mic,Pseudomonas aeruginosa,CDS1,1
+mic,mic,Pseudomonas aeruginosa,CDS1,1
+mic,mic,Pseudomonas aeruginosa,CDS13,1
+mic,mic,Pseudomonas aeruginosa,CDS13,1
+mic,mic,Pseudomonas aeruginosa,CDS13-pAK1900-fmt,1
+mic,mic,Pseudomonas aeruginosa,CDS13-pSW1,1
+mic,mic,Pseudomonas aeruginosa,CDS22,1
+mic,mic,Pseudomonas aeruginosa,CDS22,1
+mic,mic,Pseudomonas aeruginosa,CDS22-pAK1900-folD,1
+mic,mic,Pseudomonas aeruginosa,CDS22-pRC5,1
+mic,mic,Pseudomonas aeruginosa,CDS28,1
+mic,mic,Pseudomonas aeruginosa,CDS28,1
+mic,mic,Pseudomonas aeruginosa,CDS28-pAK1900-fmt,1
+mic,mic,Pseudomonas aeruginosa,CDS28-pSW1,1
+mic,mic,Pseudomonas aeruginosa,CDS30,1
+mic,mic,Pseudomonas aeruginosa,CDS30,1
+mic,mic,Pseudomonas aeruginosa,CDS30-pAK1900-folD,1
+mic,mic,Pseudomonas aeruginosa,CDS30-pRC5,1
+mic,mic,Pseudomonas aeruginosa,CDS6,1
+mic,mic,Pseudomonas aeruginosa,CDS6,1
+mic,mic,Pseudomonas aeruginosa,CFS 350F,4
+mic,mic,Pseudomonas aeruginosa,CFS 350F,4
+mic,mic,Pseudomonas aeruginosa,CFS 387C,4
+mic,mic,Pseudomonas aeruginosa,CFS 387C,4
+mic,mic,Pseudomonas aeruginosa,CFS 389,4
+mic,mic,Pseudomonas aeruginosa,CFS 389,4
+mic,mic,Pseudomonas aeruginosa,CMX 719A,4
+mic,mic,Pseudomonas aeruginosa,CMX 719A,4
+mic,mic,Pseudomonas aeruginosa,DPHD-2862,59
+mic,mic,Pseudomonas aeruginosa,DPHD-2862,57
+mic,mic,Pseudomonas aeruginosa,EryR,9
+mic,mic,Pseudomonas aeruginosa,EryR (pNF225),7
+mic,mic,Pseudomonas aeruginosa,FADDI-PA070,38
+mic,mic,Pseudomonas aeruginosa,FADDI-PA070,36
+mic,mic,Pseudomonas aeruginosa,FE60,9
+mic,mic,Pseudomonas aeruginosa,FK06,8
+mic,mic,Pseudomonas aeruginosa,FK06 (pNF225),6
+mic,mic,Pseudomonas aeruginosa,FW010,18
+mic,mic,Pseudomonas aeruginosa,FW010,18
+mic,mic,Pseudomonas aeruginosa,H-7738,5
+mic,mic,Pseudomonas aeruginosa,H-7738,5
+mic,mic,Pseudomonas aeruginosa,H103,5
+mic,mic,Pseudomonas aeruginosa,H1104,5
+mic,mic,Pseudomonas aeruginosa,H1105,5
+mic,mic,Pseudomonas aeruginosa,H1105/lon+c,4
+mic,mic,Pseudomonas aeruginosa,H1106,5
+mic,mic,Pseudomonas aeruginosa,H1109,5
+mic,mic,Pseudomonas aeruginosa,H1121,5
+mic,mic,Pseudomonas aeruginosa,H1124,5
+mic,mic,Pseudomonas aeruginosa,H1125,5
+mic,mic,Pseudomonas aeruginosa,H1129,5
+mic,mic,Pseudomonas aeruginosa,H1133,5
+mic,mic,Pseudomonas aeruginosa,H1136,5
+mic,mic,Pseudomonas aeruginosa,HC003,17
+mic,mic,Pseudomonas aeruginosa,HPA101-1477,4
+mic,mic,Pseudomonas aeruginosa,HPA10586,4
+mic,mic,Pseudomonas aeruginosa,HPA996,4
+mic,mic,Pseudomonas aeruginosa,K,3
+mic,mic,Pseudomonas aeruginosa,K1119,335
+mic,mic,Pseudomonas aeruginosa,K1119,24
+mic,mic,Pseudomonas aeruginosa,K1454,45
+mic,mic,Pseudomonas aeruginosa,K1521,1
+mic,mic,Pseudomonas aeruginosa,K1523,46
+mic,mic,Pseudomonas aeruginosa,K1523,1
+mic,mic,Pseudomonas aeruginosa,K1536,1
+mic,mic,Pseudomonas aeruginosa,K1542,46
+mic,mic,Pseudomonas aeruginosa,K1542,2
+mic,mic,Pseudomonas aeruginosa,K2443,1
+mic,mic,Pseudomonas aeruginosa,K2443+pMMB206,1
+mic,mic,Pseudomonas aeruginosa,K2443+pSF02,1
+mic,mic,Pseudomonas aeruginosa,K2733,179
+mic,mic,Pseudomonas aeruginosa,K2891,1
+mic,mic,Pseudomonas aeruginosa,K2895,1
+mic,mic,Pseudomonas aeruginosa,K2896,183
+mic,mic,Pseudomonas aeruginosa,K2896,1
+mic,mic,Pseudomonas aeruginosa,K2897,1
+mic,mic,Pseudomonas aeruginosa,K2898,1
+mic,mic,Pseudomonas aeruginosa,K799/61,4
+mic,mic,Pseudomonas aeruginosa,K799/WT,4
+mic,mic,Pseudomonas aeruginosa,KH4013E (nfxB),3
+mic,mic,Pseudomonas aeruginosa,KH4013e,248
+mic,mic,Pseudomonas aeruginosa,KH4014a,249
+mic,mic,Pseudomonas aeruginosa,KH4014a (nfxc),3
+mic,mic,Pseudomonas aeruginosa,KW799,5
+mic,mic,Pseudomonas aeruginosa,KW799/wt,5
+mic,mic,Pseudomonas aeruginosa,LD001,2
+mic,mic,Pseudomonas aeruginosa,LD001,2
+mic,mic,Pseudomonas aeruginosa,LD002,2
+mic,mic,Pseudomonas aeruginosa,N150,27
+mic,mic,Pseudomonas aeruginosa,NB52020,1
+mic,mic,Pseudomonas aeruginosa,NB52020,1
+mic,mic,Pseudomonas aeruginosa,NB52022,1
+mic,mic,Pseudomonas aeruginosa,NB52022,1
+mic,mic,Pseudomonas aeruginosa,NB52096,2
+mic,mic,Pseudomonas aeruginosa,NCIM 2036,11
+mic,mic,Pseudomonas aeruginosa,NCIM-2036,11
+mic,mic,Pseudomonas aeruginosa,OC14436,1
+mic,mic,Pseudomonas aeruginosa,OC14551,5
+mic,mic,Pseudomonas aeruginosa,OC14551-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,OC14551-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,OC14552,5
+mic,mic,Pseudomonas aeruginosa,OC14805,5
+mic,mic,Pseudomonas aeruginosa,OC14806,1
+mic,mic,Pseudomonas aeruginosa,OC14809,1
+mic,mic,Pseudomonas aeruginosa,OC14812,5
+mic,mic,Pseudomonas aeruginosa,OC14812-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,OC14812-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,OC16827,5
+mic,mic,Pseudomonas aeruginosa,OC16827-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,OC16827-pMexXY,4
+mic,mic,Pseudomonas aeruginosa,OC16827-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,OC16829,1
+mic,mic,Pseudomonas aeruginosa,OC16830,5
+mic,mic,Pseudomonas aeruginosa,OC16830-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,OC16830-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,OC17349,5
+mic,mic,Pseudomonas aeruginosa,OC17350,1
+mic,mic,Pseudomonas aeruginosa,OC17353,1
+mic,mic,Pseudomonas aeruginosa,OC17355,5
+mic,mic,Pseudomonas aeruginosa,OC17355-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,OC17355-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,PA 9704,38
+mic,mic,Pseudomonas aeruginosa,PA1091 (fgtA),8
+mic,mic,Pseudomonas aeruginosa,PA124,5
+mic,mic,Pseudomonas aeruginosa,PA124,5
+mic,mic,Pseudomonas aeruginosa,PA259-96918,12
+mic,mic,Pseudomonas aeruginosa,PA260-97103,12
+mic,mic,Pseudomonas aeruginosa,PA262-101856,12
+mic,mic,Pseudomonas aeruginosa,PA264-104354,11
+mic,mic,Pseudomonas aeruginosa,PA3060,29
+mic,mic,Pseudomonas aeruginosa,PA3060,29
+mic,mic,Pseudomonas aeruginosa,PA7,27
+mic,mic,Pseudomonas aeruginosa,PA7,27
+mic,mic,Pseudomonas aeruginosa,PA9704,36
+mic,mic,Pseudomonas aeruginosa,PAM1032,5
+mic,mic,Pseudomonas aeruginosa,PAM1032,5
+mic,mic,Pseudomonas aeruginosa,PAM1033,5
+mic,mic,Pseudomonas aeruginosa,PAM1033,5
+mic,mic,Pseudomonas aeruginosa,PAM1034,5
+mic,mic,Pseudomonas aeruginosa,PAM1034,5
+mic,mic,Pseudomonas aeruginosa,PAM1043,5
+mic,mic,Pseudomonas aeruginosa,PAM1043,5
+mic,mic,Pseudomonas aeruginosa,PAM1044,5
+mic,mic,Pseudomonas aeruginosa,PAM1044,5
+mic,mic,Pseudomonas aeruginosa,PAM1135,5
+mic,mic,Pseudomonas aeruginosa,PAM1135,5
+mic,mic,Pseudomonas aeruginosa,PAM1154,3
+mic,mic,Pseudomonas aeruginosa,PAM1154,3
+mic,mic,Pseudomonas aeruginosa,PAM1194,4
+mic,mic,Pseudomonas aeruginosa,PAM1194,4
+mic,mic,Pseudomonas aeruginosa,PAM1316,4
+mic,mic,Pseudomonas aeruginosa,PAM1316,4
+mic,mic,Pseudomonas aeruginosa,PAM1348,3
+mic,mic,Pseudomonas aeruginosa,PAM1348,3
+mic,mic,Pseudomonas aeruginosa,PAM2386,4
+mic,mic,Pseudomonas aeruginosa,PAM2386,4
+mic,mic,Pseudomonas aeruginosa,PAO1,4162
+mic,mic,Pseudomonas aeruginosa,PAO1,431
+mic,mic,Pseudomonas aeruginosa,PAO1 d-mexABCDXY,27
+mic,mic,Pseudomonas aeruginosa,"PAO1 delta mexAB, mexCD, mexXY, mexHI, opmH",8
+mic,mic,Pseudomonas aeruginosa,PAO1-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,PAO1-pMexXY,4
+mic,mic,Pseudomonas aeruginosa,PAO1-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,PAO1284,2
+mic,mic,Pseudomonas aeruginosa,PAO1284,2
+mic,mic,Pseudomonas aeruginosa,PAO1ΔmexAB-oprM,27
+mic,mic,Pseudomonas aeruginosa,PAO200,2
+mic,mic,Pseudomonas aeruginosa,PAO200,2
+mic,mic,Pseudomonas aeruginosa,PAO235,2
+mic,mic,Pseudomonas aeruginosa,PAO235,2
+mic,mic,Pseudomonas aeruginosa,PAO238,6
+mic,mic,Pseudomonas aeruginosa,PAO253,6
+mic,mic,Pseudomonas aeruginosa,PAO267,6
+mic,mic,Pseudomonas aeruginosa,PAO280,98
+mic,mic,Pseudomonas aeruginosa,PAO280,149
+mic,mic,Pseudomonas aeruginosa,PAO315,2
+mic,mic,Pseudomonas aeruginosa,PAO315,2
+mic,mic,Pseudomonas aeruginosa,PAO397,593
+mic,mic,Pseudomonas aeruginosa,PAO4009,3
+mic,mic,Pseudomonas aeruginosa,PAO4009,3
+mic,mic,Pseudomonas aeruginosa,PAO449,2
+mic,mic,Pseudomonas aeruginosa,PAO449,2
+mic,mic,Pseudomonas aeruginosa,PAO6006,249
+mic,mic,Pseudomonas aeruginosa,PAO6006 (nalB),3
+mic,mic,Pseudomonas aeruginosa,PAO750,2
+mic,mic,Pseudomonas aeruginosa,PAO750,21
+mic,mic,Pseudomonas aeruginosa,PAO969,3
+mic,mic,Pseudomonas aeruginosa,PAO969,3
+mic,mic,Pseudomonas aeruginosa,PW4183,1
+mic,mic,Pseudomonas aeruginosa,PW4183,1
+mic,mic,Pseudomonas aeruginosa,PW4184,1
+mic,mic,Pseudomonas aeruginosa,PW4184,1
+mic,mic,Pseudomonas aeruginosa,PaO1,16
+mic,mic,Pseudomonas aeruginosa,Pae546,45
+mic,mic,Pseudomonas aeruginosa,S 678,11
+mic,mic,Pseudomonas aeruginosa,SH001,2
+mic,mic,Pseudomonas aeruginosa,SH002,2
+mic,mic,Pseudomonas aeruginosa,SH003,2
+mic,mic,Pseudomonas aeruginosa,SH004,2
+mic,mic,Pseudomonas aeruginosa,SH005,2
+mic,mic,Pseudomonas aeruginosa,SH006,2
+mic,mic,Pseudomonas aeruginosa,SH007,2
+mic,mic,Pseudomonas aeruginosa,SH008,2
+mic,mic,Pseudomonas aeruginosa,SH009,2
+mic,mic,Pseudomonas aeruginosa,SH010,2
+mic,mic,Pseudomonas aeruginosa,SH011,2
+mic,mic,Pseudomonas aeruginosa,SR 27156,29
+mic,mic,Pseudomonas aeruginosa,SR27156,29
+mic,mic,Pseudomonas aeruginosa,SW001,8
+mic,mic,Pseudomonas aeruginosa,T-30252,9
+mic,mic,Pseudomonas aeruginosa,T-31322,8
+mic,mic,Pseudomonas aeruginosa,UI-18,24
+mic,mic,Pseudomonas aeruginosa,UI-18,21
+mic,mic,Pseudomonas aeruginosa,YY165,29
+mic,mic,Pseudomonas aeruginosa,YY165,29
+mic,mic,Pseudomonas aeruginosa,d-mexABCDXY,17
+mic,mic,Pseudomonas aeruginosa,d-oprD,2
+mic,mic,Pseudomonas aeruginosa,delta-mexAB-oprM,27
+mic,mic,Pseudomonas aeruginosa,fptA,2
+mic,mic,Pseudomonas aeruginosa,fpvA,2
+mic,mic,Pseudomonas aeruginosa,isolate 100036,10
+mic,mic,Pseudomonas aeruginosa,isolate 101243,10
+mic,mic,Pseudomonas aeruginosa,isolate 101885,10
+mic,mic,Pseudomonas aeruginosa,isolate 108590,10
+mic,mic,Pseudomonas aeruginosa,isolate 259-96918,12
+mic,mic,Pseudomonas aeruginosa,isolate 260-97103,12
+mic,mic,Pseudomonas aeruginosa,isolate 262-101856,12
+mic,mic,Pseudomonas aeruginosa,isolate 264-104354,12
+mic,mic,Pseudomonas aeruginosa,isolate 79199,10
+mic,mic,Pseudomonas aeruginosa,isolate 80621,10
+mic,mic,Pseudomonas aeruginosa,isolate 83182,10
+mic,mic,Pseudomonas aeruginosa,isolate 839,17
+mic,mic,Pseudomonas aeruginosa,isolate 847,1
+mic,mic,Pseudomonas aeruginosa,isolate 84745,10
+mic,mic,Pseudomonas aeruginosa,isolate 85322,10
+mic,mic,Pseudomonas aeruginosa,isolate 86052,10
+mic,mic,Pseudomonas aeruginosa,isolate 86053,10
+mic,mic,Pseudomonas aeruginosa,isolate 86067,10
+mic,mic,Pseudomonas aeruginosa,isolate 86079,10
+mic,mic,Pseudomonas aeruginosa,isolate 86141,10
+mic,mic,Pseudomonas aeruginosa,isolate 91433,10
+mic,mic,Pseudomonas aeruginosa,isolate 92014,10
+mic,mic,Pseudomonas aeruginosa,isolate CAN-ICU 62308,6
+mic,mic,Pseudomonas aeruginosa,isolate CANWARD-2011 96846,6
+mic,mic,Pseudomonas aeruginosa,isolate FADDI-PA070,3
+mic,mic,Pseudomonas aeruginosa,isolate OC14436,1
+mic,mic,Pseudomonas aeruginosa,isolate OC14551,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14551-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14551-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14552,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14805,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14806,1
+mic,mic,Pseudomonas aeruginosa,isolate OC14809,1
+mic,mic,Pseudomonas aeruginosa,isolate OC14812,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14812-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,isolate OC14812-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,isolate OC16827,5
+mic,mic,Pseudomonas aeruginosa,isolate OC16827-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,isolate OC16827-pMexXY,4
+mic,mic,Pseudomonas aeruginosa,isolate OC16827pMexZ,5
+mic,mic,Pseudomonas aeruginosa,isolate OC16829,1
+mic,mic,Pseudomonas aeruginosa,isolate OC16830,5
+mic,mic,Pseudomonas aeruginosa,isolate OC16830-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,isolate OC16830-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,isolate OC17349,5
+mic,mic,Pseudomonas aeruginosa,isolate OC17350,1
+mic,mic,Pseudomonas aeruginosa,isolate OC17353,1
+mic,mic,Pseudomonas aeruginosa,isolate OC17355,5
+mic,mic,Pseudomonas aeruginosa,isolate OC17355-pJAK16,5
+mic,mic,Pseudomonas aeruginosa,isolate OC17355-pMexZ,5
+mic,mic,Pseudomonas aeruginosa,isolate PA259-96918,3
+mic,mic,Pseudomonas aeruginosa,isolate PA260-97103,3
+mic,mic,Pseudomonas aeruginosa,isolate PA262-101856,3
+mic,mic,Pseudomonas aeruginosa,isolate PA264-104354,3
+mic,mic,Pseudomonas aeruginosa,isolate PA9704,3
+mic,mic,Pseudomonas aeruginosa,pfeA,2
+mic,mic,Pseudomonas aeruginosa,pirA,2
+mic,mic,Pseudomonas aeruginosa,pirA pfeA,2
+mic,mic,Pseudomonas aeruginosa,piuA,2
+mic,mic,Pseudomonas aeruginosa,piuA fptA,2
+mic,mic,Pseudomonas aeruginosa,piuA fpvA,2
+mic,mic,Pseudomonas aeruginosa,piuA pfeA,2
+mic,mic,Pseudomonas aeruginosa,piuA pfeA pirA,2
+mic,mic,Pseudomonas aeruginosa,piuA pirA,2
+mic,mic,Pseudomonas fluorescens,ATCC 13525,158
+mic,mic,Pseudomonas fluorescens,CFS 109,4
+mic,mic,Pseudomonas fluorescens,CFS 109,4
+mic,mic,Pseudomonas fluorescens,CFS 221,4
+mic,mic,Pseudomonas fluorescens,CFS 221,4
+mic,mic,Pseudomonas fluorescens,LZ002,25
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 158A,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 158A,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 217E,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 217E,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 290C,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 290C,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 314,4
+mic,mic,Pseudomonas pseudoalcaligenes,CFS 314,4
+mic,mic,Pseudomonas pseudoalcaligenes,CMX 663N,4
+mic,mic,Pseudomonas pseudoalcaligenes,CMX 663N,4
+mic,mic,Pseudomonas syringae,NCPPB 1918,16
+mic,mic,Pseudomonas syringae,pv tobaci,16
+mic,mic,Salmonella enterica,ATCC 19585,3
+mic,mic,Salmonella enterica serovar Typhimurium,701,17
+mic,mic,Salmonella enterica serovar Typhimurium,701,17
+mic,mic,Salmonella enterica serovar Typhimurium,ATCC 14028,1
+mic,mic,Salmonella enterica serovar Typhimurium,ATCC 43971,66
+mic,mic,Salmonella enterica serovar Typhimurium,ATCC 43971,66
+mic,mic,Salmonella enterica serovar Typhimurium,ZW004,2
+mic,mic,Salmonella enterica subsp. enterica,ATCC 19430,25
+mic,mic,Salmonella enterica subsp. enterica serovar Virchow,ATCC 5742,1
+mic,mic,Salmonella typhi,ATCC 19430,25
+mic,mic,Salmonella typhi,FW009,18
+mic,mic,Salmonella typhimurium,FW009,18
+mic,mic,Salmonella typhimurium,ZW004,2
+mic,mic,Serratia marcescens,1T9,4
+mic,mic,Serratia marcescens,88012710,4
+mic,mic,Serratia marcescens,A-1234,5
+mic,mic,Serratia marcescens,A-1234,5
+mic,mic,Serratia marcescens,ATCC 13880,1
+mic,mic,Serratia marcescens,ATCC 8100,6
+mic,mic,Serratia marcescens,S4336,5
+mic,mic,Serratia marcescens,S4336,5
+mic,mic,Serratia marcescens,S6,4
+mic,mic,Shigella boydii,FW007,16
+mic,mic,Shigella boydii,FW007,16
+mic,mic,Shigella boydii,ZW003,2
+mic,mic,Shigella boydii,ZW003,2
+mic,mic,Staphylococcus aureus,1775,61
+mic,mic,Staphylococcus aureus,20231,1
+mic,mic,Staphylococcus aureus,45,4
+mic,mic,Staphylococcus aureus,45 RAR2,4
+mic,mic,Staphylococcus aureus,601055,3
+mic,mic,Staphylococcus aureus,686B,4
+mic,mic,Staphylococcus aureus,80CR5,13
+mic,mic,Staphylococcus aureus,A-798,5
+mic,mic,Staphylococcus aureus,A-798,5
+mic,mic,Staphylococcus aureus,A5177,4
+mic,mic,Staphylococcus aureus,A5177,4
+mic,mic,Staphylococcus aureus,APNBTI-1R,3
+mic,mic,Staphylococcus aureus,"APNBTI-1R gyrA (D83N)
+APNBTI-2R gyrA (D83N) parC (D79N)",3
+mic,mic,Staphylococcus aureus,APNBTI-2R,3
+mic,mic,Staphylococcus aureus,APNBTI-2R gyrA (D83N) parC (D79N),3
+mic,mic,Staphylococcus aureus,ARC516,13
+mic,mic,Staphylococcus aureus,ARC517,14
+mic,mic,Staphylococcus aureus,ATCC 12598,16
+mic,mic,Staphylococcus aureus,ATCC 1556,1
+mic,mic,Staphylococcus aureus,ATCC 19636,133
+mic,mic,Staphylococcus aureus,ATCC 19636,88
+mic,mic,Staphylococcus aureus,ATCC 25923,222
+mic,mic,Staphylococcus aureus,ATCC 25923,289
+mic,mic,Staphylococcus aureus,ATCC 25924,1
+mic,mic,Staphylococcus aureus,ATCC 25925,1
+mic,mic,Staphylococcus aureus,ATCC 25926,1
+mic,mic,Staphylococcus aureus,ATCC 25927,1
+mic,mic,Staphylococcus aureus,ATCC 25928,1
+mic,mic,Staphylococcus aureus,ATCC 27660,9
+mic,mic,Staphylococcus aureus,ATCC 27660,9
+mic,mic,Staphylococcus aureus,ATCC 29213,1839
+mic,mic,Staphylococcus aureus,ATCC 29213,364
+mic,mic,Staphylococcus aureus,ATCC 29213 moir-R,4
+mic,mic,Staphylococcus aureus,ATCC 29213 norA up,8
+mic,mic,Staphylococcus aureus,ATCC 33591,7
+mic,mic,Staphylococcus aureus,ATCC 33592,6
+mic,mic,Staphylococcus aureus,ATCC 33592,18
+mic,mic,Staphylococcus aureus,ATCC 35556,255
+mic,mic,Staphylococcus aureus,ATCC 43300,47
+mic,mic,Staphylococcus aureus,ATCC 43300,44
+mic,mic,Staphylococcus aureus,ATCC 6538,156
+mic,mic,Staphylococcus aureus,ATCC 6538,123
+mic,mic,Staphylococcus aureus,ATCC 6538P,90
+mic,mic,Staphylococcus aureus,ATCC 6538P,29
+mic,mic,Staphylococcus aureus,ATCC 700698,3
+mic,mic,Staphylococcus aureus,ATCC 9144,89
+mic,mic,Staphylococcus aureus,ATCC 9144,59
+mic,mic,Staphylococcus aureus,ATCC BAA-1556,1
+mic,mic,Staphylococcus aureus,ATCC BAA-1720,5
+mic,mic,Staphylococcus aureus,ATCC BAA-976,5
+mic,mic,Staphylococcus aureus,ATCC6538,21
+mic,mic,Staphylococcus aureus,BAA-1720,5
+mic,mic,Staphylococcus aureus,BAA-44,63
+mic,mic,Staphylococcus aureus,BAA-976,5
+mic,mic,Staphylococcus aureus,CCARM 3114,5
+mic,mic,Staphylococcus aureus,CCARM 3114,5
+mic,mic,Staphylococcus aureus,CMX 503A,4
+mic,mic,Staphylococcus aureus,CMX 503A,4
+mic,mic,Staphylococcus aureus,CMX 553,4
+mic,mic,Staphylococcus aureus,CMX 553,4
+mic,mic,Staphylococcus aureus,CMX 686B,4
+mic,mic,Staphylococcus aureus,COL,23
+mic,mic,Staphylococcus aureus,COL OC3726,2
+mic,mic,Staphylococcus aureus,COL OC3726,2
+mic,mic,Staphylococcus aureus,Cowan I,16
+mic,mic,Staphylococcus aureus,FC001,4
+mic,mic,Staphylococcus aureus,FC006,4
+mic,mic,Staphylococcus aureus,FQ-R,5
+mic,mic,Staphylococcus aureus,FRI 100,3
+mic,mic,Staphylococcus aureus,FW001,23
+mic,mic,Staphylococcus aureus,FW001,23
+mic,mic,Staphylococcus aureus,GAB S,11
+mic,mic,Staphylococcus aureus,HC004,5
+mic,mic,Staphylococcus aureus,HC005,5
+mic,mic,Staphylococcus aureus,HIP11714,9
+mic,mic,Staphylococcus aureus,HIP11983,9
+mic,mic,Staphylococcus aureus,JE2,1
+mic,mic,Staphylococcus aureus,JE2,1
+mic,mic,Staphylococcus aureus,JM007,59
+mic,mic,Staphylococcus aureus,KCTC 1621,5
+mic,mic,Staphylococcus aureus,KMP9,23
+mic,mic,Staphylococcus aureus,LZ004,25
+mic,mic,Staphylococcus aureus,MRSA,74
+mic,mic,Staphylococcus aureus,MRSA isolate 1094,29
+mic,mic,Staphylococcus aureus,MS5935,3
+mic,mic,Staphylococcus aureus,MS5935,3
+mic,mic,Staphylococcus aureus,MS5935 grlA (S80F) gyrA (S84L) grlA (E84K) gyrA (E88V),3
+mic,mic,Staphylococcus aureus,MS5935 grlA (S80F) gyrA (S84L) grlA (E84K) gyrA (E88V),3
+mic,mic,Staphylococcus aureus,MSSA,15
+mic,mic,Staphylococcus aureus,Mu50,22
+mic,mic,Staphylococcus aureus,N175,5
+mic,mic,Staphylococcus aureus,N315,23
+mic,mic,Staphylococcus aureus,NCTC-10649M,62
+mic,mic,Staphylococcus aureus,NRS 70,62
+mic,mic,Staphylococcus aureus,NRS100,9
+mic,mic,Staphylococcus aureus,NRS100,9
+mic,mic,Staphylococcus aureus,NRS119,9
+mic,mic,Staphylococcus aureus,NRS119,9
+mic,mic,Staphylococcus aureus,NRS120,9
+mic,mic,Staphylococcus aureus,NRS120,9
+mic,mic,Staphylococcus aureus,NRS3,5
+mic,mic,Staphylococcus aureus,NRS70,77
+mic,mic,Staphylococcus aureus,NRS70,3
+mic,mic,Staphylococcus aureus,Newman,6
+mic,mic,Staphylococcus aureus,Newman,35
+mic,mic,Staphylococcus aureus,OC2878,2
+mic,mic,Staphylococcus aureus,OC2878,2
+mic,mic,Staphylococcus aureus,OC4172,2
+mic,mic,Staphylococcus aureus,OC4172,2
+mic,mic,Staphylococcus aureus,OITI 1-971,3
+mic,mic,Staphylococcus aureus,OITI 1-971,3
+mic,mic,Staphylococcus aureus,OM481,25
+mic,mic,Staphylococcus aureus,OM584,25
+mic,mic,Staphylococcus aureus,Oxford,16
+mic,mic,Staphylococcus aureus,RB001,15
+mic,mic,Staphylococcus aureus,RN4220,256
+mic,mic,Staphylococcus aureus,RN4220,41
+mic,mic,Staphylococcus aureus,RN4220 GyrA D83N,7
+mic,mic,Staphylococcus aureus,RN4220 GyrA D83N ParC D79N,7
+mic,mic,Staphylococcus aureus,RN4220 GyrA M121K,7
+mic,mic,Staphylococcus aureus,RN4220 GyrA Y87F,7
+mic,mic,Staphylococcus aureus,RN4220 GyrB D437N,2
+mic,mic,Staphylococcus aureus,RN4220 ParC S80F,1
+mic,mic,Staphylococcus aureus,RN4220 ParC S80F GyrA S84L,2
+mic,mic,Staphylococcus aureus,RN4220 overexpressing SaFabI,29
+mic,mic,Staphylococcus aureus,Rosenbach ATCC 43300,29
+mic,mic,Staphylococcus aureus,S1,5
+mic,mic,Staphylococcus aureus,SG511,7
+mic,mic,Staphylococcus aureus,SG511,7
+mic,mic,Staphylococcus aureus,SR004,5
+mic,mic,Staphylococcus aureus,SW005,4
+mic,mic,Staphylococcus aureus,SW006,8
+mic,mic,Staphylococcus aureus,Seattle 1945 (ATCC 25923),3
+mic,mic,Staphylococcus aureus,Smith,3
+mic,mic,Staphylococcus aureus,UC-76,24
+mic,mic,Staphylococcus aureus,UC-76 SA-1,24
+mic,mic,Staphylococcus aureus,USA100,5
+mic,mic,Staphylococcus aureus,VM004,15
+mic,mic,Staphylococcus aureus,VRS1,9
+mic,mic,Staphylococcus aureus,VRS2,9
+mic,mic,Staphylococcus aureus,isolate 1094,29
+mic,mic,Staphylococcus aureus,isolate OC11150,2
+mic,mic,Staphylococcus aureus,isolate OC11223,2
+mic,mic,Staphylococcus aureus,isolate OC11521,2
+mic,mic,Staphylococcus aureus,isolate OC11696,2
+mic,mic,Staphylococcus aureus,isolate OC12501,2
+mic,mic,Staphylococcus aureus,isolate OC15425,2
+mic,mic,Staphylococcus aureus,isolate OC17042,2
+mic,mic,Staphylococcus aureus,isolate OC2838,2
+mic,mic,Staphylococcus aureus,isolate OC4222,2
+mic,mic,Staphylococcus aureus,isolate OC8525,3
+mic,mic,Staphylococcus aureus,isolate OC8530,2
+mic,mic,Staphylococcus aureus,isolate OC8532,2
+mic,mic,Staphylococcus capitis,1,16
+mic,mic,Staphylococcus capitis,MG002,16
+mic,mic,Staphylococcus epidermidis,3519,4
+mic,mic,Staphylococcus epidermidis,61589,6
+mic,mic,Staphylococcus epidermidis,81388,6
+mic,mic,Staphylococcus epidermidis,ATCC 12228,16
+mic,mic,Staphylococcus epidermidis,ATCC 12228,16
+mic,mic,Staphylococcus epidermidis,ATCC 14990,63
+mic,mic,Staphylococcus epidermidis,ATCC 35547,9
+mic,mic,Staphylococcus epidermidis,ATCC 35547,9
+mic,mic,Staphylococcus epidermidis,ATCC 35984,8
+mic,mic,Staphylococcus epidermidis,ATCC 35984,10
+mic,mic,Staphylococcus epidermidis,FC005,4
+mic,mic,Staphylococcus epidermidis,isolate CAN-ICU 61589,6
+mic,mic,Staphylococcus epidermidis,isolate CANWARD-2008 81388,6
+mic,mic,Staphylococcus haemolyticus,ATCC 29970,9
+mic,mic,Staphylococcus heamolyticus,ATCC 29970,9
+mic,mic,Stenotrophomonas maltophilia,1057,17
+mic,mic,Stenotrophomonas maltophilia,1057,17
+mic,mic,Stenotrophomonas maltophilia,62584,6
+mic,mic,Stenotrophomonas maltophilia,88032285,6
+mic,mic,Stenotrophomonas maltophilia,AC739,20
+mic,mic,Stenotrophomonas maltophilia,AC739,20
+mic,mic,Stenotrophomonas maltophilia,ATCC 700475,13
+mic,mic,Stenotrophomonas maltophilia,B715,4
+mic,mic,Stenotrophomonas maltophilia,CMX 661E,4
+mic,mic,Stenotrophomonas maltophilia,CMX 661E,4
+mic,mic,Stenotrophomonas maltophilia,NB55011,2
+mic,mic,Stenotrophomonas maltophilia,isolate CAN-ICU 62584,6
+mic,mic,Streptococcus agalactiae,ATCC 13813,5
+mic,mic,Streptococcus agalactiae,ATCC 13813,5
+mic,mic,Streptococcus agalactiae,CMX 508,4
+mic,mic,Streptococcus agalactiae,CMX 508,4
+mic,mic,Streptococcus bovis,A-5169,58
+mic,mic,Streptococcus bovis,A5169,4
+mic,mic,Streptococcus bovis,A5169,4
+mic,mic,Streptococcus oralis,ATCC 9811,9
+mic,mic,Streptococcus oralis,ATCC 9811,9
+mic,mic,Streptococcus pneumoniae,A-70,4
+mic,mic,Streptococcus pneumoniae,A-70,4
+mic,mic,Streptococcus pneumoniae,ARC548,14
+mic,mic,Streptococcus pneumoniae,ATCC 10813,3
+mic,mic,Streptococcus pneumoniae,ATCC 49619,1308
+mic,mic,Streptococcus pneumoniae,ATCC 49619,81
+mic,mic,Streptococcus pneumoniae,ATCC-49619,4
+mic,mic,Streptococcus pneumoniae,IID553,3
+mic,mic,Streptococcus pneumoniae,IID553,3
+mic,mic,Streptococcus pneumoniae,IID554,3
+mic,mic,Streptococcus pneumoniae,IID554,3
+mic,mic,Streptococcus pneumoniae,JM002,59
+mic,mic,Streptococcus pneumoniae,KT2524,9
+mic,mic,Streptococcus pneumoniae,KU197,21
+mic,mic,Streptococcus pneumoniae,KU197,21
+mic,mic,Streptococcus pneumoniae,MH004,14
+mic,mic,Streptococcus pneumoniae,NB32022,2
+mic,mic,Streptococcus pneumoniae,NC9971,3
+mic,mic,Streptococcus pneumoniae,NC9971 parC (79Y) gyrA (S81F),3
+mic,mic,Streptococcus pneumoniae,OC6755,2
+mic,mic,Streptococcus pneumoniae,OC7452,2
+mic,mic,Streptococcus pneumoniae,OC7453,2
+mic,mic,Streptococcus pneumoniae,PenR,59
+mic,mic,Streptococcus pneumoniae,R6,13
+mic,mic,Streptococcus pneumoniae,R6,24
+mic,mic,Streptococcus pneumoniae,isolate OC5462,2
+mic,mic,Streptococcus pneumoniae,isolate OC6585,2
+mic,mic,Streptococcus pneumoniae,isolate OC6608,2
+mic,mic,Streptococcus pneumoniae,isolate OC6610,2
+mic,mic,Streptococcus pneumoniae,isolate OC6790,2
+mic,mic,Streptococcus pneumoniae,isolate OC7189,2
+mic,mic,Streptococcus pneumoniae,isolate OC7348,2
+mic,mic,Streptococcus pneumoniae,isolate OC7368,2
+mic,mic,Streptococcus pneumoniae,isolate OC7376,2
+mic,mic,Streptococcus pyogenes,2548 IND UC,4
+mic,mic,Streptococcus pyogenes,930,3
+mic,mic,Streptococcus pyogenes,930 CONST,4
+mic,mic,Streptococcus pyogenes,ARC838,5
+mic,mic,Streptococcus pyogenes,ARC838,5
+mic,mic,Streptococcus pyogenes,ATCC 12384,24
+mic,mic,Streptococcus pyogenes,ATCC 19615,29
+mic,mic,Streptococcus pyogenes,ATCC 19615,29
+mic,mic,Streptococcus pyogenes,ATCC 21547,16
+mic,mic,Streptococcus pyogenes,ATCC 21547,16
+mic,mic,Streptococcus pyogenes,ATCC 49399,9
+mic,mic,Streptococcus pyogenes,ATCC 49399,9
+mic,mic,Streptococcus pyogenes,ATCC 51339,73
+mic,mic,Streptococcus pyogenes,ATCC 51339,48
+mic,mic,Streptococcus pyogenes,ATCC 700294,13
+mic,mic,Streptococcus pyogenes,C-203 SP1-1,24
+mic,mic,Streptococcus pyogenes,EES61,62
+mic,mic,Streptococcus pyogenes,EES61,4
+mic,mic,Streptococcus pyogenes,FC002,4
+mic,mic,Streptococcus pyogenes,FC003,4
+mic,mic,Streptococcus pyogenes,FW011,1
+mic,mic,Streptococcus pyogenes,FW011,1
+mic,mic,Vibrio cholerae,El Tor A1552,62
+mic,mic,Vibrio cholerae,FW008,16
+mic,mic,Vibrio cholerae,FW008,16
+mic,mic,Vibrio cholerae,P4,4
+mic,mic,Vibrio cholerae,P4,4
+mic,mic,Vibrio cholerae,PW357,5
+mic,mic,Vibrio cholerae,PW357,5
+mic,mic,Vibrio cholerae,ZW001,2
+mic,mic,Vibrio cholerae,ZW001,2
+mic,mic,Yersinia enterocolitica,ATCC 23715,1125
+mic,mic,Yersinia pestis,Colorado 92,9992
+mic,mic,Yersinia pestis,Colorado 92 (NR-641),9992
+mic,mic,Yersinia pseudotuberculosis,EG001,1
+mic,mic,Yersinia pseudotuberculosis,IP2666 pIBI,62
+mic,mic,Yersinia pseudotuberculosis,YPIII,16
+mic,mic,Yersinia pseudotuberculosis,YPIII,16
+novartis,mic,Acinetobacter baumannii,NB48015,180
+novartis,mic,Acinetobacter baumannii,NB48015-XYL0003,183
+novartis,mic,Acinetobacter baumannii,NB48015-XYL0005,183
+novartis,mic,Burkholderia cepacia,NB49016,3
+novartis,mic,Enterococcus faecalis,ATCC 29212,850
+novartis,mic,Escherichia coli,ATCC 25922,1527
+novartis,mic,Escherichia coli,CGSC 11430,438
+novartis,mic,Escherichia coli,CGSC 14179,836
+novartis,mic,Escherichia coli,CGSC 6152,183
+novartis,mic,Escherichia coli,CGSC 7636,1345
+novartis,mic,Escherichia coli,CGSC 7851,183
+novartis,mic,Escherichia coli,MG1655,183
+novartis,mic,Escherichia coli,NB27005,183
+novartis,mic,Escherichia coli,NB27006,183
+novartis,mic,Escherichia coli,NB27007,183
+novartis,mic,Klebsiella pneumoniae,ATCC 700603,633
+novartis,mic,Klebsiella pneumoniae,G340,183
+novartis,mic,Klebsiella pneumoniae,GC7535,183
+novartis,mic,Neisseria gonorrhoeae,ATCC 49226,43
+novartis,mic,Pseudomonas aeruginosa,ATCC 27853,183
+novartis,mic,Pseudomonas aeruginosa,ATCC 35151,478
+novartis,mic,Pseudomonas aeruginosa,K1119,311
+novartis,mic,Pseudomonas aeruginosa,K1454,45
+novartis,mic,Pseudomonas aeruginosa,K1523,45
+novartis,mic,Pseudomonas aeruginosa,K1542,45
+novartis,mic,Pseudomonas aeruginosa,K2733,179
+novartis,mic,Pseudomonas aeruginosa,K2896,183
+novartis,mic,Pseudomonas aeruginosa,PAO1,1620
+novartis,mic,Staphylococcus aureus,ATCC 35556,255
+novartis,mic,Streptococcus pneumoniae,ATCC 49619,1215
+quave,unknown,Enterococcus faecalis,Vancomycin-R,4
+quave,unknown,Enterococcus faecium,Vancomycin-R,1
+quave,unknown,Klebsiella pneumoniae,ESBL-KP,3
+quave,unknown,Mycobacterium tuberculosis,MDR,4
+quave,unknown,Mycobacterium tuberculosis,XDR,9
+quave,unknown,Staphylococcus aureus,Erythromycin-R,1
+quave,unknown,Staphylococcus aureus,MDR,4
+quave,unknown,Staphylococcus aureus,MRSA,100
+quave,unknown,Staphylococcus aureus,NFLX,2
+quave,unknown,Staphylococcus aureus,Tetracyclin-R,2
+quave,unknown,Staphylococcus aureus,Vancomycin-I,2
+quave,unknown,Staphylococcus aureus,Vancomycin-R,2
+quave,unknown,Staphylococcus epidermidis,MRSA,1
+quave,unknown,Staphylococcus sp.,ORCNS,2
+quave,unknown,Staphylococcus sp.,OSCNS,3

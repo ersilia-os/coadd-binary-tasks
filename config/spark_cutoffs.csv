@@ -1,0 +1,184 @@
+source_file,assay_type,value_column,unit
+mic,mic,Curated & Transformed MIC Data: Subset Date,
+mic,mic,Curated & Transformed MIC Data: Subset Person,
+mic,mic,Curated & Transformed MIC Data: Subset Lab,
+mic,mic,Curated & Transformed MIC Data: Subset Conditions,
+mic,mic,Curated & Transformed MIC Data: Subset ELN Entry,
+mic,mic,Curated & Transformed MIC Data: Project Name,
+mic,mic,Curated & Transformed MIC Data: MIC (µg/mL),µg/mL
+mic,mic,Curated & Transformed MIC Data: MIC/GIC reported as,
+mic,mic,Curated & Transformed MIC Data: MIC value (µg/mL),µg/mL
+mic,mic,Curated & Transformed MIC Data: Test Article Type,
+mic,mic,Curated & Transformed MIC Data: MIC (in µM) (µM),µM
+mic,mic,Curated & Transformed MIC Data: Threshold of growth inhibition,
+mic,mic,Curated & Transformed MIC Data: pMIC,
+mic,mic,Curated & Transformed MIC Data: GIC (µg/mL),µg/mL
+mic,mic,Curated & Transformed MIC Data: GIC % inhibition,%
+mic,mic,Curated & Transformed MIC Data: Species,
+mic,mic,Curated & Transformed MIC Data: Strain,
+mic,mic,Curated & Transformed MIC Data: Strain - Other IDs,
+mic,mic,Curated & Transformed MIC Data: Clinical isolate?,
+mic,mic,Curated & Transformed MIC Data: Accumulation phenotype,
+mic,mic,Curated & Transformed MIC Data: Strain Genotype,
+mic,mic,Curated & Transformed MIC Data: Strain notes,
+mic,mic,Curated & Transformed MIC Data: Phenotype,
+mic,mic,Curated & Transformed MIC Data: Additives,
+mic,mic,Curated & Transformed MIC Data: Solvent,
+mic,mic,Curated & Transformed MIC Data: Solvent Amt. (%),%
+mic,mic,Curated & Transformed MIC Data: Condition,
+mic,mic,Curated & Transformed MIC Data: Media,
+mic,mic,Curated & Transformed MIC Data: Buffered?,
+mic,mic,Curated & Transformed MIC Data: Method used,
+mic,mic,Curated & Transformed MIC Data: Source,
+mic,mic,Curated & Transformed MIC Data: Source - Link to original data,
+mic,mic,Curated & Transformed MIC Data: DOI,
+mic,mic,Curated & Transformed MIC Data: Curator notes,
+mic,mic,Curated & Transformed MIC Data: Curation Date,
+accumulation,accumulation,Curated & Transformed Accumulation Data: Accumulated Compound (nmol/1E12 CFU),nmol
+accumulation,accumulation,Curated & Transformed Accumulation Data: Accumulated Compound (pg/1E9 CFU),pg
+accumulation,accumulation,Curated & Transformed Accumulation Data: Accumulated Compound (ng/mL),ng/mL
+accumulation,accumulation,Curated & Transformed Accumulation Data: Accumulated Compound (μM),
+co-add,mic,Curated & Transformed MIC Data: Subset Person,
+co-add,mic,Curated & Transformed MIC Data: Subset Conditions,
+co-add,mic,Curated & Transformed MIC Data: MIC (µg/mL),µg/mL
+co-add,mic,Curated & Transformed MIC Data: MIC/GIC reported as,
+co-add,mic,Curated & Transformed MIC Data: Test Article Type,
+co-add,mic,Curated & Transformed MIC Data: MIC (in µM) (µM),µM
+co-add,mic,Curated & Transformed MIC Data: Threshold of growth inhibition,
+co-add,mic,Curated & Transformed MIC Data: pMIC,
+co-add,mic,Curated & Transformed MIC Data: Species,
+co-add,mic,Curated & Transformed MIC Data: Strain,
+co-add,mic,Curated & Transformed MIC Data: Strain - Other IDs,
+co-add,mic,Curated & Transformed MIC Data: Clinical isolate?,
+co-add,mic,Curated & Transformed MIC Data: Accumulation phenotype,
+co-add,mic,Curated & Transformed MIC Data: Strain Genotype,
+co-add,mic,Curated & Transformed MIC Data: Strain notes,
+co-add,mic,Curated & Transformed MIC Data: Media,
+co-add,mic,Curated & Transformed MIC Data: Curation Date,
+co-add,inhibition,CO-ADD Single Concentration Data (Inhibition): Inhibition % (%),%
+achaogen,mic,Curated & Transformed MIC Data: Subset Person,
+achaogen,mic,Curated & Transformed MIC Data: Subset Conditions,
+achaogen,mic,Curated & Transformed MIC Data: MIC (µg/mL),µg/mL
+achaogen,mic,Curated & Transformed MIC Data: Test Article Type,
+achaogen,mic,Curated & Transformed MIC Data: MIC (in µM) (µM),µM
+achaogen,mic,Curated & Transformed MIC Data: Threshold of growth inhibition,
+achaogen,mic,Curated & Transformed MIC Data: pMIC,
+achaogen,mic,Curated & Transformed MIC Data: Species,
+achaogen,mic,Curated & Transformed MIC Data: Strain,
+achaogen,mic,Curated & Transformed MIC Data: Strain - Other IDs,
+achaogen,mic,Curated & Transformed MIC Data: Clinical isolate?,
+achaogen,mic,Curated & Transformed MIC Data: Accumulation phenotype,
+achaogen,mic,Curated & Transformed MIC Data: Strain Genotype,
+achaogen,mic,Curated & Transformed MIC Data: Strain notes,
+achaogen,mic,Curated & Transformed MIC Data: Additives,
+achaogen,mic,Curated & Transformed MIC Data: Solvent,
+achaogen,mic,Curated & Transformed MIC Data: Solvent Amt. (%),%
+achaogen,mic,Curated & Transformed MIC Data: Media,
+achaogen,mic,Curated & Transformed MIC Data: Method used,
+achaogen,mic,Curated & Transformed MIC Data: Source,
+achaogen,mic,Curated & Transformed MIC Data: Curation Date,
+achaogen,mic,Achaogen LpxC MIC Data: Subset Conditions,
+achaogen,mic,Achaogen LpxC MIC Data: MIC (ug/mL),ug/mL
+achaogen,mic,Achaogen LpxC MIC Data: MIC/GIC reported as,
+achaogen,mic,Achaogen LpxC MIC Data: Test Article Type,
+achaogen,mic,Achaogen LpxC MIC Data: Threshold of growth inhibition,
+achaogen,mic,Achaogen LpxC MIC Data: MIC (in uM) (uM),uM
+achaogen,mic,Achaogen LpxC MIC Data: Species,
+achaogen,mic,Achaogen LpxC MIC Data: pMIC,
+achaogen,mic,Achaogen LpxC MIC Data: Strain,
+achaogen,mic,Achaogen LpxC MIC Data: Solvent,
+achaogen,mic,Achaogen LpxC MIC Data: Solvent Amt. (%),%
+achaogen,mic,Achaogen LpxC MIC Data: Media,
+achaogen,mic,Achaogen LpxC MIC Data: Method used,
+achaogen,mic,Achaogen LpxC MIC Data: Source,
+achaogen,mic,Achaogen LpxC MIC Data: Curation Date,
+achaogen,ic50,Curated & Transformed IC50 Data: Subset Conditions,
+achaogen,ic50,Curated & Transformed IC50 Data: IC50 (nM),nM
+achaogen,ic50,Curated & Transformed IC50 Data: IC50 (uM) (uM),uM
+achaogen,ic50,Curated & Transformed IC50 Data: Test Article Type,
+achaogen,ic50,Curated & Transformed IC50 Data: pIC50,
+achaogen,ic50,Curated & Transformed IC50 Data: lower CI (nM),nM
+achaogen,ic50,Curated & Transformed IC50 Data: upper CI (nM),nM
+achaogen,ic50,Curated & Transformed IC50 Data: Target ID,
+achaogen,ic50,Curated & Transformed IC50 Data: Molecular Target Name,
+achaogen,ic50,Curated & Transformed IC50 Data: Molecular Target Synonym,
+achaogen,ic50,Curated & Transformed IC50 Data: Species,
+achaogen,ic50,Curated & Transformed IC50 Data: Target format,
+achaogen,ic50,Curated & Transformed IC50 Data: Source,
+achaogen,ic50,Curated & Transformed IC50 Data: Curation Date,
+achaogen,ic50,Achaogen Cytotox Data: IC50 (uM),uM
+achaogen,ic50,Achaogen Cytotox Data: IC50 Fit Error (uM),uM
+achaogen,ic50,Achaogen Cytotox Data: IC50 Std Dev (uM),uM
+achaogen,mic,Achaogen LpxC MIC50/90 data: Subset Conditions,
+achaogen,mic,Achaogen LpxC MIC50/90 data: MIC50 (ug/mL),ug/mL
+achaogen,mic,Achaogen LpxC MIC50/90 data: MIC90 (ug/mL),ug/mL
+achaogen,mic,Achaogen LpxC MIC50/90 data: Min MIC (ug/mL),ug/mL
+achaogen,mic,Achaogen LpxC MIC50/90 data: Max MIC (ug/mL),ug/mL
+achaogen,mic,Achaogen LpxC MIC50/90 data: Secondary Panel Name,
+achaogen,mic,Achaogen Pae Clinical Isolate Panel Data: MIC5 (ug/mL),ug/mL
+merck_kyorin,mic,Curated & Transformed MIC Data: Subset Person,
+merck_kyorin,mic,Curated & Transformed MIC Data: Subset Conditions,
+merck_kyorin,mic,Curated & Transformed MIC Data: Project Name,
+merck_kyorin,mic,Curated & Transformed MIC Data: MIC (µg/mL),µg/mL
+merck_kyorin,mic,Curated & Transformed MIC Data: MIC/GIC reported as,
+merck_kyorin,mic,Curated & Transformed MIC Data: Test Article Type,
+merck_kyorin,mic,Curated & Transformed MIC Data: MIC (in µM) (µM),µM
+merck_kyorin,mic,Curated & Transformed MIC Data: Threshold of growth inhibition,
+merck_kyorin,mic,Curated & Transformed MIC Data: pMIC,
+merck_kyorin,mic,Curated & Transformed MIC Data: Species,
+merck_kyorin,mic,Curated & Transformed MIC Data: Strain,
+merck_kyorin,mic,Curated & Transformed MIC Data: Strain - Other IDs,
+merck_kyorin,mic,Curated & Transformed MIC Data: Accumulation phenotype,
+merck_kyorin,mic,Curated & Transformed MIC Data: Strain Genotype,
+merck_kyorin,mic,Curated & Transformed MIC Data: Strain notes,
+merck_kyorin,mic,Curated & Transformed MIC Data: Solvent,
+merck_kyorin,mic,Curated & Transformed MIC Data: Solvent Amt. (%),%
+merck_kyorin,mic,Curated & Transformed MIC Data: Condition,
+merck_kyorin,mic,Curated & Transformed MIC Data: Media,
+merck_kyorin,mic,Curated & Transformed MIC Data: Method used,
+merck_kyorin,mic,Curated & Transformed MIC Data: Source,
+novartis,mic,Curated & Transformed MIC Data: Subset Person,
+novartis,mic,Curated & Transformed MIC Data: Subset Conditions,
+novartis,mic,Curated & Transformed MIC Data: Project Name,
+novartis,mic,Curated & Transformed MIC Data: MIC (µg/mL),µg/mL
+novartis,mic,Curated & Transformed MIC Data: MIC/GIC reported as,
+novartis,mic,Curated & Transformed MIC Data: Test Article Type,
+novartis,mic,Curated & Transformed MIC Data: MIC (in µM) (µM),µM
+novartis,mic,Curated & Transformed MIC Data: Threshold of growth inhibition,
+novartis,mic,Curated & Transformed MIC Data: pMIC,
+novartis,mic,Curated & Transformed MIC Data: GIC (µg/mL),µg/mL
+novartis,mic,Curated & Transformed MIC Data: GIC % inhibition,%
+novartis,mic,Curated & Transformed MIC Data: Species,
+novartis,mic,Curated & Transformed MIC Data: Strain,
+novartis,mic,Curated & Transformed MIC Data: Strain - Other IDs,
+novartis,mic,Curated & Transformed MIC Data: Clinical isolate?,
+novartis,mic,Curated & Transformed MIC Data: Accumulation phenotype,
+novartis,mic,Curated & Transformed MIC Data: Strain Genotype,
+novartis,mic,Curated & Transformed MIC Data: Solvent,
+novartis,mic,Curated & Transformed MIC Data: Solvent Amt. (%),%
+novartis,mic,Curated & Transformed MIC Data: Condition,
+novartis,mic,Curated & Transformed MIC Data: Media,
+novartis,mic,Curated & Transformed MIC Data: Method used,
+novartis,mic,Curated & Transformed MIC Data: Source,
+novartis,ic50,Curated & Transformed IC50 Data: Subset Person,
+novartis,ic50,Curated & Transformed IC50 Data: Subset Conditions,
+novartis,ic50,Curated & Transformed IC50 Data: Project Name,
+novartis,ic50,Curated & Transformed IC50 Data: IC50 reported as,
+novartis,ic50,Curated & Transformed IC50 Data: IC50 (uM) (uM),uM
+novartis,ic50,Curated & Transformed IC50 Data: Test Article Type,
+novartis,ic50,Curated & Transformed IC50 Data: n,
+novartis,ic50,Curated & Transformed IC50 Data: pIC50,
+novartis,ic50,Curated & Transformed IC50 Data: Target ID,
+novartis,ic50,Curated & Transformed IC50 Data: Molecular Target Name,
+novartis,ic50,Curated & Transformed IC50 Data: Molecular Target Synonym,
+novartis,ic50,Curated & Transformed IC50 Data: Species,
+novartis,ic50,Curated & Transformed IC50 Data: SWISSPROT ID,
+novartis,ic50,Curated & Transformed IC50 Data: Additives/ Buffer,
+novartis,ic50,Curated & Transformed IC50 Data: Source,
+quave,mic,Porras 2020 Chem. Rev. XX:XXXX: MIC value (µg/mL),µg/mL
+quave,mic,Porras 2020 Chem. Rev. XX:XXXX: MIC (in µM) (µM),µM
+quave,mic,Porras 2020 Chem. Rev. XX:XXXX: pMIC,
+quave,mic,Porras 2020 Chem. Rev. XX:XXXX: Super chemical class,
+quave,mic,Porras 2020 Chem. Rev. XX:XXXX: Chemical class,
+quave,mic,Porras 2020 Chem. Rev. XX:XXXX: Subchemical class,
+quave,mic,Chassagne 2020 Front. Pharmacol. 11:586548: MIC value (µg/mL),µg/mL

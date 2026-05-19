@@ -1,0 +1,12 @@
+assay_type,value_group,unit,n_compounds
+inhib,20 uM,%,1100
+inhib,25 uM,%,1700
+inhib,300 ug/mL,%,18005
+inhib,32 ug/mL,%,76466
+inhib,32 ug/mL; 32 ug/mL,%,119
+inhib,32 ug/mL; 51.2 ug/mL,%,1861
+inhib,32 ug/mL; 64 ug/mL,%,1861
+inhib,64 ug/mL,%,353
+inhib,80 ug/mL,%,954
+mic,uM,uM,1082
+mic,ug/mL,ug/mL,3687
