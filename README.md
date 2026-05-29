@@ -1,3 +1,7 @@
+This project has been financed by Project PID2023-148309OA-I00 funded by MICIU/AEI/10.13039/501100011033 and by ERDF, EU.
+
+<img width="300" alt="miciu_cofinanciado" src="https://github.com/user-attachments/assets/f26e0bb0-b268-4253-8695-7c8a093f0e0b" />
+
 # CoADD  Binary Tasks
 
 Binary classification tasks for antimicrobial drug discovery, derived from the [CO-ADD](https://co-add.org) dataset.
