@@ -95,7 +95,7 @@ for model_key in sorted(os.listdir(models_dir)):
 
 print(f"Matching models (inhib_50 / mic_25 only): {len(matching)}")
 for entry in matching:
-    print(f"  {entry[4]}")
+    print(entry)
 
 # ---------------------------------------------------------------------------
 # Predict and save flat JSON per model
