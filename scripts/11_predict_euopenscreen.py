@@ -11,7 +11,8 @@ For each matching model:
      (same format as 07 sample JSONs, extended with y_rank)
   3. Skip if prediction JSON already exists (checkpoint)
 
-Per-pathogen plot: score distributions and pairwise rank scatter across models.
+Per-pathogen plot: one score histogram per strain (inhib/mic measures overlaid)
+and, below each, an inhib-vs-mic rank scatter for that same strain.
 
 Output: output/11_predict_euopenscreen/
   11_{model_key}_predictions.json
@@ -49,6 +50,10 @@ EUOPENSCREEN_PATHOS = {
 }
 
 CUTOFF_FILTER = {"inhib": "50", "mic": "25"}
+
+# Scatter plots overplot badly with ~106k points; uniformly subsample for display.
+SCATTER_SAMPLE = 10000
+SCATTER_SEED   = 42
 
 euos_dir   = os.path.join(root, "..", "data", "raw", "eu-openscreen")
 models_dir = os.path.join(root, "..", "output", "models")
@@ -133,55 +138,90 @@ for patho, strain, assay, cutoff, model_key, _ in matching:
     if os.path.exists(pred_path):
         patho_models[patho].append({
             "model_key": model_key,
+            "strain":    strain,
             "assay":     assay,
+            "cutoff":    cutoff,
             "pred_path": pred_path,
         })
 
+# One colour per measure, consistent across strains.
+MEASURE_COLORS = {"inhib": nc.blue, "mic": nc.orange}
 
-def plot_score_histogram(ax, y_score, title, color):
-    ax.hist(y_score, bins=50, color=color, edgecolor="none", alpha=0.8)
+
+def plot_score_histograms(ax, measures, title):
+    """Overlay the y_score distribution of each measure (inhib/mic) for a strain."""
+    for label, data, color in measures:
+        ax.hist(data["y_score"], bins=50, color=color, edgecolor="none",
+                alpha=0.6, label=label)
+    ax.legend()
     st.label(ax, xlabel="y_score", ylabel="Count", title=title)
 
 
-def plot_rank_scatter(ax, y_rank_a, y_rank_b, label_a, label_b):
-    combined = np.array(y_rank_a) + np.array(y_rank_b)
-    cm = st.FadingColormap("plum")
-    cm.fit(combined)
-    colors = cm.transform(combined)
-    ax.scatter(y_rank_a, y_rank_b, c=colors, alpha=0.15, edgecolors="none",
-               rasterized=True)
-    st.label(ax, xlabel=label_a, ylabel=label_b, title="Rank comparison")
+def plot_rank_scatter(ax, y_rank_x, y_rank_y, label_x, label_y):
+    x = np.array(y_rank_x)
+    y = np.array(y_rank_y)
 
+    # Uniformly subsample for display — the same indices on both axes.
+    if x.size > SCATTER_SAMPLE:
+        rng = np.random.default_rng(SCATTER_SEED)
+        idx = rng.choice(x.size, size=SCATTER_SAMPLE, replace=False)
+        x, y = x[idx], y[idx]
 
-palette_colors = [nc.plum, nc.mint, nc.orange, nc.blue]
+    ax.scatter(x, y, color=nc.plum, s=st.MARKERSIZE_SMALL, alpha=0.4,
+               edgecolors="none", rasterized=True)
+    st.label(ax, xlabel=label_x, ylabel=label_y)
+
 
 for patho, models in sorted(patho_models.items()):
-    n = len(models)
-    n_panels = n + (1 if n >= 2 else 0)
-    _, axs = st.create_figure(1, n_panels, width=0.5)
+    # Group models by strain, preserving discovery order.
+    strains = []
+    by_strain = defaultdict(dict)   # strain -> {assay: model}
+    for m in models:
+        if m["strain"] not in by_strain:
+            strains.append(m["strain"])
+        by_strain[m["strain"]][m["assay"]] = m
 
-    loaded = []
+    cache = {}
     for m in models:
         with open(m["pred_path"]) as fh:
-            data = json.load(fh)
-        loaded.append((m, data))
+            cache[m["model_key"]] = json.load(fh)
 
-    for i, (m, data) in enumerate(loaded):
-        ax = axs.next()
-        plot_score_histogram(ax, data["y_score"], m["model_key"],
-                             palette_colors[i % len(palette_colors)])
+    # Each strain gets a histogram (its measures overlaid). A strain also gets a
+    # rank scatter — inhib vs mic, directly below its histogram — only when both
+    # measures exist. We never compare across strains.
+    has_scatter = any({"inhib", "mic"} <= set(by_strain[s]) for s in strains)
+    nrows = 2 if has_scatter else 1
+    # A single strain is one narrow column — don't stretch it to full width.
+    fig_kw = {"width": 0.5} if len(strains) == 1 else {}
+    _, axs = st.create_figure(nrows, len(strains), **fig_kw)
 
-    if n >= 2:
+    # Row 1: one histogram per strain, measures overlaid with a legend.
+    for s in strains:
         ax = axs.next()
-        m_a, data_a = loaded[0]
-        m_b, data_b = loaded[1]
-        plot_rank_scatter(
-            ax,
-            data_a["y_rank"],
-            data_b["y_rank"],
-            label_a=m_a["model_key"],
-            label_b=m_b["model_key"],
-        )
+        measures = []
+        for assay in ("inhib", "mic"):
+            if assay in by_strain[s]:
+                m = by_strain[s][assay]
+                measures.append((f"{assay}_{m['cutoff']}",
+                                 cache[m["model_key"]], MEASURE_COLORS[assay]))
+        plot_score_histograms(ax, measures, title=s)
+
+    # Row 2: one inhib-vs-mic scatter per strain (blank where a measure is missing).
+    if has_scatter:
+        for s in strains:
+            ax = axs.next()
+            if {"inhib", "mic"} <= set(by_strain[s]):
+                m_i = by_strain[s]["inhib"]
+                m_m = by_strain[s]["mic"]
+                plot_rank_scatter(
+                    ax,
+                    cache[m_i["model_key"]]["y_rank"],
+                    cache[m_m["model_key"]]["y_rank"],
+                    label_x=f"inhib_{m_i['cutoff']} rank",
+                    label_y=f"mic_{m_m['cutoff']} rank",
+                )
+            else:
+                ax.axis("off")
 
     out = os.path.join(output_dir, f"11_{patho}_model_comparison.png")
     st.save_figure(out)
