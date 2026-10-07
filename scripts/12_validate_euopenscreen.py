@@ -121,6 +121,14 @@ for pred_path in pred_files:
     # Keep only definitive labels.
     df = df[df["bin"].isin([0, 1])]
 
+    # Drop compounds the model could not score. lazyqsar returns NaN for SMILES RDKit
+    # cannot parse rather than scoring them anyway; in this library that is 19 carborane
+    # cages out of 106,317 (0.018%), the same ones for every model. roc_auc_score raises
+    # on NaN, so they are removed here instead of poisoning the whole AUROC.
+    n_unscored = int(df["y_hat"].isna().sum())
+    if n_unscored:
+        df = df[df["y_hat"].notna()]
+
     n_eval = len(df)
     n_active = int((df["bin"] == 1).sum())
     if df["bin"].nunique() < 2:
@@ -132,6 +140,7 @@ for pred_path in pred_files:
     roc_curves[model_key] = (fpr, tpr)
 
     results.append({
+        "n_unscored":       n_unscored,
         "model_key":        model_key,
         "patho":            patho,
         "strain":           strain,

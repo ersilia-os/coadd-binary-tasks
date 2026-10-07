@@ -17,8 +17,13 @@ Output structure:
 
 Run with:
   conda run -n lazyqsar python scripts/07_lq_coadd.py
+
+Parallel runs: train disjoint subsets with --only KEY[,KEY...] --train-only (KEY is the
+model folder name, e.g. saureus_ATCC43300_inhib_50), then run once without flags to
+collect every CV report into the summary, plots and ChEMBL-sample predictions.
 """
 
+import argparse
 import os
 import sys
 import json
@@ -39,6 +44,14 @@ from src.plotting_utils import plot_class_balance, plot_roc_folds, plot_scores, 
 # ---------------------------------------------------------------------------
 N_FOLDS       = 5
 MIN_POSITIVES = 20   # skip a cutoff if fewer active compounds than this
+
+parser = argparse.ArgumentParser(description="Train LazyQSAR models for CoADD datasets.")
+parser.add_argument("--only", default=None,
+                    help="Comma-separated model keys to train; all others are skipped")
+parser.add_argument("--train-only", action="store_true",
+                    help="Stop after training, before the summary, plots and predictions")
+args = parser.parse_args()
+ONLY = set(args.only.split(",")) if args.only else None
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -116,6 +129,9 @@ for _, ds in sel.iterrows():
         n_pos = int(sum(y))
         n_neg = n_tot - n_pos
 
+        if ONLY is not None and f"{patho}_{strain}_{assay}_{cutoff_val}" not in ONLY:
+            continue
+
         if n_pos < MIN_POSITIVES:
             print(f"  [{tier} / {col}] Too few positives ({n_pos}), skipping.")
             continue
@@ -171,6 +187,10 @@ for _, ds in sel.iterrows():
             "cv_auc_mean":  round(mean_auc, 4),
             "cv_auc_std":   round(std_auc, 4),
         })
+
+if args.train_only:
+    print("\nTraining done (--train-only).")
+    sys.exit(0)
 
 # ---------------------------------------------------------------------------
 # Summary CSV
