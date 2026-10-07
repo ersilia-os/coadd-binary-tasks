@@ -27,8 +27,13 @@ Part 3 — Spearman correlation: cytotoxicity vs bioactivity
 
 Run with:
   conda run -n lazyqsar python scripts/08_lq_cytotox.py
+
+Parallel runs: train subsets with --only KEY[,KEY...] --train-only (KEY e.g. cc50_25),
+then run once without flags for the summary, plots and predictions. Part 3 reads
+step 07's 07_model_prediction_correlation.csv, so the final run goes after step 07.
 """
 
+import argparse
 import json
 import os
 import sys
@@ -56,6 +61,14 @@ from src.plotting_utils import (
 N_FOLDS       = 5
 MIN_POSITIVES = 20
 CUTOFFS       = [10, 25, 50]
+
+parser = argparse.ArgumentParser(description="Train LazyQSAR cytotoxicity models.")
+parser.add_argument("--only", default=None,
+                    help="Comma-separated model keys to train; all others are skipped")
+parser.add_argument("--train-only", action="store_true",
+                    help="Stop after training, before the summary, plots and predictions")
+args = parser.parse_args()
+ONLY = set(args.only.split(",")) if args.only else None
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -106,6 +119,9 @@ for assay_name, cfg in DATASETS.items():
         n_tot = len(y)
         n_pos = int(sum(y))
         n_neg = n_tot - n_pos
+
+        if ONLY is not None and f"{assay_name}_{cutoff}" not in ONLY:
+            continue
 
         if n_pos < MIN_POSITIVES:
             print(f"  [{col}] Too few positives ({n_pos}), skipping.")
@@ -164,6 +180,10 @@ for assay_name, cfg in DATASETS.items():
             "cutoff":      cutoff,
             "report_path": cv_path,
         })
+
+if args.train_only:
+    print("\nTraining done (--train-only).")
+    sys.exit(0)
 
 if summary_rows:
     pd.DataFrame(summary_rows).to_csv(

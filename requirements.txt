@@ -1,0 +1,15 @@
+# Environment for scripts 07, 08, 11 and 12 (conda env `lazyqsar`, Python 3.12).
+# Fetch the descriptor checkpoints and the rank reference library once with
+#   lazyqsar setup --descriptors --reference
+# On macOS run with OMP_NUM_THREADS=1: with more threads torch's and xgboost's libomp
+# copies deadlock or segfault during the chemeleon descriptor.
+lazyqsar[all]==3.6.1
+numpy==2.1.3
+pandas==2.3.0
+scikit-learn==1.9.1
+scipy==1.17.1
+rdkit==2025.9.1
+standardiser==0.1.9
+stylia==1.0.1
+matplotlib==3.11.2
+tqdm==4.70.1
