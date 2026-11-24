@@ -3,7 +3,7 @@
 #   lazyqsar setup --descriptors --reference
 # On macOS run with OMP_NUM_THREADS=1: with more threads torch's and xgboost's libomp
 # copies deadlock or segfault during the chemeleon descriptor.
-lazyqsar[all]==3.6.1
+lazyqsar[all]==3.9.2
 numpy==2.1.3
 pandas==2.3.0
 scikit-learn==1.9.1
